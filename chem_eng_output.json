@@ -1,0 +1,220 @@
+[
+  {
+    "course_id": "MA1001E",
+    "course_title": "Mathematics I",
+    "raw_references": [
+      "H. Anton, I. Bivens & S. Davis, Calculus, 10th Edn., Wiley, 2015",
+      "G. B. Thomas et al., Thomas' Calculus, 12th Edn., Pearson, 2015",
+      "E. Kreyszig, Advanced Engineering Mathematics, 10th Edn., Wiley, 2015",
+      "Apostol, Calculus Vol 1, Wiley, 2014"
+    ]
+  },
+  {
+    "course_id": "MA1011E",
+    "course_title": "Mathematics II",
+    "raw_references": [
+      "E. Kreyszig, Advanced Engineering Mathematics, 10th Edn., Wiley, 2015",
+      "H. Anton et al., Calculus, 10th Edn., Wiley, 2015",
+      "P. Dyke, Introduction to Laplace Transforms and Fourier Series, Springer"
+    ]
+  },
+  {
+    "course_id": "MA2005E",
+    "course_title": "Mathematics III",
+    "raw_references": [
+      "E. Kreyszig, Advanced Engineering Mathematics, Wiley, 9th Edn., 2012",
+      "M. D. Raisinghania, Ordinary and Partial Differential Equations, S. Chand, 20th Edn., 2020",
+      "M. K. Jain et al., Numerical Methods for Scientific and Engineering Computation, 8th Edn., New Age International, 2022"
+    ]
+  },
+  {
+    "course_id": "MA2015E",
+    "course_title": "Mathematics IV",
+    "raw_references": [
+      "S. Ross, A First Course in Probability, 9th Edn., Pearson, 2014",
+      "R. A. Johnson, Miller and Freund's Probability and Statistics for Engineers, 8th Edn., PHI, 2011",
+      "D. C. Montgomery & G. C. Runger, Applied Statistics and Probability for Engineers, 7th Edn., 2019"
+    ]
+  },
+  {
+    "course_id": "CY1005E",
+    "course_title": "Chemistry I",
+    "raw_references": [
+      "P. Atkins & J. Paula, Physical Chemistry, 8th Edn., Freeman, 2006",
+      "J. E. Huheey et al., Inorganic Chemistry, Pearson India, 2009",
+      "J. Bard & L. R. Faulkner, Electrochemical Methods, 2nd Edn., Wiley, 2001"
+    ]
+  },
+  {
+    "course_id": "PH1001E",
+    "course_title": "Physics of Materials",
+    "raw_references": [
+      "Beiser, Concepts of Modern Physics, 6th Edn., McGraw-Hill, 2009",
+      "K. Krane, Modern Physics, 4th Indian Edn., Wiley, 2021",
+      "M. A. Wahab, Solid State Physics, 3rd Edn., Narosa, 2015"
+    ]
+  },
+  {
+    "course_id": "CH1001E",
+    "course_title": "Professional Ethics",
+    "raw_references": [
+      "R. S. Naagarazan, Textbook on Professional Ethics and Human Values, 3rd Edn., New Age International, 2022",
+      "A. F. Bainbridge, Ethics for Engineers, CRC Press, 2021",
+      "C. E. Harris Jr. et al., Engineering Ethics: Concepts and Cases, Cengage, 6th Edn., 2019",
+      "AIChE Code of Ethics, American Institute of Chemical Engineers, New York"
+    ]
+  },
+  {
+    "course_id": "MS1001E",
+    "course_title": "Professional Communication",
+    "raw_references": [
+      "N. Bhatnagar, Communicative English for Engineers and Professionals, Dorling Kindersley, 2010",
+      "B. A. Garner, HBR Guide to Better Business Writing, Harvard Business Review Press, 2012",
+      "S. Kumar & P. Lata, Communication Skills, Oxford University Press, 2015"
+    ]
+  },
+  {
+    "course_id": "CH1002E",
+    "course_title": "Material and Energy Balance",
+    "raw_references": [
+      "K. V. Narayanan & B. Lakshmikuttyamma, Stoichiometry & Process Calculations, 2nd Edn., PHI, 2016",
+      "D. H. Himmelblau, Basic Principles and Calculations in Chemical Engineering, 8th Edn., PHI, 2014",
+      "R. M. Felder & R. W. Rousseau, Elementary Principles of Chemical Processes, 3rd Edn., Wiley, 2008"
+    ]
+  },
+  {
+    "course_id": "CH1003E",
+    "course_title": "Elements of Biotechnology",
+    "raw_references": [
+      "C. Ratledge & B. Kristiansen, Basic Biotechnology, 3rd Edn., Cambridge, 2006",
+      "W. J. Thieman & M. A. Palladino, Introduction to Biotechnology, 4th Edn., Pearson, 2021",
+      "S. C. Bhatia, Textbook of Biotechnology, Atlantic Publishers, 2005"
+    ]
+  },
+  {
+    "course_id": "CH1091E",
+    "course_title": "Chemical Analysis Lab",
+    "raw_references": [
+      "R. Gopalan et al., Textbook of Engineering Chemistry, 4th Edn., Vikas, 2013",
+      "G. H. Jeffery et al., Vogel's Textbook of Quantitative Chemical Analysis, 5th Edn., Longman, 1989",
+      "R. B. Baird, Standard Methods for the Examination of Water and Wastewater, 23rd Edn., APHA, 2017"
+    ]
+  },
+  {
+    "course_id": "CY1006E",
+    "course_title": "Chemistry II",
+    "raw_references": [
+      "C. N. Banwell & E. M. McCash, Fundamentals of Molecular Spectroscopy, 5th Edn., McGraw Hill, 2013",
+      "R. M. Silverstein et al., Spectrometric Identification of Organic Compounds, 7th Edn., Wiley, 2005",
+      "F. A. Carey & R. J. Sundberg, Advanced Organic Chemistry Parts A & B, 5th Edn., Springer, 2008"
+    ]
+  },
+  {
+    "course_id": "CH1004E",
+    "course_title": "Introduction to Computing",
+    "raw_references": [
+      "E. Balaguruswamy, Object Oriented Programming with C++, 8th Edn., Tata McGraw Hill, 2020",
+      "S. S. Sastry, Introductory Methods of Numerical Analysis, 5th Edn., PHI, 2012",
+      "H. M. Dietel & P. J. Dietel, C++ How to Program, 10th Edn., Prentice Hall, 2016"
+    ]
+  },
+  {
+    "course_id": "CH1005E",
+    "course_title": "Process Fluid Mechanics",
+    "raw_references": [
+      "W. L. McCabe, J. C. Smith & P. Harriott, Unit Operations of Chemical Engineering, 7th Edn., McGraw-Hill, 2017",
+      "Y. A. Cengel & J. M. Cimbala, Fluid Mechanics, 4th Edn., McGraw-Hill, 2019",
+      "N. H. De Nevers, Fluid Mechanics for Chemical Engineers, 3rd Edn., McGraw-Hill, 2004"
+    ]
+  },
+  {
+    "course_id": "CH1006E",
+    "course_title": "Mechanical Operations",
+    "raw_references": [
+      "W. L. McCabe, J. C. Smith & P. Harriott, Unit Operations of Chemical Engineering, 7th Edn., McGraw-Hill, 2022",
+      "J. M. Coulson & J. F. Richardson, Chemical Engineering Vol. II, 5th Edn., Butterworth-Heinemann, 2002",
+      "L. Svarovsky, Solid-Liquid Separation, 4th Edn., Butterworth-Heinemann, 2000"
+    ]
+  },
+  {
+    "course_id": "CH2001E",
+    "course_title": "Process Heat Transfer",
+    "raw_references": [
+      "J. M. Coulson & J. F. Richardson, Chemical Engineering Vol. 1, 6th Edn., Butterworth-Heinemann, 1999",
+      "D. Q. Kern, Process Heat Transfer, McGraw Hill, 2001",
+      "F. P. Incropera et al., Incropera's Principles of Heat and Mass Transfer, 8th Edn., Wiley, 2017"
+    ]
+  },
+  {
+    "course_id": "CH2002E",
+    "course_title": "Materials Science",
+    "raw_references": [
+      "Callister, Materials Science and Engineering: An Introduction, 10th Edn., Wiley, 2020",
+      "J. F. Shackelford, Introduction to Materials Science for Engineers, 8th Edn., Pearson, 2015",
+      "V. Raghavan, Material Science and Engineering, 6th Edn., PHI, 1996"
+    ]
+  },
+  {
+    "course_id": "CH2003E",
+    "course_title": "Chemical Engineering Thermodynamics",
+    "raw_references": [
+      "J. M. Smith, H. C. Van Ness & M. M. Abbott, Introduction to Chemical Engineering Thermodynamics, 8th Edn., McGraw Hill, 2018",
+      "S. I. Sandler, Chemical, Biochemical and Engineering Thermodynamics, 5th Edn., Wiley India, 2017",
+      "Y. A. Cengel & M. A. Boles, Thermodynamics: An Engineering Approach, 8th Edn., McGraw Hill, 2015"
+    ]
+  },
+  {
+    "course_id": "CH2004E",
+    "course_title": "Chemical Reaction Engineering",
+    "raw_references": [
+      "H. S. Fogler, Elements of Chemical Reaction Engineering, 5th Edn., PHI, 2016",
+      "O. Levenspiel, Chemical Reaction Engineering, 3rd Edn., Wiley, 1996",
+      "G. F. Froment & K. B. Bischoff, Chemical Reactor Analysis and Design, 3rd Edn., Wiley, 2010"
+    ]
+  },
+  {
+    "course_id": "CH2005E",
+    "course_title": "Mass Transfer Operations",
+    "raw_references": [
+      "C. J. Geankoplis et al., Transport Processes and Separation Process Principles, 5th Edn., PHI, 2018",
+      "W. L. McCabe, J. C. Smith & P. Harriott, Unit Operations of Chemical Engineering, 7th Edn., McGraw Hill, 2017",
+      "R. E. Treybal, Mass Transfer Operations, 3rd Edn., McGraw Hill, 2017"
+    ]
+  },
+  {
+    "course_id": "CH3001E",
+    "course_title": "Process Instrumentation and Control",
+    "raw_references": [
+      "D. R. Coughanowr & S. E. LeBlanc, Process System Analysis and Control, 3rd Edn., McGraw Hill, 2017",
+      "D. E. Seborg et al., Process Dynamics and Control, 4th Edn., Wiley, 2016",
+      "B. W. Bequette, Process Control: Modelling, Design and Simulation, 2nd Edn., Pearson, 2023"
+    ]
+  },
+  {
+    "course_id": "CH3002E",
+    "course_title": "Chemical Technology",
+    "raw_references": [
+      "G. T. Austin, Shreve's Chemical Process Industries, 5th Edn., McGraw Hill, 1985",
+      "R. G. Rao & M. Sittig, Dryden's Outlines of Chemical Technology, 3rd Edn., Affiliated East-West Publishers, 1997",
+      "J. R. Wagner, A Handbook of Chemical Technology, Legare Street Press, 2022"
+    ]
+  },
+  {
+    "course_id": "CH3003E",
+    "course_title": "Chemical Process Equipment Design",
+    "raw_references": [
+      "B. C. Bhattacharya, Introduction to Chemical Equipment Design — Mechanical Aspects, CBS Publishers, 1985",
+      "L. E. Brownell & E. H. Young, Process Equipment Design, Wiley Eastern, 1968",
+      "R. H. Perry & D. W. Green, Chemical Engineers Handbook, 8th Edn., McGraw Hill, 2007"
+    ]
+  },
+  {
+    "course_id": "CH3004E",
+    "course_title": "Transport Phenomena",
+    "raw_references": [
+      "R. B. Bird, W. E. Stewart & E. W. Lightfoot, Transport Phenomena, 2nd Edn., Wiley, 2018",
+      "J. R. Wilty et al., Fundamentals of Momentum, Heat and Mass Transfer, 5th Edn., Wiley, 2010",
+      "C. J. Geankoplis, Transport Processes and Separation Processes Principles, 4th Edn., Pearson, 2018"
+    ]
+  }
+]

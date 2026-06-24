@@ -1,0 +1,196 @@
+[
+  {
+    "course_id": "MA1003E",
+    "course_title": "MATHEMATICS I",
+    "raw_references": [
+      "Anton, H., Bivens, I., and Davis, S., 2015, Calculus, 10th ed., John Wiley & Sons.",
+      "Thomas, G. B., Weir, M.D., and Hass, J., 2015, Thomas' Calculus, 12th ed., India: Pearson Education.",
+      "Kreyszig, E., 2015, Advanced Engineering Mathematics, 10th ed., John Wiley & Sons.",
+      "G. Strang, 2016, Introduction to Linear Algebra, Wellesley-Cambridge Press, Wellesley."
+    ]
+  },
+  {
+    "course_id": "PH1002E",
+    "course_title": "MECHANICS AND WAVES",
+    "raw_references": [
+      "D. J. Morin, 2008, Introduction to Classical Mechanics: With Problems and Solutions, Cambridge University Press.",
+      "D. Kleppner and R. J. Kolenkow, 2017, An Introduction to Mechanics (1st Edition), McGraw Hill.",
+      "Spiegel M. R., 2017, Theoretical Mechanics, (Schaum Series), McGraw Hill.",
+      "D. Halliday, R. Resnick and J. Walker, 2013, Fundamentals of Physics (10th Edition), John Wiley & Sons.",
+      "F. L. Pedrotti, L. M. Pedrotti and L. S. Pedrotti, 2017, Introduction to Optics, Cambridge University Press."
+    ]
+  },
+  {
+    "course_id": "MS1001E",
+    "course_title": "PROFESSIONAL COMMUNICATION",
+    "raw_references": [
+      "Bhatnagar, N., and Bhatnagar, M., 2010, Communicative English for engineers and professionals. Dorling Kindersley.",
+      "Foley, M., and Hall, D., 2018, Longman advanced learners' grammar, Pearson Education.",
+      "Garner, B. A., 2012, HBR Guide to better business writing, Harvard Business Review Press.",
+      "Hewings, M., 2013, Advanced grammar in use, Cambridge University Press.",
+      "Ibbotson, M., 2015, Cambridge English for Engineering. Cambridge University Press.",
+      "Kumar, S., and Lata, P., 2015, Communication Skills. Oxford University Press.",
+      "Sudarshana, N., and Savitha, C., 2016, English for Technical Communication. Cambridge English."
+    ]
+  },
+  {
+    "course_id": "ME1011E",
+    "course_title": "ENGINEERING GRAPHICS",
+    "raw_references": [
+      "Bhatt, N. D., 2023, Engineering Drawing, Charotar Publishing House.",
+      "Agrawal, B., and Agrawal, C. M., 2019, Engineering Drawing, McGraw Hill Education.",
+      "Venugopal, K., and Raja, P.V., 2022, Engineering Drawing + Auto CAD, New Age Intl. Pvt Ltd."
+    ]
+  },
+  {
+    "course_id": "MA1013E",
+    "course_title": "MATHEMATICS II",
+    "raw_references": [
+      "Kreyszig, E., 2015, Advanced Engineering Mathematics, 10th ed., India: Wiley.",
+      "Anton, H., Bivens, I., and Davis, S., 2015, Calculus, 10th ed., John Wiley & Sons.",
+      "Arnold, V.I., 2006, Ordinary Differential Equations, Springer.",
+      "Dyke, P., 2014, An Introduction to Laplace Transforms and Fourier Series, Springer."
+    ]
+  },
+  {
+    "course_id": "MA2003E",
+    "course_title": "MATHEMATICS III",
+    "raw_references": [
+      "Ponnusamy, S., Silverman, H., Complex Variables with Applications, Birkhauser Boston, 2006.",
+      "Ronald N Bracewell, The Fourier Transform and its Applications, McGraw Hill, 2nd Edition, 1986.",
+      "G. F. Simmons, Differential Equations with Applications and Historical Notes, McGraw Hill, 2nd Edition, 2017.",
+      "D. Greenspan, Introduction to Partial Differential Equations, Dover Publications; 1st edition, 2000.",
+      "E. Kreyszig, Advanced Engineering Mathematics, John Wiley and Sons, 9th Edition, 2012."
+    ]
+  },
+  {
+    "course_id": "ME2001E",
+    "course_title": "PROFESSIONAL ETHICS",
+    "raw_references": [
+      "A.F. Bainbridge, 2021, Ethics for Engineers: A Brief Introduction, CRC Press.",
+      "R.S. Naagarazan, 2022, A Textbook on Professional Ethics and Human Values, New Age International Pvt. Ltd.",
+      "E.G. Seebauer and R.L. Barry, 2000, Fundamentals of Ethics for Scientists and Engineers, Oxford University Press.",
+      "ASME Code of Ethics",
+      "Tracey Bretag (Ed.), 2016, Handbook of Academic Integrity, Springer."
+    ]
+  },
+  {
+    "course_id": "MA2013E",
+    "course_title": "MATHEMATICS IV",
+    "raw_references": [
+      "E. Kreyszig, Advanced Engineering Mathematics, John Wiley and Sons.",
+      "I.N. Sneddon, Elements of Partial Differential Equations, McGraw Hill."
+    ]
+  },
+  {
+    "course_id": "ME1201E",
+    "course_title": "THERMODYNAMICS",
+    "raw_references": [
+      "Cengel, Y. A., Boles, M. A., and Kanoglu, M., 2019, Thermodynamics: An Engineering Approach, McGraw Hill.",
+      "Borgnakke, C., and Sonntag, R. E., 2020, Fundamentals of Thermodynamics, John Wiley & Sons.",
+      "Moran, M. J., Shapiro, H. N., Boettner, D. D., and Bailey, M. B., 2018, Fundamentals of Engineering Thermodynamics, John Wiley & Sons."
+    ]
+  },
+  {
+    "course_id": "ME1401E",
+    "course_title": "ENGINEERING MECHANICS",
+    "raw_references": [
+      "Shames, I. H., and Rao, G. K. M., 2005, Engineering Mechanics – Statics and Dynamics, Pearson Education.",
+      "Beer, F. P., Johnston Jr., E. R., Cornwell, P. J., Self, B. P., Mazurek, D. F., and Sanghi, S., 2019, Vector Mechanics for Engineers – Statics and Dynamics, McGraw Hill.",
+      "Meriam, J. L., Kraige, L. G., and Bolton, J. N., 2021, Engineering Mechanics – Statics and Dynamics, Wiley.",
+      "Hibberler, R. C., 2017, Engineering Mechanics – Statics and Dynamics, Pearson."
+    ]
+  },
+  {
+    "course_id": "ME1001E",
+    "course_title": "COMPUTER PROGRAMMING AND NUMERICAL METHODS",
+    "raw_references": [
+      "Kong, Q., Siauw, T., and Bayen, A. M., 2021, Python Programming and Numerical Methods: A Guide for Engineers and Scientists, Academic Press.",
+      "Kiusalaas, J., 2013, Numerical Methods in Engineering with Python 3, Cambridge University Press.",
+      "Matthes, E., 2023, Python Crash Course: A Hands-On, Project-Based Introduction to Programming, No Crash Press.",
+      "Chapra, S. C., and Canale, R. P., 2021, Numerical Methods for Engineers, McGraw Hill."
+    ]
+  },
+  {
+    "course_id": "ME1391E",
+    "course_title": "MECHANICAL WORKSHOP",
+    "raw_references": [
+      "Chapman, W. A. J. 2007, Workshop Technology - Parts 1 & 2, CBS Publishers.",
+      "O'Brien, A. (Editor), 2001, Welding Handbook, American Welding Society.",
+      "Anderson, J., 2002, Shop Theory, Tata McGraw Hill.",
+      "Douglass, J. H., 1995, Wood Working with Machines, McKnight & McKnight Pub. Co.",
+      "Tuplin, W. A., 1996, Modern Engineering Workshop Practice, Odhams Press.",
+      "Jain, P. L., 2009, Principles of Foundry Technology, Tata McGraw Hill."
+    ]
+  },
+  {
+    "course_id": "ME1311E",
+    "course_title": "MATERIALS SCIENCE",
+    "raw_references": [
+      "Callister, W. D., and Rethwisch, D. G., 2018, Materials Science and Engineering, John Wiley.",
+      "Smith, W. F., Hashemi, J., and Presuel-Moreno, F., 2022, Foundations of Materials Science and Engineering, McGraw-Hill.",
+      "Raghavan, V., 2013, Material Science and Engineering: A First Course, PHI Learning.",
+      "Abbaschian, R., and Reed-Hill, R. E., 2009, Physical Metallurgy Principles, Affiliated East-West Press.",
+      "Porter, D. A., Easterling, K. E., and Sherif, M. Y., 2009, Phase Transformations in Metals and Alloys, Taylor & Francis.",
+      "Meyers, M. A., and Chawla, K. K., 2009, Mechanical Behavior of Materials, Cambridge University Press.",
+      "Huggins, R. A., 2016, Energy Storage Fundamentals, Materials and Applications, Springer.",
+      "Shackelford, J. F., 2021, Introduction to Materials Science for Engineers, Pearson Education.",
+      "Kasap, S. O., 2005, Principles of Electronic Materials and Devices, McGraw-Hill.",
+      "Askeland, D. R., and Wright, W. J., 2021, The Science and Engineering of Materials, Cengage Learning."
+    ]
+  },
+  {
+    "course_id": "ME1411E",
+    "course_title": "SOLID MECHANICS",
+    "raw_references": [
+      "Popov, E. P., 2015, Engineering Mechanics of Solids, Pearson Education.",
+      "Beer, F. P., Johnston, E. R., DeWolf, J. T., Mazurek, D. F., and Sanghi, S., 2020, Mechanics of Materials, McGraw Hill Education.",
+      "Timoshenko, S. P., and Young, D. H., 2003, Elements of Strength of Materials. East West.",
+      "Shames, I. H., and Pitarresi, J. M., 2015, Introduction to Solid Mechanics, Pearson.",
+      "Crandall, S. H., Dahl, N. C., Lardner, T. J., and Sivakumar, M. S., 2017, An Introduction to Mechanics of Solids, Tata McGraw-Hill.",
+      "Timoshenko, S. P., and Goodier, J. N., 1970, Theory of Elasticity. McGraw Hill International.",
+      "Sadd, M. H., 2014, Elasticity: Theory, Applications and Numerics, Academic Press."
+    ]
+  },
+  {
+    "course_id": "ME1211E",
+    "course_title": "FLUID MECHANICS AND MACHINERY",
+    "raw_references": [
+      "Fox, R. W., McDonald, A. T., Pritchard, P. J., and Mitchell, J. W., 2018, Fluid Mechanics, John Wiley and Sons.",
+      "Cengel, Y. A., and John, M. C., 2019, Fluid Mechanics Fundamental and Applications, McGraw Hill Series.",
+      "White, F. M., and Xue, H., 2022, Fluid Mechanics, McGraw Hill.",
+      "Som, S. K., Biswas, G., and Chakraborty, S., 2017, Fluid Mechanics and Fluid Machines, McGraw Hill.",
+      "Shames, I. H., 2013, Mechanics of Fluids, McGraw Hill Education.",
+      "Kundu, P. K., Cohen, I. M., and Dowling, D. R., 2012, Fluid Mechanics, Elsevier.",
+      "Munson, B. R., Okiishi, T. H., Huebsch, W. W., and Rothmayer, A. P., 2015, Fluid Mechanics, Wiley.",
+      "Gupta, V., and Gupta, S. K., 2015, Fluid Mechanics and Its Applications, New Age International Private",
+      "Shepherd, D. G., 1956, Principles of Turbo Machinery, Macmillan Company.",
+      "Lal, J., 1975, Hydraulic Machines, Metropolitan book Co.",
+      "Roshko, A., and Liepmann, H. W., 2003, Elements of Gas Dynamics, Dover Publications Inc.",
+      "Streeter, V., Wylie, E. B., and Bedford, K. W., 2017, Fluid Mechanics, McGraw Hill."
+    ]
+  },
+  {
+    "course_id": "EE1013E",
+    "course_title": "ELECTRICAL ENGINEERING",
+    "raw_references": [
+      "Suresh Kumar, K.S., 2009, Electric Circuits & Networks, Pearson Education.",
+      "Nahvi, M., and Edminister, J. A., 2014, Electric Circuits (Schaum's Outlines), McGraw Hill.",
+      "Sawhney, A. K., 2015, A Course in Electrical, Electronic Measurements and Instrumentation, Dhanpat Rai & Co.",
+      "Clayton, A. E., and Hancock, N. N., 2003, Performance and Design of DC Machines, CBS Publishers.",
+      "Nagarath, I. J., and Kothari, D. P., 2010, Electric Machines, Tata McGraw Hill.",
+      "Say, M. G., 1983, The Performance and Design of Alternating Current Machines, CBS Publishers.",
+      "Toro, V. D., 1988, Electrical Machines and Power Systems, Prentice Hall."
+    ]
+  },
+  {
+    "course_id": "EE1093E",
+    "course_title": "ELECTRICAL ENGINEERING LAB",
+    "raw_references": [
+      "Sawhney, A. K, 2015, A Course in Electrical and Electronic Measurements and Instrumentation, Dhanpat Rai & Co.",
+      "Nagarath, I. J., and Kothari, D. P., 2010, Electric Machines, Tata McGraw Hill.",
+      "Say, M. G., 1983, The Performance and Design of Alternating Current Machines, CBS Publishers.",
+      "Toro, V. D., 1988, Electrical Machines and Power Systems, Prentice Hall."
+    ]
+  }
+]

@@ -1,0 +1,256 @@
+[
+  {
+    "course_id": "MA1001E",
+    "course_title": "Mathematics I",
+    "raw_references": [
+      "Anton, Bivens & Davis, Calculus, 10th ed., Wiley, 2015",
+      "Thomas, Weir & Hass, Thomas' Calculus, 12th ed., Pearson, 2015",
+      "Kreyszig, Advanced Engineering Mathematics, 10th ed., Wiley, 2015",
+      "Apostol, Calculus Vol 1, 1st ed., Wiley, 2014"
+    ]
+  },
+  {
+    "course_id": "MA1011E",
+    "course_title": "Mathematics II",
+    "raw_references": [
+      "Kreyszig, Advanced Engineering Mathematics, 10th ed., Wiley, 2015",
+      "Anton, Bivens & Davis, Calculus, 10th ed., Wiley, 2015",
+      "Arnold, Ordinary Differential Equations, Springer, 2006",
+      "Dyke, An Introduction to Laplace Transforms and Fourier Series, Springer, 2014"
+    ]
+  },
+  {
+    "course_id": "MA2011E",
+    "course_title": "Mathematics IV",
+    "raw_references": [
+      "Mohan & Deep, Optimization Techniques, New Age International, 2009",
+      "Wayne Winston, Operations Research, Cengage Learning, 4th ed., 2011",
+      "Greenspan, Introduction to Partial Differential Equations, Dover, 2000",
+      "Kreyszig, Advanced Engineering Mathematics, Wiley, 9th ed., 2012",
+      "Ross, A First Course in Probability, 9th ed., Pearson, 2014"
+    ]
+  },
+  {
+    "course_id": "CE1011E",
+    "course_title": "Engineering Graphics",
+    "raw_references": [
+      "Agrawal B. & Agrawal C.M., Engineering Drawing, 3rd ed., McGraw Hill, 2019",
+      "Bhatt N.D., Engineering Drawing, 54th ed., Charotar, 2023",
+      "Venugopal K. & Raja V.P., Engineering Drawing + AutoCAD, 6th ed., New Age, 2022"
+    ]
+  },
+  {
+    "course_id": "PH1003E",
+    "course_title": "Electricity and Magnetism",
+    "raw_references": [
+      "Griffiths, Introduction to Electrodynamics, 4th ed., PHI, 2015",
+      "Purcell & Morin, Electricity and Magnetism, 3rd ed., Cambridge, 2013",
+      "Sadiku & Kulkarni, Principles of Electromagnetics, 6th ed., Oxford, 2015",
+      "Cheng, Field and Wave Electromagnetics, 2nd ed., Pearson, 2014"
+    ]
+  },
+  {
+    "course_id": "MS1001E",
+    "course_title": "Professional Communication",
+    "raw_references": [
+      "Bhatnagar N & Bhatnagar M, Communicative English for Engineers and Professionals, Dorling Kindersley, 2010",
+      "Garner B.A., HBR Guide to Better Business Writing, Harvard Business Review Press, 2012",
+      "Hewings M., Advanced Grammar in Use, Cambridge University Press, 2013"
+    ]
+  },
+  {
+    "course_id": "EE1004E",
+    "course_title": "Professional Ethics",
+    "raw_references": [
+      "Naagarazan R.S., A Textbook on Professional Ethics and Human Values, 3rd ed., New Age International, 2022",
+      "Bainbridge A.F., Ethics for Engineers: A Brief Introduction, CRC Press, 2021",
+      "IEEE Code of Ethics — https://www.ieee.org/about/corporate/governance/p7-8.html"
+    ]
+  },
+  {
+    "course_id": "EE1001E",
+    "course_title": "Introduction to Electrical Engineering",
+    "raw_references": [
+      "Suresh Kumar K.S., Electric Circuits & Networks, Pearson, 2009",
+      "Nilsson & Riedel, Electric Circuits, 8th ed., Pearson, 2002",
+      "Desoer & Kuh, Basic Circuit Theory, McGraw Hill, 2009",
+      "Edminister, Electric Circuit Theory, Schaum's, 6th ed., McGraw Hill, 2014"
+    ]
+  },
+  {
+    "course_id": "EE1002E",
+    "course_title": "Electrical Measurements",
+    "raw_references": [
+      "Golding E.W., Electrical Measurements & Measuring Instruments, 6th ed., Reem, 2019",
+      "Sawhney A.K., Electrical and Electronic Measurements and Instrumentation, Dhanpat Rai, 2015"
+    ]
+  },
+  {
+    "course_id": "EE1003E",
+    "course_title": "Electronic Circuits - I",
+    "raw_references": [
+      "Sedra & Smith, Microelectronic Circuits, 5th ed., Oxford, 2009",
+      "Millman J., Microelectronics, 2nd ed., McGraw-Hill, 2005",
+      "Boylestad & Nashelsky, Electronic Devices and Circuit Theory, 10th ed., Pearson, 2009"
+    ]
+  },
+  {
+    "course_id": "EE1011E",
+    "course_title": "Circuits and Networks",
+    "raw_references": [
+      "Suresh Kumar K.S., Electric Circuits and Networks, Pearson, 2009",
+      "Van Valkenburg M.E., Network Analysis, 3rd ed., Pearson, 2019",
+      "Hayt & Kemmerly, Engineering Circuit Analysis, 9th ed., McGraw-Hill, 2020"
+    ]
+  },
+  {
+    "course_id": "ME1401E",
+    "course_title": "Engineering Mechanics",
+    "raw_references": [
+      "Shames & Rao, Engineering Mechanics, 4th ed., Pearson, 2005",
+      "Beer, Johnston et al., Vector Mechanics for Engineers, 12th ed., McGraw Hill, 2019",
+      "Hibbeler, Engineering Mechanics, 14th ed., Pearson, 2017"
+    ]
+  },
+  {
+    "course_id": "EE1012E",
+    "course_title": "Digital Circuits and Systems",
+    "raw_references": [
+      "Mano & Ciletti, Digital Design, 6th ed., Pearson, 2018",
+      "Roth, Fundamentals of Logic Design, 7th ed., Jaico, 2013",
+      "Floyd, Digital Fundamentals, 11th ed., Prentice Hall, 2017"
+    ]
+  },
+  {
+    "course_id": "EE2001E",
+    "course_title": "Signals and Systems",
+    "raw_references": [
+      "Lathi B.P., Signal Processing and Linear Systems, 2nd ed., Oxford, 2006",
+      "Oppenheim & Schafer, Discrete-Time Signal Processing, 3rd ed., Pearson, 2014",
+      "Haykin & Van Veen, Signals and Systems, 2nd ed., Wiley, 2009"
+    ]
+  },
+  {
+    "course_id": "EE2002E",
+    "course_title": "Microprocessors and Microcontrollers",
+    "raw_references": [
+      "Muhammad Ali Mazidi et al., PIC Microcontroller and Embedded Systems, Pearson, 2021",
+      "Lyla B Das, The x86 Microprocessors, Pearson India, 2014"
+    ]
+  },
+  {
+    "course_id": "EE2003E",
+    "course_title": "Electrical Machines - I",
+    "raw_references": [
+      "Clayton & Hancock, Performance and Design of DC Machines, ELBS, 1971",
+      "Nagarath & Kothari, Electric Machines, Tata McGraw Hill, 1999",
+      "Say M.G., Performance and Design of AC Machines, CBS, 1983"
+    ]
+  },
+  {
+    "course_id": "EE2004E",
+    "course_title": "Electronic Circuits – II",
+    "raw_references": [
+      "Sedra & Smith, Microelectronic Circuits, 5th ed., Oxford, 2009",
+      "Sergio Franco, Design with Op-Amps and Analog ICs, Tata McGraw-Hill, 2005"
+    ]
+  },
+  {
+    "course_id": "EE2011E",
+    "course_title": "Power Systems - I",
+    "raw_references": [
+      "Grainger & Stevenson, Power System Analysis, McGraw-Hill, 2017",
+      "Kothari, Nagrath & Saket, Modern Power System Analysis, 5th ed., 2022",
+      "Saadat, Power System Analysis, 4th ed., Tata McGraw Hill, 2011"
+    ]
+  },
+  {
+    "course_id": "EE2012E",
+    "course_title": "Power Electronics",
+    "raw_references": [
+      "Umanand L., Power Electronics: Essentials and Applications, Wiley India, 2009",
+      "Ned Mohan, Power Electronics, Wiley, 2nd ed., 1995",
+      "Rashid, Power Electronics, Pearson, 3rd ed., 2004"
+    ]
+  },
+  {
+    "course_id": "EE2013E",
+    "course_title": "Electrical Machines - II",
+    "raw_references": [
+      "Nagarath & Kothari, Electric Machines, Tata McGraw Hill, 1999",
+      "Say M.G., Performance and Design of AC Machines, CBS, 1983",
+      "Chapman S.J., Electric Machine Fundamentals, McGraw Hill, 1999"
+    ]
+  },
+  {
+    "course_id": "EE2014E",
+    "course_title": "Control Systems - I",
+    "raw_references": [
+      "Ogata K., Modern Control Engineering, 5th ed., Pearson, 2015",
+      "Nagrath & Gopal, Control Systems Engineering, 7th ed., Tata McGraw Hill, 2021",
+      "Nise N.S., Control Systems Engineering, Wiley, 7th ed., 2014"
+    ]
+  },
+  {
+    "course_id": "EE3001E",
+    "course_title": "Digital Signal Processing",
+    "raw_references": [
+      "Proakis & Manolakis, Digital Signal Processing, 4th ed., Pearson, 2013",
+      "Oppenheim & Schafer, Discrete-Time Signal Processing, 3rd ed., Pearson, 2014",
+      "Mitra, Digital Signal Processing: A Computer-Based Approach, 4th ed., McGraw-Hill, 2013"
+    ]
+  },
+  {
+    "course_id": "EE3002E",
+    "course_title": "Power Systems - II",
+    "raw_references": [
+      "Horowitz, Phadke & Henville, Power System Relaying, 5th ed., Wiley, 2022",
+      "Stevenson, Elements of Power System Analysis, McGraw Hill, 4th ed., 2015",
+      "Kothari & Nagrath, Power System Engineering, 3rd ed., Tata McGraw-Hill, 2019"
+    ]
+  },
+  {
+    "course_id": "EE3003E",
+    "course_title": "Control Systems - II",
+    "raw_references": [
+      "Ogata K., Modern Control Engineering, 5th ed., Pearson, 2015",
+      "Gopal M., Digital Control and State Variable Methods, 4th ed., Tata McGraw Hill, 2017",
+      "Khalil H.K., Nonlinear Systems, 3rd ed., Prentice Hall, 2002"
+    ]
+  },
+  {
+    "course_id": "EE3004E",
+    "course_title": "Analog Integrated Circuits",
+    "raw_references": [
+      "Sedra & Smith, Microelectronic Circuits, 3rd ed., Holt Saunders, 1989",
+      "Franco, Design with Op-Amps and Analog ICs, McGraw Hill, 1988",
+      "Van Valkenburg, Analog Filter Design, Oxford, 2001"
+    ]
+  },
+  {
+    "course_id": "EE3011E",
+    "course_title": "Introduction to Communication Systems",
+    "raw_references": [
+      "Taub & Schilling, Principles of Communication Systems, 2nd ed., McGraw-Hill",
+      "Haykin S., Communication Systems, 4th ed., Wiley, 2004",
+      "Dennis Roddy & John Coolen, Electronic Communication, 4th ed., Pearson, 2004"
+    ]
+  },
+  {
+    "course_id": "EE3012E",
+    "course_title": "Instrumentation Systems",
+    "raw_references": [
+      "Doebelin & Manik, Measurement Systems, 6th ed., Tata McGraw-Hill, 2017",
+      "Johnson C.D., Process Control Instrumentation Technology, 8th ed., Prentice Hall, 2014"
+    ]
+  },
+  {
+    "course_id": "EE3093E",
+    "course_title": "Electrical Engineering Drawing",
+    "raw_references": [
+      "Clayton & Hancock, Performance and Design of DC Machines, ELBS, 1992",
+      "Say M.G., Performance and Design of AC Machines, Pitman, 1991",
+      "Bhattacharya S.K., Electrical Engineering Drawing, 2nd ed., Wiley Eastern, 2009"
+    ]
+  }
+]

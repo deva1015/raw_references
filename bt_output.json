@@ -1,0 +1,234 @@
+[
+  {
+    "course_id": "MA1001E",
+    "course_title": "Mathematics I",
+    "raw_references": [
+      "H. Anton, I. Bivens and S. Davis, Calculus, 10th Edn., John Wiley & Sons, 2015",
+      "G. B. Thomas, M. D. Weir and J. Hass, Thomas' Calculus, 12th Edn., Pearson Education, 2015",
+      "E. Kreyszig, Advanced Engineering Mathematics, 10th Edn., John Wiley & Sons, 2015",
+      "Apostol, Calculus Vol 1, 1st Edn., Wiley, 2014"
+    ]
+  },
+  {
+    "course_id": "MA1011E",
+    "course_title": "Mathematics II",
+    "raw_references": [
+      "E. Kreyszig, Advanced Engineering Mathematics, 10th Edn., Wiley, 2015",
+      "H. Anton, I. Bivens and S. Davis, Calculus, 10th Edn., John Wiley & Sons, 2015",
+      "V. I. Arnold, Ordinary Differential Equations, Springer, 2006",
+      "P. Dyke, An Introduction to Laplace Transforms and Fourier Series, Springer, 2014"
+    ]
+  },
+  {
+    "course_id": "MA2006E",
+    "course_title": "Mathematics III",
+    "raw_references": [
+      "S. Ross, A First Course in Probability, 9th Edn., Pearson, 2014",
+      "R. A. Johnson, Miller and Freund's Probability and Statistics for Engineers, 8th Edn., PHI, 2011",
+      "W. W. Hines et al., Probability and Statistics for Engineering, 4th Edn., John Wiley & Sons, 2003",
+      "S. M. Ross, Introduction to Probability and Statistics for Engineers and Scientists, 5th Edn., Academic Press, 2014"
+    ]
+  },
+  {
+    "course_id": "MA2016E",
+    "course_title": "Mathematics IV",
+    "raw_references": [
+      "G. Mohan and K. Deep, Optimization Techniques, New Age International Publishers, 2009",
+      "W. Winston, Operations Research – Applications and Algorithms, 4th Edn., Cengage Learning, 2011",
+      "D. Greenspan, Introduction to Partial Differential Equations, Dover Publications, 2000",
+      "E. Kreyszig, Advanced Engineering Mathematics, 9th Edn., John Wiley and Sons, 2012",
+      "Jain M. K., Iyengar S. R. K., Jain R. K., Numerical Methods for Scientific and Engineering Computation, 8th Edn., New Age International, 2022"
+    ]
+  },
+  {
+    "course_id": "BT1005E",
+    "course_title": "Biology for Engineers",
+    "raw_references": [
+      "L. A. Urry et al., Campbell Biology, 11th Edn., Pearson Education, 2017",
+      "S. Thyagarajan et al., Biology for Engineers, McGraw Hill Education, 2013",
+      "W. S. Klug et al., Concepts of Genetics, Global Edn., Pearson, 2019",
+      "D. L. Nelson and M. M. Cox, Lehninger Principles of Biochemistry, Macmillan Learning, 2021",
+      "S. I. Fox, Human Physiology, 13th Edn., McGraw-Hill, 2011",
+      "A. G. Webb, Principles of Biomedical Instrumentation, Cambridge University Press, 2018",
+      "A. T. Johnson, Biology for Engineers, CRC Press, 2018"
+    ]
+  },
+  {
+    "course_id": "CY1003E",
+    "course_title": "General Chemistry",
+    "raw_references": [
+      "E. V. Anslyn and D. A. Dougherty, Modern Physical Organic Chemistry, University Science Books, 2005",
+      "R. Chang, General Chemistry: The Essential Concepts, 5th Edn., McGraw-Hill, 2008",
+      "E. L. Eliel and S. H. Wilen, Stereochemistry of Organic Compounds, Wiley, 1994",
+      "L. G. Wade Jr., Organic Chemistry, 8th Edn., Pearson Education, 2013",
+      "J. E. Huheey et al., Inorganic Chemistry – Principles of Structure and Reactivity, Pearson India Ltd., 2009",
+      "S. J. Lippard and J. M. Berg, Principles of Bioinorganic Chemistry, University Science Books, 1994"
+    ]
+  },
+  {
+    "course_id": "MS1001E",
+    "course_title": "Professional Communication",
+    "raw_references": [
+      "N. Bhatnagar, Communicative English for Engineers and Professionals, Pearson Education India, 2010",
+      "B. A. Garner, HBR Guide to Better Business Writing, Harvard Business Review Press, 2013",
+      "S. Kumar and P. Lata, Communication Skills, Oxford University Press, 2011"
+    ]
+  },
+  {
+    "course_id": "BT2001E",
+    "course_title": "Professional Ethics",
+    "raw_references": [
+      "R. S. Naagarazan, A Textbook on Professional Ethics and Human Values, 3rd Edn., New Age International, 2022",
+      "A. F. Bainbridge, Ethics for Engineers: A Brief Introduction, CRC Press, 2021",
+      "Handbook for Institutional Biosafety Committee, Dept. of Biotechnology, Govt of India (2017 & 2020)",
+      "National guidelines for stem cell research, DBT and ICMR, 2017",
+      "National ethical guidelines for biomedical and health research involving human participants, ICMR, 2017"
+    ]
+  },
+  {
+    "course_id": "BT1002E",
+    "course_title": "Unit Operations",
+    "raw_references": [
+      "W. L. McCabe, J. Smith and P. Harriott, Unit Operations of Chemical Engineering, 7th Edn., McGraw-Hill, 2017",
+      "R. K. Rajput, A Textbook of Fluid Mechanics, S. Chand & Company, 2019",
+      "J. M. Coulson and J. F. Richardson, Chemical Engineering, Vol. IA, 7th Edn., Butterworth-Heinemann, 2017",
+      "J. P. Holman, Heat Transfer, 8th Edn., McGraw Hill, 2010"
+    ]
+  },
+  {
+    "course_id": "BT1003E",
+    "course_title": "Microbiology",
+    "raw_references": [
+      "J. Willey, L. Sherwood and C. J. Woolverton, Prescott's Microbiology, 11th Edn., McGraw-Hill, 2021",
+      "M. J. Pelczar, E. C. S. Chan and N. R. Krieg, Microbiology, 5th Edn., McGraw-Hill, 2021",
+      "G. J. Tortora, B. R. Funke and C. L. Case, Microbiology: An Introduction, 13th Edn., Addison-Wesley, 2018",
+      "M. Madigan et al., Brock Biology of Microorganisms, 16th Edn., Pearson, 2020"
+    ]
+  },
+  {
+    "course_id": "BT1004E",
+    "course_title": "Biochemistry",
+    "raw_references": [
+      "D. L. Nelson and M. M. Cox, Lehninger Principles of Biochemistry, Macmillan Learning, 2021",
+      "J. M. Berg, J. L. Tymoczko and L. Stryer, Biochemistry, Macmillan, 2007",
+      "D. Voet, J. G. Voet and C. W. Pratt, Fundamentals of Biochemistry, John Wiley & Sons, 2016",
+      "V. W. Rodwell et al., Harper's Illustrated Biochemistry, McGraw-Hill, 2018"
+    ]
+  },
+  {
+    "course_id": "BT1011E",
+    "course_title": "Cell Biology and Genetics",
+    "raw_references": [
+      "P. Snustad and M. J. Simmons, Principles of Genetics, 7th Edn., 2015",
+      "M. R. Cummings et al., Concepts of Genetics, 12th Global Edn., 2019",
+      "J. E. Krebs et al., Lewin's GENES XII, 12th Edn., Jones and Bartlett, 2018",
+      "A. Alberts et al., Molecular Biology of the Cell, 5th Edn., Garland Science, 2008",
+      "H. Lodish et al., Molecular Cell Biology, 9th Edn., W. H. Freeman, 2021"
+    ]
+  },
+  {
+    "course_id": "BT1012E",
+    "course_title": "Process Calculations",
+    "raw_references": [
+      "K. V. Narayanan and B. Lakshmikuttyamma, Stoichiometry & Process Calculations, Prentice Hall, 2006",
+      "B. I. Bhatt and S. M. Vora, Stoichiometry, 4th Edn., Tata McGraw-Hill, 2001",
+      "M. L. Shuler and F. Kargi, Bioprocess Engineering – Basic Concepts, 2nd Edn., Prentice Hall, 2004",
+      "P. M. Doran, Bioprocess Engineering Principles, 2nd Edn., Academic Press, 2005"
+    ]
+  },
+  {
+    "course_id": "BT1013E",
+    "course_title": "Environmental Bioengineering",
+    "raw_references": [
+      "E. P. Odum, Fundamentals of Ecology, 5th Edn., Brooks/Cole, 2004",
+      "G. Tchobanoglous, F. Burton and Stensel, Wastewater Engineering, 4th Edn., Tata McGraw Hill, 2008",
+      "C. S. Rao, Environmental Pollution Control Engineering, New Age International, 2021",
+      "B. C. Bhattacharyya and R. Banerjee, Environmental Biotechnology, Oxford University Press, 2007"
+    ]
+  },
+  {
+    "course_id": "BT2002E",
+    "course_title": "Bioprocess Engineering",
+    "raw_references": [
+      "J. E. Bailey and D. F. Ollis, Biochemical Engineering Fundamentals, 2nd Edn., McGraw Hill, 2017",
+      "M. L. Shuler and F. Kargi, Bioprocess Engineering – Basic Concepts, 2nd Edn., Prentice Hall, 2015",
+      "P. M. Doran, Bioprocess Engineering Principles, 2nd Edn., Academic Press, 2005",
+      "P. F. Stanbury, S. J. Hall and A. Whitaker, Principles of Fermentation Technology, 3rd Edn., Elsevier, 2016"
+    ]
+  },
+  {
+    "course_id": "BT2003E",
+    "course_title": "Molecular Biology and Genetic Engineering",
+    "raw_references": [
+      "R. Weaver, Molecular Biology, 5th Edn., McGraw-Hill, 2018",
+      "J. D. Watson et al., Molecular Biology of the Gene, 7th Edn., Pearson, 2013",
+      "J. E. Krebs et al., Lewin's GENES XII, 12th Edn., Jones and Bartlett, 2017",
+      "D. S. T. Nicholl, An Introduction to Genetic Engineering, 4th Edn., Cambridge University Press, 2023"
+    ]
+  },
+  {
+    "course_id": "BT2011E",
+    "course_title": "Bioinformatics",
+    "raw_references": [
+      "A. K. Lesk, Introduction to Bioinformatics, 5th Edn., Oxford University Press, 2019",
+      "J. Pevsner, Bioinformatics and Functional Genomics, 3rd Edn., Wiley-Blackwell, 2015",
+      "D. W. Mount, Bioinformatics: Sequence and Genome Analysis, 2nd Edn., Cold Spring Harbor Laboratory Press, 2004"
+    ]
+  },
+  {
+    "course_id": "BT2012E",
+    "course_title": "Downstream Process Engineering",
+    "raw_references": [
+      "N. K. Prasad, Downstream Process Technology, PHI, 2012",
+      "M. R. Ladisch, Bioseparations Engineering, Wiley Interscience, 2001",
+      "J. D. Seader and E. J. Henley, Separation Process Principles, 3rd Edn., Wiley, 2010",
+      "P. A. Belter, E. L. Cussler and W. S. Hu, Bioseparation: Downstream Processing for Biotechnology, 2nd Edn., Wiley, 1994"
+    ]
+  },
+  {
+    "course_id": "BT2013E",
+    "course_title": "Biopharmaceutical Technology",
+    "raw_references": [
+      "M. E. Aulton and K. Taylor (Eds.), Aulton's Pharmaceutics, Elsevier Health Sciences, 2013",
+      "T. N. Tozer and M. Rowland, Essentials of Pharmacokinetics and Pharmacodynamics, Wolters Kluwer, 2016",
+      "I. Ramzan (Ed.), Biologics, Biosimilars, and Biobetters, John Wiley & Sons, 2020"
+    ]
+  },
+  {
+    "course_id": "BT3001E",
+    "course_title": "Analytical Techniques and Instrumentation",
+    "raw_references": [
+      "K. Wilson et al. (Eds.), Wilson and Walker's Principles and Techniques of Biochemistry and Molecular Biology, Cambridge University Press, 2018",
+      "W. W. Parson and C. Burda, Modern Optical Spectroscopy, Springer, 2022",
+      "V. Ramesh (Ed.), Biomolecular and Bioanalytical Techniques, John Wiley & Sons, 2019"
+    ]
+  },
+  {
+    "course_id": "BT3002E",
+    "course_title": "Immunotechnology",
+    "raw_references": [
+      "J. Punt et al., Kuby Immunology, 8th Edn., W. H. Freeman, 2018",
+      "K. M. Murphy et al., Janeway's Immunobiology, 10th Edn., W. W. Norton, 2022",
+      "A. K. Abbas et al., Cellular and Molecular Immunology, 10th Edn., Elsevier, 2021"
+    ]
+  },
+  {
+    "course_id": "BT3003E",
+    "course_title": "Biosafety and Bioethics",
+    "raw_references": [
+      "Handbook for Institutional Biosafety Committee, Dept. of Biotechnology, Govt of India (2017 & 2020)",
+      "Laboratory Biosafety Manual, 4th Edn., World Health Organization, 2020",
+      "National guidelines for stem cell research, DBT and ICMR, 2017",
+      "National ethical guidelines for biomedical and health research, ICMR, 2017"
+    ]
+  },
+  {
+    "course_id": "BT3011E",
+    "course_title": "Plant Biotechnology",
+    "raw_references": [
+      "C. N. Stewart Jr, Plant Biotechnology and Genetics, John Wiley & Sons, 2016",
+      "S. Umesha, Plant Biotechnology, 2nd Edn., CRC Press, 2019",
+      "A. Slater, N. Scott and M. R. Fowler, Plant Biotechnology: The Genetic Manipulation of Plants, 2nd Edn., Oxford University Press, 2008"
+    ]
+  }
+]
