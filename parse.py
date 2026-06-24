@@ -18,16 +18,16 @@ def clean_text(text: str) -> str:
     return text
 
 
-# 🔍 NEW: extract ALL course IDs from raw text
+# 🔍 Extract ALL course IDs from raw text
 def extract_all_course_ids(text: str) -> set:
     ids = re.findall(r'\b[A-Z]{2,3}\d{3,4}[A-Z]?\b', text)
     return set(ids)
 
 
 def parse_file(content: str) -> list:
-    # improved header detection
+    # Flexible header detection
     course_header = re.compile(
-        r'([A-Z]{2,3}\d{3,4}[A-Z]?)\s+([A-Z][A-Z0-9 ,\-&/()\'.]+?)\s+L\s*T\s*P',
+        r'([A-Z]{2,3}\d{3,4}[A-Z]?)\s+([A-Z][A-Za-z0-9 ,\-&/()\'.]+)',
         re.MULTILINE
     )
 
@@ -42,6 +42,10 @@ def parse_file(content: str) -> list:
         block_end = matches[idx + 1].start() if idx + 1 < len(matches) else len(content)
         block = content[block_start:block_end]
 
+        # Skip tiny/noise blocks
+        if len(block.strip()) < 50:
+            continue
+
         ref_section = re.search(
             r'References?\s*:(.*)',
             block,
@@ -53,7 +57,7 @@ def parse_file(content: str) -> list:
         if ref_section:
             ref_text = ref_section.group(1).strip()
 
-            # 🚧 STOP references if next course appears inline
+            # Stop if next course appears inline
             ref_text = re.split(
                 r'(?=[A-Z]{2,3}\d{3,4}[A-Z]?\s+[A-Z])',
                 ref_text
@@ -103,12 +107,13 @@ def generate_audit(courses: list) -> dict:
 
 
 def main():
-    if len(sys.argv) < 3:
-        print("Usage: python parse_courses.py <input.txt> <output.json>")
+    if len(sys.argv) < 4:
+        print("Usage: python parse.py <input.txt> <output.json> <audit.json>")
         sys.exit(1)
 
     input_path = sys.argv[1]
     output_path = sys.argv[2]
+    audit_path = sys.argv[3]
 
     if not os.path.exists(input_path):
         print(f"Error: file not found: {input_path}")
@@ -116,28 +121,39 @@ def main():
 
     print(f"Parsing {input_path} ...")
 
-    # 📥 Read raw file
+    # 📥 Read file
     with open(input_path, 'r', encoding='utf-8', errors='replace') as f:
         raw_text = f.read()
 
     raw_text = clean_text(raw_text)
 
-    # 🔍 ALL course IDs in TXT
+    # 🔍 Extract all IDs
     all_ids = extract_all_course_ids(raw_text)
 
-    # 📊 Parsed courses
+    # 📊 Parse courses
     courses = parse_file(raw_text)
+
+    if not courses:
+        print("⚠️ No courses parsed. Check input format.")
+
     parsed_ids = set(c["course_id"] for c in courses)
 
-    # 👻 Missing (not parsed at all)
+    # 👻 Missing IDs
     missing_ids = sorted(all_ids - parsed_ids)
 
-    # 📊 Audit (missing references only)
+    # 📊 Audit
     audit = generate_audit(courses)
 
-    # 💾 Save JSON
+    # 💾 Save courses JSON
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(courses, f, indent=2, ensure_ascii=False)
+
+    # 💾 Save audit JSON
+    with open(audit_path, 'w', encoding='utf-8') as f:
+        json.dump({
+            "audit": audit,
+            "missing_course_ids": missing_ids
+        }, f, indent=2, ensure_ascii=False)
 
     # ===== TERMINAL OUTPUT =====
     print("\n=== AUDIT REPORT ===")
@@ -166,7 +182,8 @@ def main():
         for cid in missing_ids:
             print(cid)
 
-    print(f"\nOutput written to {output_path}")
+    print(f"\n✅ Courses JSON: {output_path}")
+    print(f"📊 Audit JSON  : {audit_path}")
 
 
 if __name__ == '__main__':
