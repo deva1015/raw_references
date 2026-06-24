@@ -1,0 +1,829 @@
+[
+  {
+    "course_id": "MA1002E",
+    "course_title": "MATHEMATICS I",
+    "raw_references": [
+      "1. H. Anton, I. Bivens and S. Davis,Calculus, 10 th ed, New York: John Wiley & Sons, 2015.",
+      "2. G. B. Thomas, M. D. Weirand and J. Hass,Thomas' Calculus, 12 th ed, New Delhi, India: Pearson Education, 2015.",
+      "3. E. Kreyszig,Advanced Engineering Mathematics,10 th ed, New York: John Wiley & Sons, 2015.",
+      "4. T. M. Apostol,Calculus Vol 1, 1 st ed. New Delhi: Wiley, 2014."
+    ]
+  },
+  {
+    "course_id": "PH1001E",
+    "course_title": "PHYSICS OF MATERIALS",
+    "raw_references": [
+      "1. A. Beiser,Concepts of Modern Physics (6th Edition), McGraw-Hill, 2009.",
+      "2. K. Krane,Modern Physics (4th Indian Edition), Wiley, 2021.",
+      "3. R. E. Hummel,Electronic Properties of Materials (4th Edition), Springer, 2014.",
+      "4. M. A. Wahab,Solid State Physics - Structure and Properties of Materials (3rd Edition), Narosa, 2015."
+    ]
+  },
+  {
+    "course_id": "BT1001E",
+    "course_title": "BIOLOGY FOR ENGINEERS",
+    "raw_references": [
+      "1. J. B. Reece, L. A. Urry, M. L. Cain, S. A. Wasserman, P. V. Minorsky and R. B. Jackson,Campbell biology (Vol. 9), Boston. Pearson, 2014.",
+      "2. S. Thyagarajan, N. Selvamurugan, M. P. Rajesh, R. A. Nazeer, R. W. Thilagaraj, S. Bharathi and M. K. Jaganathan,Biology for Engineers,McGraw Hill Education, 2013.",
+      "3. R. M. Cummings, W. S. Klug, C. A. Spencer, M. A. Palladino and D. Killian.Concepts of Genetics,12 th ed., Pearson, 2019.",
+      "4. D. L. Nelson, and N. M. Cox,Lehninger principles of biochemistry,8 th ed.. W.H. Freeman, 2021.",
+      "5. S. I. Fox,Human physiology,13 th. ed. New York, NY: McGraw--Hill, 2011.",
+      "6. A. G. Webb,Principles of biomedical instrumentation.Cambridge University Press, 2018.",
+      "7. A. T. Johnson,Biology for engineers,CRC Press, 2011."
+    ]
+  },
+  {
+    "course_id": "MS1001E",
+    "course_title": "PROFESSIONAL COMMUNICATION",
+    "raw_references": [
+      "1. Bhatnagar, N. and Bhatnagar, M.,Communicative English for engineers and professionals, Dorling Kindersley, 2010.",
+      "2. Foley, M. and Hall, D.,Longman advanced learners' grammar: A self-study reference & practice book with answers, Pearson Education, 2018.",
+      "3. Garner, B. A.,HBR Guide to better business writing: Engage readers, tighten and Brighten, make your case, Harvard Business Review Press, 2012.",
+      "4. Hewings, M.,Advanced grammar in use: A reference and practice book for Advanced learners of English. Cambridge University Press, 2013.",
+      "5. Ibbotson, M., CambridgeEnglish for Engineering. Cambridge University Press, 2015.",
+      "6. Kumar, S. and Lata, P.,Communication Skills. Oxford University Press, 2015.",
+      "7. Sudarshana, N. and Savitha, C.,English for Technical Communication. Cambridge English, 2016."
+    ]
+  },
+  {
+    "course_id": "CS1001E",
+    "course_title": "COMPUTER PROGRAMMING",
+    "raw_references": [
+      "1. B. S. Gottfried,Programming with C (Schaum's Outline Series), 2 nd ed. McGraw-Hill, 1996.",
+      "2. S. C. Kochan,Programming in C,Sams Publishing, 3 rd ed. 2004.",
+      "3. B. W. Kernighan and D. M. Ritchie,The C Programming Language,2 nd ed. UK: Prentice Hall, 1988.",
+      "4. W. Kernighan and B. Pike,The Practice of Programming,UK: Addison-Wesley, 1999",
+      "5. H. M. Deitel and P. J. Deitel,C: How to program,8 th ed. Pearson Education, 2015.",
+      "6. P. Prinz and T. Crawford,C in a Nutshell: The Definitive Reference, 2nd ed., O'Reilly Media, 2016."
+    ]
+  },
+  {
+    "course_id": "CS1002E",
+    "course_title": "INTRODUCTION TO COMPUTING SCIENCE",
+    "raw_references": [
+      "1. G. Michael Schneider and Judith Gersting,Invitation to computer science,\t1 st ed.\tIndia: Cengage Learning, 2022.",
+      "2. G. Venkatesh and Madhavan Mukund,Computational Thinking: A Primer for Programmers and Data Scientists, 1st ed. India: Notion Press, 2021."
+    ]
+  },
+  {
+    "course_id": "CS1003E",
+    "course_title": "DISCRETE STRUCTURES - I",
+    "raw_references": [
+      "1. R. P. Grimaldi and B. V. Ramana,Discrete and Combinatorial Mathematics: An Applied Introduction,5 th ed. India: Pearson Education, 2006.",
+      "2. L. Lovasz, J. Pelikan, and K. Vesztergombi,Discrete Mathematics: Elementary and Beyond, 1 st ed. Springer, 2003",
+      "3. B. Kolman, R. Busby and S. C. Ross,Discrete Mathematical Structures,6 th ed. India: Pearson Education, 2015."
+    ]
+  },
+  {
+    "course_id": "CS1091E",
+    "course_title": "PROGRAMMING LABORATORY",
+    "raw_references": [
+      "1. B. S. Gottfried,Programming with C (Schaum's Outline Series), 2 nd ed. McGraw-Hill, 1996.",
+      "2. S. C. Kochan,Programming in C,Sams Publishing, 3 rd ed. 2004.",
+      "3. B. W. Kernighan and D. M. Ritchie,The C Programming Language,2 nd ed. UK: Prentice Hall, 1988.",
+      "4. W. Kernighan and B. Pike,The Practice of Programming,UK: Addison-Wesley, 1999.",
+      "5. H. M. Deitel and P. J. Deitel,C: How to program,8 th ed. Pearson Education, 2015.",
+      "6. P. Prinz and T. Crawford,C in a Nutshell: The Definitive Reference, 2nd ed., O'Reilly Media, 2016."
+    ]
+  },
+  {
+    "course_id": "MA1012E",
+    "course_title": "MATHEMATICS II",
+    "raw_references": [
+      "1. H. Anton, I. Bivens and S. Davis,Calculus,10 th ed. John Wiley & Sons, 2015.",
+      "2. T. A. Apostol,Calculus Vol 1, 1 st ed. New Delhi: Wiley, 2014.",
+      "3. E. Kreyszig,Advanced Engineering Mathematics,10 th ed. Wiley, 2015.",
+      "4. G. Strang,Differential Equations and Linear Algebra, Cambridge Press, 2014.",
+      "5. S. W. Goode and S. Annin,Differential Equations and Linear Algebra,Pearson Prentice Hall, 2007.",
+      "6. O. Bretscher.Linear algebra with applications,New Delhi: Prentice Hall, 1997."
+    ]
+  },
+  {
+    "course_id": "CS1011E",
+    "course_title": "PROGRAM DESIGN",
+    "raw_references": [
+      "1. A. V. Aho, J. E. Hopcroft, and J. D. Ullman,Data Structures and Algorithms, 1 st ed. India: Dorling Kindersly, 2009.",
+      "2. T. H. Cormen, C. E. Leiserson, R. L. Rivest and C. Stein,Introduction to Algorithms, 3 rd ed. MIT Press, 2009.",
+      "3. E. Horowitz, S. Sahni and D. Mehta,Fundamentals of Data Structures in C++, 2 nd ed. Universities Press, 2008.",
+      "4. S. Dasgupta, C. H. Papadimitriou and U. Vazirani.Algorithms1 st ed. McGraw-Hill, 2006."
+    ]
+  },
+  {
+    "course_id": "CS1012E",
+    "course_title": "LOGIC DESIGN",
+    "raw_references": [
+      "1. T. L. Floyd and R. P. Jain,Digital Fundamentals, 8 th ed. Pearson Education, 2006.",
+      "2. C. H., Roth Jr. and L. L. Kinney,Fundamentals of Logic Design, 6 th ed. Cengage Learning, 2009.",
+      "3. M. M. Mano and M. D. Ciletti,Digital Design, 4 th ed. Pearson Education, 2008.",
+      "4. B. J. LaMeres,Introduction to Logic Circuits & Logic Design with Verilog, 1 st ed. Springer, 2017."
+    ]
+  },
+  {
+    "course_id": "CS1013E",
+    "course_title": "DISCRETE STRUCTURES - II",
+    "raw_references": [
+      "1. R. P. Grimaldi and B. V. Ramana,Discrete and Combinatorial Mathematics: An Applied Introduction,5 th ed. India: Pearson Education, 2006.",
+      "2. I. M. Copi,Symbolic Logic, 5 th ed. India: Pearson Education, 2015.",
+      "3. K. Ireland and M. Rosen,A classical Introduction to Modern Number Theory, 2 nd ed. India: Springer, 1990.",
+      "4. L. Lovasz, J. Pelikan and K. Vesztergombi,Discrete Mathematics: Elementary and Beyond, 1 st ed. Springer, 2003."
+    ]
+  },
+  {
+    "course_id": "CS1092E",
+    "course_title": "PROGRAM DESIGN LABORATORY",
+    "raw_references": [
+      "1. T. H. Cormen, C. E. Leiserson, R. L. Rivest and C. Stein,Introduction to Algorithms, 3 rd ed. MIT Press, 2009.",
+      "2. E. Horowitz, S. Sahni and D. Mehta,Fundamentals of Data Structures in C++, 2 nd ed. Universities Press, 2008.",
+      "3. M. A. Weiss,Data structures and algorithm analysis in C++, 4 th ed. Addison-Wesley, Boston, 2014."
+    ]
+  },
+  {
+    "course_id": "MA2002E",
+    "course_title": "MATHEMATICS III",
+    "raw_references": [
+      "1. S. Axler,Linear Algebra Done Right, 4 th Edition, Springer, 2023",
+      "2. G. Strang,Introduction to Linear Algebra, 5 th Edition, Wellesley Cambridge Press, 2016.",
+      "3. J W Brown, R V. Churchill,Complex Variables and Applications, 9 th Edition, McGraw-Hill Education, 2009.",
+      "4. S. Ponnusamy, H Silverman,Complex Variables with Applications, Birkhauser, 2006.",
+      "5. E. Kreyszig, H. Kreyszig, E. J. Norminton,Advanced Engineering Mathematics, 10 th Edition, Wiley, New Delhi, 2015.",
+      "6. C. R. Wylie, L. C. Barrett,Advanced Engineering Mathematics, 6 th Edition, McGraw-Hill, New Delhi, 1995."
+    ]
+  },
+  {
+    "course_id": "CS2001E",
+    "course_title": "DATA STRUCTURES AND ALGORITHMS",
+    "raw_references": [
+      "1. T. H. Cormen, C. E. Leiserson, R. L. Rivest, and C. Stein,Introduction to Algorithms, 3/e, MIT Press, 2003",
+      "2. A. V. Aho, J. D. Ullman, and J. E. Hopcroft,Data Structures and Algorithms, Addison Wesley, 1996.",
+      "3. Dasgupta, Sanjoy, Christos Papadimitriou, and Umesh Vazirani,Algorithms. McGraw-Hill, 2008.",
+      "4. R. Sedgewick, and K. Wayne.Algorithms, Addison-Wesley, 4th Edition. 2011."
+    ]
+  },
+  {
+    "course_id": "CS2002E",
+    "course_title": "COMPUTER ORGANIZATION",
+    "raw_references": [
+      "1. D. A. Patterson and J. L. Hennessy,Computer Organisation and Design: The Hardware/Software Interface, 6/e, Morgan Kaufmann, 2018.",
+      "2. V. P. Heuring and H. F. Jordan,Computer System Design and Architecture, Prentice Hall, 2003."
+    ]
+  },
+  {
+    "course_id": "CS2091E",
+    "course_title": "DATA STRUCTURES AND ALGORITHMS LABORATORY",
+    "raw_references": [
+      "1. T. H. Cormen, C. E. Leiserson, R. L. Rivest, and C. Stein,Introduction to Algorithms, 3/e, MIT Press, 2003",
+      "2. S. Sahni,Data Structures, Algorithms, and Applications in C++, McGraw Hill, 1998",
+      "3. A. V. Aho, J. D. Ullman, and J. E. Hopcroft,Data Structures and Algorithms, Addison Wesley, 1996.",
+      "4. Dasgupta, Sanjoy, Christos Papadimitriou, and Umesh Vazirani,Algorithms. McGraw-Hill, 2008.",
+      "5. R. Sedgewick, and K. Wayne.Algorithms, Addison-Wesley, 4th Edition, 2011"
+    ]
+  },
+  {
+    "course_id": "CS2092E",
+    "course_title": "HARDWARE LABORATORY",
+    "raw_references": [
+      "1. S. Palnitkar,Verilog HDL: A Guide to Digital Design and Synthesis2 nd ed , Prentice Hall PTR 2003.",
+      "2. B. J. LaMeres,Introduction to Logic Circuits & Logic Design with Verilog, 1/e, Springer, 2017.",
+      "3. S. Brown and Z. Vranesic,Fundamentals of Digital Logic with Verilog Design, McGraw-Hill Higher Education, Har/Cdr edition, 2002.",
+      "4. M. M. Mano and M. D. Ciletti,Digital Design, 4/e, Pearson Education, 2008",
+      "5. T. L. Floyd and R. P. Jain,Digital Fundamentals,8/e, Pearson Education, 2006 ."
+    ]
+  },
+  {
+    "course_id": "MA2012E",
+    "course_title": "MATHEMATICS IV",
+    "raw_references": [
+      "1. F. Dekking, C. Kraaikamp, H. Lopuha�,, L. Meester,A Modern Introduction to Probability and Statistics: Understanding Why and How, Springer London, 2005.",
+      "2. H. Stark, J. W. Woods,Probability, Statistics, and Random Processes for Engineers. Pearson, 2012.",
+      "3. N. S. Matloff,Probability and Statistics for Data Science: Math + R + Data, CRC Press, 2020.",
+      "4. N. T. Kottegoda, R. Rosso,Statistics, Probability, and Reliability for Civil and Environmental Engineers. Colombia: McGraw-Hill, 1998.",
+      "5. S. M. Ross,Introduction to Probability and Statistics for Engineers and Scientists, Elsevier Science, 2009."
+    ]
+  },
+  {
+    "course_id": "CS2011E",
+    "course_title": "DATABASE MANAGEMENT SYSTEM",
+    "raw_references": [
+      "1. R. Elmasri and S. B. Navathe,Fundamentals of Database Systems,6/e, Pearson Education, 2011.",
+      "2. R. Ramakrishnan and J. Gehrke,Database Management Systems, 3/e, McGraw Hill, 2003.",
+      "3. P. Rob and C. Coronel,Database Systems- Design, Implementation and Management, 7/e, Cengage Learning, 2007."
+    ]
+  },
+  {
+    "course_id": "CS2012E",
+    "course_title": "OPERATING SYSTEMS",
+    "raw_references": [
+      "1. Charles Crowley,Operating System: A design-oriented approach, India ed. McGraw Hill Education, 2017.",
+      "2. A.Silberschatz, P. B.Galvin, and G.Gagne,Operating System Principles, 10th ed.John Wiley, 2013.",
+      "3. W. Stallings,Operating Systems:Internals and design Principles, 9th ed. Pearson Education, 2018.",
+      "4. A. S. Tanenbaum and Herbert Bos,Modern Operating Systems, 4th ed. Pearson Education, 2017.",
+      "5. G. J. Nutt,Operating Systems - A Modern Perspective, 3rd ed. Pearson Education, 2009."
+    ]
+  },
+  {
+    "course_id": "CS2013E",
+    "course_title": "THEORY OF COMPUTATION",
+    "raw_references": [
+      "1. M. Sipser,Introduction to the Theory of Computation, Thomson, 2001.",
+      "2. D. C. Kozen,Automata and Computability, Addison Wesley, 1994.",
+      "3. J. C. Martin,Introduction to Languages and the Theory of Computation, McGraw Hill, 2002",
+      "4. John E. Hopcroft, Rajeev Motwani, Jeffrey D. Ullman,Introduction to Automata Theory, Languages, and Computations,Pearson Education India, 3rd edition, 2008."
+    ]
+  },
+  {
+    "course_id": "CS2019E",
+    "course_title": "PROFESSIONAL ETHICS",
+    "raw_references": [
+      "1. R.S. Naagarazan,A Textbook on Professional Ethics and Human Values, 3 rd edn., New Age International Pvt. Ltd., 2022.",
+      "2. A.F. Bainbridge,Ethics for Engineers: A Brief Introduction, CRC Press, 2021.",
+      "3. E.G. Seebauer and R.L. Barry,Fundamentals of Ethics for Scientists and Engineers,1 st ed., OUP India, 2008.",
+      "4. \"ACM Code of Ethics and Professional Conduct\", acm.org. https://www.acm.org/code-of-ethics, (accessed June 1, 2023).",
+      "5. \"IEEE Code of Ethics\",ieee.org.\thttps://www.ieee.org/about/corporate/governance/p7-8.html, (accessed June 1, 2023).",
+      "6. International Center for Academic Integrity, academic integrity.org. https://academicintegrity.org/, (accessed June 1, 2023)."
+    ]
+  },
+  {
+    "course_id": "CS3001E",
+    "course_title": "COMPUTER NETWORKS",
+    "raw_references": [
+      "1. J. F. Kurose and K. W. Ross,Computer Networking: A Top-Down Approach Featuring Internet,6/e, Pearson Education, 2012.",
+      "2. L. L. Peterson and B. S. Davie,Computer Networks, A systems approach,5/e, Morgan Kaufmann, 2011.",
+      "3. A. S. Tanenbaum and D. J. Wetherall,Computer Networks, 5/e, Pearson, 2013."
+    ]
+  },
+  {
+    "course_id": "CS3002E",
+    "course_title": "COMPILER DESIGN",
+    "raw_references": [
+      "1. A. V. Aho, M. S. Lam, R. Sethi, and J. D. Ullman,Compilers: Principles, Techniques and Tools, Pearson Education, 2007.",
+      "2. A. W. Appel and J. Palsberg,Modern Compiler Implementation in Java, Cambridge University Press, 2002.",
+      "3. D. Grune, K. van Reeuwijk, H. E Bal, C. J. H. Jacobs, and K. Langendoen.Modern Compiler Design, 2/e, Springer 2012."
+    ]
+  },
+  {
+    "course_id": "CS3003E",
+    "course_title": "DESIGN AND ANALYSIS OF ALGORITHMS",
+    "raw_references": [
+      ".",
+      "1. Dasgupta, Sanjoy, Christos Papadimitriou, and Umesh Vazirani,Algorithms. McGraw-Hill, 2008.",
+      "2. T. H. Cormen, C. E. Leiserson, R. L. Rivest, and C. Stein,Introduction to Algorithms, 4/e, Prentice Hall India, 2022",
+      "3. A. Levitin,Introduction to the Design & Analysis of Algorithms, Pearson Education. 2003"
+    ]
+  },
+  {
+    "course_id": "CS3011E",
+    "course_title": "SOFTWARE ENGINEERING",
+    "raw_references": [
+      "1. R. S. Pressman and Bruce Maxim,Software Engineering: A Practitioner's Approach, 9/e, McGraw Hill, 2020.",
+      "2. T. C. Lethbridge and R. Laganiere,Object Oriented Software Engineering, 2/e, Tata McGraw Hill, 2004.",
+      "3. Gary Gruver and Tommy Mouser,Leading the Transformation: Applying Agile and DevOps Principles at Scale, 2015.",
+      "4. Kenneth Rubin,Essential Scrum: A Practical Guide to the Most Popular Agile ProcessAddison-Wesley, 2012",
+      "5. Jez Humble and David Farley,Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation, Addison-Wesley, 2010.",
+      "6. Steve McConnell,Software Estimation: Demystifying the Black Art, Microsoft Press, 2006."
+    ]
+  },
+  {
+    "course_id": "CS3012E",
+    "course_title": "ARTIFICIAL INTELLIGENCE",
+    "raw_references": [
+      "1. S. Russell and P. Norvig,Artificial Intelligence:A Modern Approach, 4/e, Pearson Education, 2022.",
+      "2. G. F. Luger,Artificial Intelligence- Structures and Strategies for Complex Problem Solving, 6/e, 2021, Pearson Education.",
+      "3. E. Rich, K. Knight and S B Nair,Artificial Intelligence, 3/e, 2017, Tata McGraw Hill.",
+      "4. I. Bratko,Prolog Programming for Artificial Intelligence, 4/e, Addison Wesley, 2011."
+    ]
+  },
+  {
+    "course_id": "CS3099E",
+    "course_title": "PROJECT",
+    "raw_references": []
+  },
+  {
+    "course_id": "CS4097E",
+    "course_title": "SUMMER INTERNSHIP",
+    "raw_references": []
+  },
+  {
+    "course_id": "CS4021E",
+    "course_title": "LOGIC FOR COMPUTER SCIENCE",
+    "raw_references": [
+      "1. M. Huth and M. Ryan,Logic in Computer Science: Modeling and Reasoning about Systems, 2/e, Cambridge University Press, 2005.",
+      "2. C. Baler,Principles of Model Checking, MIT Press, 2008.",
+      "3. E. M. Clerke. Jr, O. Grumberg, and D. Peled,Model Checking, MIT Press, 2001."
+    ]
+  },
+  {
+    "course_id": "CS4022E",
+    "course_title": "PROGRAM ANALYSIS",
+    "raw_references": [
+      "1. F. Nielsen, H. R. Nielson, and C. Hankin,Principles of Program Analysis, Springer 1999.",
+      "2. A. V. Aho, M. S. Lam, R. Sethi, and J. D. Ullman,Compilers: Principles, Techniques, and Tools, Pearson Education, 2007",
+      "3. S. Muchnick,Advanced Compiler Design and Implementation, Morgan Kaufmann, 1997"
+    ]
+  },
+  {
+    "course_id": "CS4023E",
+    "course_title": "FORMAL SEMANTICS",
+    "raw_references": [
+      "1. F. Nielson and H. R. Nielson,Semantics with Applications: A Formal Introduction, John Wiley & Sons Inc., 1992.",
+      "2. G. Winskel,The Formal Semantics of Programming Languages - An Introduction, MIT Press, Cambridge, MA, 1994.",
+      "3. D. Schmidt,Denotational Semantics: A Methodology for Language Development., Kansas State University, 2011"
+    ]
+  },
+  {
+    "course_id": "CS4024E",
+    "course_title": "COMPUTATIONAL COMPLEXITY",
+    "raw_references": [
+      "1. S. Arora and B. Barak,Computational Complexity: A Modern Approach,Cambridge University Press, 2009.",
+      "2. C. H. Papadimitriou,Computational Complexity, 1/e, Addison Wesley, 1993.",
+      "3. R. Motwani and P. Raghavan,Randomized Algorithms, Cambridge University Press, 1995.",
+      "4. V. Vazirani,Approximation Algorithms, 1/e, Springer, 2004."
+    ]
+  },
+  {
+    "course_id": "CS4025E",
+    "course_title": "FORMAL VERIFICATION",
+    "raw_references": [
+      "1. Michael Huth, and Mark Ryan,Logic in Computer Science: Modelling and Reasoning about Systems, 2nd ed. Cambridge University Press, 2004.",
+      "2. Christel Baier and Joost-Pieter Katoen,Principles of Model Checking,MIT Press, 2008."
+    ]
+  },
+  {
+    "course_id": "CS4026E",
+    "course_title": "VEHICULAR NETWORKS: THEORY TO PRACTICE ",
+    "raw_references": [
+      "1. H. Hartenstein and K. P. Laberteaux,VANET: Vehicular Applications and InterNetworking Technologies, Wiley, 2010.",
+      "2. P. H.-J. Chong, I. W.-H. Ho,Vehicular Networks: Applications, Performance Analysis and Challenges,Nova Science Publishers, 2019.",
+      "3. H. Moustafa, Y. Zhang,Vehicular Networks: Techniques, Standards, and Applications,CRC Press, 2009.",
+      "4. C. Sommer, F. Dressler,Vehicular Networking,Cambridge University Press, 2015."
+    ]
+  },
+  {
+    "course_id": "CS4027E",
+    "course_title": "COMPUTATIONAL GEOMETRY",
+    "raw_references": [
+      "1. J. O'Rourke,Computational Geometry in C, 2/e, Cambridge University Press, 1998.",
+      "2. M. de Berg, M. van Kreveld, M. Overmars, and O. Schwarzkopf,Computational Geometry: Algorithms and Applications, 2/e (revised), Springer-Verlag,2000.",
+      "3. F. P. Preparata and M. I. Shamos,Computational Geometry: An Introduction, Springer-Verlag, 1985."
+    ]
+  },
+  {
+    "course_id": "CS4029E",
+    "course_title": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+    "raw_references": [
+      "1. B. C. Pierce,Types and Programming Languages, MIT Press, 2002.",
+      "2. D. A. Schmidt,Programming Language Semantics. In Allen B. Tucker, Ed. Handbook of Computer Science and Engineering, CRC Press, 1996.",
+      "3. L. Cardelli,Type Systems.In Allen B. Tucker,Ed. Handbook of Computer Science and Engineering,CRC Press, 1996.",
+      "4. M. L. Scott,Programming Language Pragmatics, 2/e, Elsevier, 2004."
+    ]
+  },
+  {
+    "course_id": "CS4030E",
+    "course_title": "FOUNDATIONS OF PROGRAMMING",
+    "raw_references": [
+      "1. H. Abelson and G. J. Sussman,Structure and Interpretation of Computer Programs, 2/e, Universities Press, 2005.",
+      "2. Companion Site to the Textbook. Available at http://mitpress.mit.edu/sicp/ Accessed on December 1, 2010.",
+      "3. T. C. Lethbridge and R. Laganiere,Object Oriented Software Engineering, 1/e, Tata McGraw Hill, 2004."
+    ]
+  },
+  {
+    "course_id": "CS4031E",
+    "course_title": "NETWORK SECURITY",
+    "raw_references": [
+      "1. C. Kaufman, R. Perlman, and M. Speciner,Network Security: Private Communication in a Public World, 2/e, Pearson India, 2017.",
+      "2. J. F. Kurose and K. W. Ross,Computer Networking: A Top-Down Approach, 8th ed. Pearson Education Asia, 2020.",
+      "3. W. Stallings, Cryptography and Network Security - Principles and Practice,8/e, Pearson India, 2023.",
+      "4. Lyon Gordon,Nmap Network Scanning: The Official Nmap Project Guide to Network Discovery and Security Scanning, Nmap Project, 2009.",
+      "5. Wolfgang Osterhage,Wireless Network Security, 2ed ed. CRC Press, 2021.",
+      "6. James Forshaw,Attacking Network Protocols: A Hacker's Guide to Capture, Analysis, and Exploitation, No Starch Press, 2017."
+    ]
+  },
+  {
+    "course_id": "CS4032E",
+    "course_title": "COMPUTER SECURITY",
+    "raw_references": [
+      "1. B. Menezes,Network security and Cryptography, Cengage Learning India, 2010.",
+      "2. B. A. Forouzan and Mukhopadhyay, Cryptography and Network Security, 2/e, Tata McGraw Hill, 2011.",
+      "3. D. Gollmann,Computer Security,3/e, John Wiley and Sons Ltd., 2014.",
+      "4. C. Kaufman, R. Perlman, and M. Speciner,Network Security: Private Communication in a Public World, 2/e, Pearson India, 2017.",
+      "5. W. Stallings, Cryptography and Network Security - Principles and Practice,8/e, Pearson India, 2023."
+    ]
+  },
+  {
+    "course_id": "CS4033E",
+    "course_title": "QUANTUM COMPUTATION",
+    "raw_references": [
+      "1. M. A. Nielsen and I. L. Chuang,Quantum Computation and Quantum Information, Cambridge, UK, Cambridge University Press, 2002.",
+      "2. J. Gruska,Quantum Computing, McGraw Hill, 1999.",
+      "3. A. Peres,Quantum Theory: Concepts and Methods, Springer, 1993."
+    ]
+  },
+  {
+    "course_id": "CS4034E",
+    "course_title": "ADVANCED COMPUTER NETWORKS",
+    "raw_references": [
+      "1. A. Farrel,The Internet and its protocols a comparative approach, Elsevier, 2005",
+      "2. M. Gonsalves and K. Niles,IPv6 Networks, McGraw Hill, 1998.",
+      "3. W. R. Stevens,TCP/IP Illustrated, Volume 1: The protocols, Addison Wesley, 1994.",
+      "4. G. R. Wright,TCP/IP Illustrated, Volume 2: The Implementation,Addison Wesley, 1995."
+    ]
+  },
+  {
+    "course_id": "CS4035E",
+    "course_title": "PROBABILISTIC METHODS IN COMBINATORICS",
+    "raw_references": [
+      "1. Noga Alon and Joel H. Spencer,The probabilistic method, 4 th ed. John Wiley & Sons, 2016.",
+      "2. Michael Molloy and Bruce Reed,Graph Colouring and the Probabilistic Method, Vol. 23. Springer Science & Business Media, 2002.",
+      "3. M. Mitzenmacher, E. Upfal,Probability and Computing: Randomised Algorithms and Probabilistic Analysis, Cambridge University PressCambridge University Press, 2005."
+    ]
+  },
+  {
+    "course_id": "CS4036E",
+    "course_title": "ALGORITHMS IN OPTIMIZATION",
+    "raw_references": [
+      "1. E. K. P. Chong and S. H. Zak,An Introduction to Optimization, 4 th ed., Wiley, 2013.",
+      "2. M. J. Kochenderfer, T. A. Wheeler,Introduction to Optimization, MIT Press, 2019.",
+      "3. S. Boyd, L. Vandenberghe,Convex Optimization,Cambridge University Press, 2004."
+    ]
+  },
+  {
+    "course_id": "CS4037E",
+    "course_title": "ALGORITHMIC GRAPH THEORY",
+    "raw_references": [
+      "1. D. Jungnickel,Graphs Networks and Algorithms, Springer 2005",
+      "2. Dexter Kozen.The design and analysis of algorithms. Springer Science & Business Media, 1992.",
+      "3. R. Diestel.Graph Theory, Springer, 2010.",
+      "4. C. E. Leiserson, R. L Rivest, C. Stein, Introduction to Algorithms, 4th ed., MIT Press, 2022."
+    ]
+  },
+  {
+    "course_id": "CS4038E",
+    "course_title": "COMPUTATIONAL ALGEBRA",
+    "raw_references": [
+      "1. V. Shoup,A computational Introduction to Number Theory and Algebra,Cambridge University Press, 2005.",
+      "2. H. Delfs and H. Knebl,Introduction to Cryptography, Springer, 1998.",
+      "3. J. von zur Gathen,Modern Computer Algebra,Cambridge University Press, 2003.",
+      "4. W. C. Huffman and V. Pless,Fundamentals of Error Correcting Codes, Cambridge University press, 2003,",
+      "5. D, Cox, David A. J. Little, John, O. Donal (1997).Ideals, Varieties, and Algorithms: An Introduction to Computational Algebraic Geometry and Commutative Algebra. Springer 1997."
+    ]
+  },
+  {
+    "course_id": "CS4038E",
+    "course_title": "COMPUTER ARCHITECTURE",
+    "raw_references": [
+      "1. J. L Hennessy and D. A. Patterson,A.Computer Architecture: A Quantitative approach, 6/e, Morgan Kaufmann, 2017.",
+      "2. D. A. Patterson and J. L. Hennessy,Computer Organisation and Design: The Hardware/ Software Interface, 5/e, Harcourt Asia Pte Ltd (Morgan Kaufman), 2014."
+    ]
+  },
+  {
+    "course_id": "CS4040E",
+    "course_title": "MATHEMATICAL FOUNDATIONS OF MACHINE LEARNING",
+    "raw_references": [
+      "1. R. S. Ross,Introduction to Probability and Statistics for Engineers and Scientists,Academic Press, 2014.",
+      "2. K. Hoffman and R. Kunze.Linear Algebra, 2/e, Prentice Hall of India, 1990.",
+      "3. E. K. P. Chong and S. H. Zak,An Introduction to Optimization,2/e, John Wiley & Sons, 2004.",
+      "4. B. Stephen and L. Vandenberghe,Convex Optimization, Cambridge University Press, 2004."
+    ]
+  },
+  {
+    "course_id": "CS4041E",
+    "course_title": "INTRODUCTION TO MACHINE LEARNING",
+    "raw_references": [
+      "1. S. Shalev-Shwartz and S. Ben-David,Understanding Machine Learning: From Theory to Algorithms, Cambridge University Press, 2014.",
+      "2. M. Mohri, A. Rostamizadeh, A. Talwalker,Foundations of Machine Learning, MIT Press, 2018.",
+      "3. C. M. Bishop,Pattern Recognition and Machine Learning, Springer, 2006."
+    ]
+  },
+  {
+    "course_id": "CS4042E",
+    "course_title": "RANDOMIZED ALGORITHMS",
+    "raw_references": [
+      "1. R. Motwani and P. Raghavan,Randomized Algorithms,Cambridge University Press, 1995.",
+      "2. M. Mitzenmacher and E. Upfal,Probability and Computing: Randomization and probabilistic techniques in algorithms and data analysis,2 nd ed., Cambridge University Press, 2017.",
+      "3. C. H. Papadimitriou,Computational Complexity, Addison Wesley, 1994.",
+      "4. M. Jerum,Counting, Sampling and Integrating: Algorithms and Complexity,3 rd ed., Birkhauser, 2003."
+    ]
+  },
+  {
+    "course_id": "CS4043E",
+    "course_title": "INTRODUCTION TO PARAMETERIZED ALGORITHMS",
+    "raw_references": [
+      "1. M. Cygan, F. V. Fomin, L. Kowalik, D. Lokshtanov, D. Marx, M. Pilipczuk, M. Pilipczuk, and S. Saurabh,Parameterized Algorithms, Springer, June 2015.",
+      "2. R. Niedermeier,Invitation to fixed-parameter algorithms,Oxford university press, 2006.",
+      "3. R. G. Downey and M. R. Fellows,Fundamentals of Parameterized Complexity,Springer, 2013."
+    ]
+  },
+  {
+    "course_id": "CS4044E",
+    "course_title": "INTRODUCTION TO PARAMETERIZED COMPLEXITY THEORY",
+    "raw_references": [
+      "1. J. Flum and M. Grohe,Parameterized Complexity Theory, Springer, 2006.",
+      "2. R. Niedermeier,Invitation to fixed-parameter algorithms,Oxford university press, 2006.",
+      "3. R. G. Downey and M. R. Fellows,Fundamentals of Parameterized Complexity,Springer, 2013."
+    ]
+  },
+  {
+    "course_id": "CS4045E",
+    "course_title": "IMAGE PROCESSING",
+    "raw_references": [
+      "1. R. C. Gonzalez and R. E. Woods,Digital Image Processing,Pearson Education, 2018.",
+      "2. A. K. Jain, Fundamentals of Digital Images Processing,Pearson Education India, 2015"
+    ]
+  },
+  {
+    "course_id": "CS4046E",
+    "course_title": "DEEP LEARNING FOR COMPUTER VISION",
+    "raw_references": [
+      "1. Ian Goodfellow, Yoshua Bengio, Aaron Courville, Deep Learning, MIT Press, 2016.",
+      "2. Michael Nielsen, Neural Networks and Deep Learning, Determination Press, 2015.",
+      "3. Yoshua Bengio, Learning Deep Architectures for AI, now Publishers Inc., 2009.",
+      "4. Richard Szeliski, Computer Vision: Algorithms and Applications, Springer, 2010.",
+      "5. Simon Prince, Computer Vision: Models, Learning, and Inference, Cambridge University Press, 2012.",
+      "6. David Forsyth, Jean Ponce, Computer Vision: A Modern Approach, PHI Learning Pvt. Ltd., 2002."
+    ]
+  },
+  {
+    "course_id": "CS4047E",
+    "course_title": "ADVANCED COMPUTER ARCHITECTURE AND SECURITY",
+    "raw_references": [
+      "1. D. A. Patterson and J. L. Hennessy,Computer Organisation and Design: The Hardware/Software Interface, 6/e, Morgan Kaufmann.",
+      "2. V. P. Heuring and H. F. Jordan,Computer System Design and Architecture, Prentice Hall, 2003",
+      "3. John Paul Shen and Mikko H. Lipasti,Modern Processor Design: Fundamentals of Superscalar Processors, 2013"
+    ]
+  },
+  {
+    "course_id": "CS4048E",
+    "course_title": "CLOUD COMPUTING",
+    "raw_references": [
+      "1. Rajkumar Buyya, James Broberg, Andrzej M. Goscinski,Cloud Computing: Principles and Paradigms, Editors:,Wiley, 2011",
+      "2. Ronald L. Krutz, Russell Dean Vines,Cloud Security: A Comprehensive Guide to Secure Cloud Computing, Wiley- India,2010",
+      "3. Barrie Sosinsky,Cloud Computing Bible, Wiley-India, 2010"
+    ]
+  },
+  {
+    "course_id": "CS4049E",
+    "course_title": "DISTRIBUTED COMPUTING",
+    "raw_references": [
+      "1. V. K. Garg,Elements of Distributed Computing, Wiley & Sons, 2002.",
+      "2. S. Ghosh,Distributed Systems An Algorithmic Approach, Chapman & Hall,CRC Computer and Information Science Series, 2006.",
+      "3. A. S. Tanenbaum and M. V. Steen,Distributed Systems: Principles and Paradigms,2/e, Pearson, 2007.",
+      "4. G. Coulouris, J. Dollimore, T. Kindberg, and G. Blair,Distributed Systems: Concepts and Design,5/e, Addison Wesley, 2011.",
+      "5. R. Chow and T. Johnson,Distributed Operating Systems and Algorithms, Addison Wesley, 2002."
+    ]
+  },
+  {
+    "course_id": "CS4050E",
+    "course_title": "NATURAL LANGUAGE PROCESSING",
+    "raw_references": [
+      "1. J. Allen,Natural Language Understanding, 2/e, Pearson Education, 2003.",
+      "2. T. Siddiqui and U. S. Tiwary,Natural Language Processing and Information Retrieval, Oxford University Press, 2008.",
+      "3. D. Jurafsky and J. H. Martin,Speech and Language Processing, Third Edition, 2023."
+    ]
+  },
+  {
+    "course_id": "CS4051E",
+    "course_title": "INTRODUCTION TO BIOINFORMATICS",
+    "raw_references": [
+      "1. N. C. Jones and P. A. Pevzner,An Introduction to Bioinformatics Algorithms, MIT Press, 2004.",
+      "2. D. E. Krane and M. L. Raymer,Fundamental Concepts of Bioinformatics, Pearson Education, 2003.",
+      "3. T. K. Attwood and D. J. Parry-Smith,Introduction to Bioinformatics, Pearson Education, 2003."
+    ]
+  },
+  {
+    "course_id": "CS4052E",
+    "course_title": "NUMBER THEORY AND CRYPTOGRAPHY",
+    "raw_references": [
+      "1. H. Delfs and H. Knebl,Introduction to Cryptography: Principles and Applications,Springer-Verlag, 2002.",
+      "2. S. Vaudenay,A Classical Introduction to Cryptography: Applications for Communications Security, Springer, 2009.",
+      "3. B. A. Forouzan and D. Mukhopadhyay,Cryptography and Network Security,3rd ed. Tata McGraw Hill, 2015",
+      "4. Kenneth Rosen,Elementary Number Theory: And Its Applications, 6th ed. Pearson, 2010",
+      "5. Jonathan_Katz and Yehuda Lindell,Introduction to Modern Cryptography,2nd ed. Chapman and Hall, 2015",
+      "6. Thomas Baigneres, Pascal Junod, Yi Lu, Jean Monnerat, and Serge Vaudenay,A Classical Introduction to Cryptography Exercise Book, 1st ed. Springer Piublication, 2005",
+      "7. Victor Shoup,A Computational Introduction to Number Theory and Algebra,2nd ed., Cambridge Univ. Press, 2008."
+    ]
+  },
+  {
+    "course_id": "CS4053E",
+    "course_title": "DATA MINING",
+    "raw_references": [
+      "1. P. Tan, M. Steinbach, and V. Kumar,Introduction to Data Mining, Pearson Education 2006.",
+      "2. J. Han and M. Kamber,Data Mining: Concepts and Techniques, 2/e, Morgan Kaufmann, 2005.",
+      "3. T. Hastie, R. Tibshirani, and J. Friedman,The Elements of Statistical Learning - Data Mining, Inference, and Prediction, 2/e, Springer, California, 2008."
+    ]
+  },
+  {
+    "course_id": "CS4054E",
+    "course_title": "EMBEDDED SYSTEMS",
+    "raw_references": [
+      "1. S. Heath,Embedded System Design, 2/e, Elsevier, 2002.",
+      "2. D. E. Simon,An Embedded Software Primer, Pearson Education, 2010",
+      "3. DreamTech Software Team,Programming of Embedded Systems, Wiley DreamTech, 2002.",
+      "4. E. A. Lee and S. A. Seshia,Introduction to Embedded Systems - A Cyber-Physical Systems Approach, Second Edition, MIT Press, 2017."
+    ]
+  },
+  {
+    "course_id": "CS4055E",
+    "course_title": "OBJECT ORIENTED SYSTEMS",
+    "raw_references": [
+      "1. A. Bahrami,Object Oriented Systems Development,1/e, McGraw-Hill, 2000",
+      "2. G. Booch, R. A. Maksimchuk, M. W. Engle, B. J. Young, and J. Conallen,Object-Oriented Analysis and Design with Applications,3/e, The Addison Wesley Object Technology Series.",
+      "3. B. D. McLaughlin, G. Pollice, and D. West,Head First Object-Oriented Analysis and Design, 1/e, O'Reilly .",
+      "4. M. Weisfeld,Object-Oriented Thought Process, 4/e, Addison-Wesley Professional, 2013."
+    ]
+  },
+  {
+    "course_id": "CS4056E",
+    "course_title": "APPROXIMATION ALGORITHMS",
+    "raw_references": [
+      "1. David P. Williamson and David B. Shmoys,The design of Approximation Algorithms, Cambridge University Press, 2011.",
+      "2. Vijay V. Vazirani,Approximation Algorithms, First Edition, Springer-Verlag Berlin Heidelberg, 2003.",
+      "3. G. Ausiello, P. Crescenzi, G. Gambosi, V. Kann, A. Marchetti Spaccamela, M. Protasi,Complexity and Approximation: Combinatorial Optimization Problems and Their Approximability Properties, Springer, Second corrected printing 2003.",
+      "4. Sariel Har-Peled,Geometric Approximation Algorithms, AMS Series in Mathematical Surveys and Monographs, 2011",
+      "5. T. H. Cormen, C. E. Leiserson, R. L. Rivest and C. Stein,Introduction to Algorithms,3 rd ed. MIT Press, 2009."
+    ]
+  },
+  {
+    "course_id": "CS4057E",
+    "course_title": "DATA PRIVACY",
+    "raw_references": [
+      "1. C. Dwark and A. Roth,The Algorithmic Foundations of Differential Privacy,Foundations and Trends in Theoretical Computer Science Vol. 9, Nos. 3-4, 2014.",
+      "2. J.P.\tNear\tand\tC.\tAbuah,Programming\tDifferential\tPrivacy,\tAvailable\tonline\tat https://uvm-plaid.github.io/programming-dp/ (accessed October 10, 2023).",
+      "3. K. Jarmul,Practical Data Privacy, O'Reilly Media, Inc., 2023.",
+      "4. Nissim et al.,Differential Privacy: A Primer for a Non-technical Audience,Available online at https://privacytools.seas.harvard.edu/files/privacytools/files/pedagogical-document-dp_new.pdf\t(accessed October 10, 2023).",
+      "5. OPENDP\t-\tOpen\tSource\tSoftware\tTools\tfor\tDifferential\tPrivacy,\tAvailable\tonline\tat https://docs.opendp.org/en/stable/index.html (accessed October 10, 2023)."
+    ]
+  },
+  {
+    "course_id": "CS4058E",
+    "course_title": "CODING THEORY",
+    "raw_references": [
+      "1. W. C. Huffman and V. Pless,Fundamentals of error correcting codes, Cambridge University Press, 2003.",
+      "2. J. H. Van Lint,An Introduction to Coding Theory,2/e, New York: Springer-Verlag, 1992.",
+      "3. R. J. McEliece,The Theory of Information and Coding, Addison Wesley, 1997"
+    ]
+  },
+  {
+    "course_id": "CS4059E",
+    "course_title": "TERM PAPER",
+    "raw_references": [
+      "1. G. J. Alred, C. T. Brusaw, and W. E. Oliu,The Handbook of Technical Writing,11/e, Bedford/St. Martins, 2015.",
+      "2. P. A. Laplante,Technical Writing: A practical guide for engineers and scientists, CRC Press, 2011."
+    ]
+  },
+  {
+    "course_id": "CS4080E",
+    "course_title": "OPERATING SYSTEMS LABORATORY",
+    "raw_references": [
+      "1. G. J. Nutt,Operating Systems,3/e, Pearson Education, 2004.",
+      "2. D. P. Bovet and M. Cesati ,Understanding the Linux Kernel,3/e, O'Reilly Media, 2005",
+      "3. C. Crowley,Operating Systems: A design oriented approach, 1/e, Mc. Graw Hill, 2006."
+    ]
+  },
+  {
+    "course_id": "CS4081E",
+    "course_title": "COMPILER LABORATORY",
+    "raw_references": [
+      ".",
+      "1. W. Appel,Modern Compiler Implementation in C, Cambridge University Press, 1998.",
+      "2. V. Aho, M. S. Lam, R. Sethi, and J. D. Ullman,Compilers- Principles, Techniques & Tools, 2/e, Pearson Education, 2007.",
+      "3. D. Grune, K. V. Reeuwijk, H. E. Bal, C. J. H. Jacobs, and K. Langendoen,Modern Compiler Design, 2/e, Pearson Education, 2007"
+    ]
+  },
+  {
+    "course_id": "CS4082E",
+    "course_title": "DIGITAL DESIGN LABORATORY",
+    "raw_references": [
+      "1. B. J. LaMeres, Introduction to Logic Circuits & Logic Design with Verilog, 1/e, Springer, 2017.",
+      "2. S. Brown and Z. Vranesic, Fundamentals of Digital Logic with Verilog Design, McGraw-Hill Higher Education, Har/Cdr edition, 2002.",
+      "3. M. M. Mano and M. D. Ciletti, Digital Design, 4/e, Pearson Education, 2008",
+      "4. T. L. Floyd and R. P. Jain, Digital Fundamentals, 8/e, Pearson Education, 2006."
+    ]
+  },
+  {
+    "course_id": "CS4083E",
+    "course_title": "DATABASE SYSTEM DESIGN LABORATORY",
+    "raw_references": [
+      ".",
+      "1. H. Garcia-Molina, J. D. Ullman, J. Widom,Database Systems: The Complete Book,Pearson Prentice Hall, 2009.",
+      "2. H. Garcia-Molina, J. D. Ullman, J. D. Widom, Database System Implementation Pearson 1999"
+    ]
+  },
+  {
+    "course_id": "CS4084E",
+    "course_title": "NETWORKS LABORATORY",
+    "raw_references": [
+      ".",
+      "1. W. R. Stevens,Unix Network Programming - Networking APIs: Sockets and XTI,2/e, Volume 1, Pearson Education, 2004.",
+      "2. W. W. Gay,Linux Socket Programming by Example, 1/e, Que Press, 2000",
+      "3. Brian  \"Beej  Jorgensen\"  Hall,Beej's  Guide  to  Network  Programming  Using  Internet  Sockets, https://beej.us/guide/bgnet/html/ (Last accessed on 09.10.2023).",
+      "4. Renzo\tDavoli,\tBerkeley\tPacket\tFilter:Theory,\tPractice,\tand\tPerspectives,\t1st\ted. https://amslaurea.unibo.it/19622/1/berkeleypacketfilter_distefano.pdf (Last accessed on 10.10.2023)"
+    ]
+  },
+  {
+    "course_id": "CS4085E",
+    "course_title": "SOFTWARE ENGINEERING LABORATORY",
+    "raw_references": [
+      ".",
+      "1. R. S. Pressman and Bruce Maxim, Software Engineering: A Practitioner's Approach, 9/e, McGraw Hill, 2020.",
+      "2. T. C. Lethbridge and R. Laganiere,Object Oriented Software Engineering, 1/e, Tata McGraw Hill, 2004.",
+      "3. Jake Knapp, John Zeratsky and Braden Kowitz,SPRINT: How to Solve Big Problems and Test New Ideas in Just Five Days, Bantam Press, 2016."
+    ]
+  },
+  {
+    "course_id": "CS4086E",
+    "course_title": "SYSTEMS PROGRAMMING LABORATORY",
+    "raw_references": [
+      "1. B. W. Kernighan and R. Pike,The Unix Programming Environment,Prentice Hall, 1983.",
+      "2. W. R. Stevens,Advanced Programming in the Unix Environment,3/e, Addison Wesley, 2013."
+    ]
+  },
+  {
+    "course_id": "CS4087E",
+    "course_title": "COMPUTER SECURITY LABORATORY",
+    "raw_references": [
+      ".",
+      "1. Michael Gregg,Build Your Own Security Lab, Wiley India, 2008",
+      "2. B. Menezes,Network security and Cryptography,Cengage Learning India, 2010."
+    ]
+  },
+  {
+    "course_id": "CS4088E",
+    "course_title": "OBJECT ORIENTED SYSTEMS LABORATORY",
+    "raw_references": [
+      "1. B. Stroustrup,The C++ Programming Language,3/e, Addison Wesley, 1997.",
+      "2. S. Oualline,Practical C++ Programming,2/e, O'Reilly & Associates, 2002.",
+      "3. J. Nino and F. A. Hosch,An introduction to programming and object oriented design using Java,Wiley India, 2010"
+    ]
+  },
+  {
+    "course_id": "CS4089E",
+    "course_title": "MACHINE LEARNING LABORATORY",
+    "raw_references": [
+      "1. R. O. Duda, P. E. Hart, and D. G. Stork,Pattern Classification, John-Wiley, 2004.",
+      "2. C. M. Bishop,Pattern Recognition and Machine Learning, Springer, 2006.",
+      "3. Yuxi(Hayden) Liu,Python Machine Learning by Example, Packt, 2017."
+    ]
+  },
+  {
+    "course_id": "CS4090E",
+    "course_title": "IMAGE PROCESSING LABORATORY",
+    "raw_references": [
+      "1. R. C. Gonzalez and R. E. Woods,Digital Image Processing, Addison Wesley, 2007.",
+      "2. A. K. Jain,Fundamentals of Digital Image Processing, Prentice Hall, Englewood Cliffs, 2002."
+    ]
+  },
+  {
+    "course_id": "CS4091E",
+    "course_title": "PROCESSOR DESIGN LABORATORY",
+    "raw_references": [
+      "1. B. J. LaMeres,Introduction to Logic Circuits & Logic Design with Verilog, 1/e, Springer, 2017.",
+      "2. S. Brown and Z. Vranesic,Fundamentals of Digital Logic with Verilog Design, McGraw-Hill Higher Education, Har/Cdr edition, 2002.",
+      "3. M. M. Mano and M. D. Ciletti,Digital Design, 4/e, Pearson Education, 2008",
+      "4. T. L. Floyd and R. P. Jain,Digital Fundamentals,8/e, Pearson Education, 2006.",
+      "5. Samir Palnitkar,Verilog HDL: A Guide to Digital Design and Synthesis,Prentice Hall PTR, 2003. L T P O C 0 0 0 9 3 Course Outcomes: At the end of the course, the student will be able to: CO1: Compile findings in a topic of interest relevant to the domain. CO2: Choose a problem from the topic to solve and justify the choice. CO3: Design the solution to the problem and document the same. CO4: Attempt to solve the problem using relevant tools / techniques. CO5: Summarise the findings / solution as a technical report. CO6: Present the findings / solution and defend the same. The project may be carried out in industry or academia, individually or in a group, and could be interdisciplinary."
+    ]
+  },
+  {
+    "course_id": "CS4101E",
+    "course_title": "DEEP LEARNING: ALGORITHMS AND ARCHITECTURES",
+    "raw_references": [
+      "1. Y. Bengio, I. Goodfellow and A. Courville,Deep Learning, MIT Press, 2016.",
+      "2. Nielsen, Michael A.Neural networks and deep learning.Vol. 25. San Francisco, CA, USA: Determination press, 2015.",
+      "3. Bishop, C., M.,Pattern Recognition and Machine Learning, Springer , 2006.",
+      "4. Francois Chollet,Deep Learning with Python, Manning Publications, 2017.",
+      "5. Prince, Simon JD.Computer vision: models, learning, and inference. Cambridge University Press, 2012.",
+      "6. Stuart Jonathan Russell, Peter Norvig,Artificial Intelligence:\tA Modern Approach, 4th Edn, Pearson Education, Inc, 2016."
+    ]
+  },
+  {
+    "course_id": "CS4102E",
+    "course_title": "AI FOR HEALTHCARE",
+    "raw_references": [
+      "1. Y. Bengio, I. Goodfellow and A. Courville,Deep Learning, MIT Press, 2016.",
+      "2. Francois Chollet,Deep Learning with Python, Manning Publications, 2017.",
+      "3. Bishop, C., M.,Pattern Recognition and Machine Learning, Springer , 2006.",
+      "4. S. J. Russell, P. Norvig,Artificial Intelligence: A modern approach, 4 th ed.,Pearson, 2016.",
+      "5. D. Foster,Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play, O'Reilly Media, 2019."
+      
+    ]
+  },
+  {
+    "course_id": "CS4201E",
+    "course_title": "CYBER-PHYSICAL SYSTEMS: MODELLING AND SIMULATION",
+    "raw_references": [
+      "1. R. Alur,Principles of Cyber Physical Systems, MIT Press, 2015.",
+      "2. R. Rajkumar, D. de Niz, M. Klein,Cyber-Physical Systems, Pearson Education, 2017.",
+      "3. W.M. Taha, A.M. Taha, J. Thunberg,Cyber-Physical Systems: A Model-Based Approach, Springer-Cham, 2020."
+      
+    ]
+  },
+  {
+    "course_id": "CS4202E",
+    "course_title": "FOUNDATIONS OF IoT AND M2M COMMUNICATIONS",
+    "raw_references": [
+      "1. Kurose J. F.\tand K. W. Ross,Computer Networking: A Top-Down Approach Featuring Internet, Pearson Education, 2017.",
+      "2. Holler, J., Vlasios T., Catherine M., Stamatis Karnouskos, Stefan A, David B.,From Machine-to-Machine to the Internet of Things - Introduction to a New Age of Intelligence, Elsevier Ltd., 2014.",
+      "3. Peterson L.L. and Davie B.S.,Computer Networks, A systems approach, Harcourt Asia, 2021.",
+      "4. Adrian Farrel,The Internet and its Protocols: A Comparative Approach, Elsevier, 2005."
+    ]
+  }
+]

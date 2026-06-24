@@ -1,0 +1,1300 @@
+[
+  {
+    "course_id": "MA1003E",
+    "course_title": "MATHEMATICS I",
+    "raw_references": [
+      "1. H. Anton, I. Bivens, and S. Davis, Calculus, 10th ed. John Wiley & Sons, 2015.",
+      "2. G.B. Thomas, W. J. Hass, and M.D. Thomas, Calculus, 12thed. Pearson, 2015.",
+      "3. E. Kreyszig, Advanced Engineering Mathematics, 10thed. John Wiley & Sons, 2015.",
+      "4. G. Strang, Introduction to Linear Algebra, Wellesley, MA: Cambridge Press, 2016."
+    ]
+  },
+  {
+    "course_id": "CY1001E",
+    "course_title": "CHEMISTRY FOR CIVIL ENGINEERS",
+    "raw_references": [
+      "1. P. Atkins and J. Paula, Physical Chemistry, 8thed. New York: W. H. Freeman and Company, 2006.",
+      "2. P. K. Mehta and P. J. M. Monteiro, Concrete- Microstructure, Properties and Materials, McGraw Hill Education, 2014.",
+      "3. B. R. Puri, L. R. Sharma, and M.S. Pathania, Principles of Physical Chemistry, 48thed. India: Vishal Publishing Co., 2021.",
+      "4. C. N. Sawyer, P. L. McCarty, and G. F. Parkin, Chemistry for Environmental Engineering and Science. McGraw Hill Education, 2017.",
+      "5. D. West, D. Skoog, F. Holler, and S. Crouch, Fundamentals of Analytical Chemistry, 9thed. Brooks/Cole Publication, 2014."
+    ]
+  },
+  {
+    "course_id": "MS1001E",
+    "course_title": "PROFESSIONAL COMMUNICATION",
+    "raw_references": [
+      "1. N. Bhatnagar and M. Bhatnagar, Communicative English for Engineers and Professionals. Dorling Kindersley, 2010.",
+      "2. M. Foley and D. Hall, Longman Advanced Learners' Grammar: A Self-Study Reference & Practice Book with Answers. Pearson Education, 2018.",
+      "3. B. A. Garner, HBR Guide to Better Business Writing: Engage Readers, Tighten and Brighten, Make Your Case. Harvard Business Review Press, 2012.",
+      "4. M. Hewings, Advanced Grammar in Use: A Reference and Practice Book for Advanced Learners of English. Cambridge University Press, 2013.",
+      "5. M. Ibbotson, Cambridge English for Engineering. Cambridge University Press, 2015.",
+      "6. S. Kumar and P. Lata, Communication Skills. Oxford University Press, 2015.",
+      "7. N. Sudarshana and C. Savitha, English for Technical Communication. Cambridge English, 2016."
+    ]
+  },
+  {
+    "course_id": "CE1001E",
+    "course_title": "ENGINEERING MECHANICS",
+    "raw_references": [
+      "1. F.P. Beer and E.R. Johnston, Vector Mechanics for Engineers - Statics, McGraw Hill Book Co., Hill Education. 10thed. 2012.",
+      "2. R.C. Hibbeler, Engineering Mechanics - Statics, Pearson Prentice Hall, 14thed. 2016.",
+      "3. J.L. Meriam and L.G. Kraige, Engineering Mechanics - Statics, John Wiley & Sons. 5thed. 2006.",
+      "4. I.H. Shames, Engineering Mechanics - Statics and Dynamics, Prentice Hall of India. 4thed., 2016.",
+      "5. S. Timoshenko, D.H. Young, J.V. Rao, and S. Pati, Engineering Mechanics, McGraw Hill, 5thed.",
+      "2017."
+    ]
+  },
+  {
+    "course_id": "CE1002E",
+    "course_title": "BUILDING TECHNOLOGY",
+    "raw_references": [
+      "1. R. Chudley, Construction Technology, Longman Publishing Group, 1973.",
+      "2. S. K. Duggal, Building Materials, Oxford & IBH Publishing Co. Ltd., New Delhi, 2019.",
+      "3. Mehta, Scarborough, and Armpriest, Building Construction: Principles, Materials, and Systems, Pearson, 2017.",
+      "4. A. M. Neville, Concrete Technology, Pearson Education Ltd., 2019.",
+      "5. S. C. Rangwala, Engineering Materials, Charotar Publishing House, 2019.",
+      "6. G.C. Sahu and J. Jena, Building Materials and Construction, McGraw Hill Education, 2017.",
+      "7. P. C. Varghese, Building Materials, Prentice Hall of India, 2015."
+    ]
+  },
+  {
+    "course_id": "CE1003E",
+    "course_title": "ENGINEERING GEOLOGY",
+    "raw_references": [
+      "1. F.G. Bell, Fundamentals of Engineering Geology, Elsevier, 2016.",
+      "2. F.G.H. Blyth and M.H. de Freitas, Geology for Engineers, Elsevier, 2017.",
+      "3. S. Gangopadhyay, Engineering Geology, Oxford University Press, 2013.",
+      "4. N.C. Kesavulu, Textbook of Engineering Geology, Macmillan India Limited, 1996.",
+      "5. P. Singh, Engineering Geology and General Geology, S.K Kataria and Sons, 2013.",
+      "6. P.C. Varghese, Engineering Geology for Civil Engineers, Prentice Hall of India, 2012."
+    ]
+  },
+  {
+    "course_id": "MA1013E",
+    "course_title": "MATHEMATICS II",
+    "raw_references": [
+      "1. H. Anton, I. Bivens, and S. Davis, Calculus, 10thed. New York: John Wiley & Sons, 2015.",
+      "2. V.I. Arnold, Ordinary Differential Equations, New York: Springer, 2006.",
+      "3. P. Dyke, An Introduction to Laplace Transforms and Fourier Series, Springer, 2014.",
+      "4. E. Kreyszig, Advanced Engineering Mathematics, 10thed. New Delhi, India: Wiley, 2015."
+    ]
+  },
+  {
+    "course_id": "CE1011E",
+    "course_title": "ENGINEERING GRAPHICS",
+    "raw_references": [
+      "1. B. Agrawal and C. M. Agrawal, Engineering Drawing, 3rd ed. McGraw Hill Education, 2019.",
+      "2. N. D. Bhatt, Engineering Drawing, 54thed.,Charotar Publishing House, 2023.",
+      "3. K. Venugopal and V. P. Raja, Engineering Drawing + Auto CAD, 6th ed. New Age International Pvt Ltd., 2022."
+    ]
+  },
+  {
+    "course_id": "CE1012E",
+    "course_title": "MECHANICS OF SOLIDS",
+    "raw_references": [
+      "1. F.P. Beer and E.R. Johnston, Mechanics of Materials, New Delhi: Tata McGraw Hill, 2005.",
+      "2. J.M. Gere, Mechanics of Materials, Singapore: Thomson, 2001.",
+      "3. W.A. Nash, Strength of Materials, Schaum's Outline Series, New York: McGraw Hill, 1988.",
+      "4. E.P. Popov, Mechanics of Materials, New Delhi: Prentice Hall India, 2002.",
+      "5. S.P. Timoshenko and D.H. Young, Elements of Strength of Materials, New Delhi: East West Press, 2003."
+    ]
+  },
+  {
+    "course_id": "CE1013E",
+    "course_title": "MECHANICS OF FLUIDS",
+    "raw_references": [
+      "1. P.N. Modi and S.M. Seth, Hydraulics and Fluid Mechanics including Hydraulics Machines, New Delhi: Standard Book House, 2022.",
+      "2. I.H. Shames, Mechanics of Fluids, New York: McGraw Hill, 2002.",
+      "3. V.L. Streeter, E.B. Wylie, K.W. Bedford, Fluid Mechanics, New York: McGraw Hill, 2017.",
+      "4. K. Subramanya, Theory and Applications of Fluid Mechanics, New York: McGraw Hill, 1993."
+    ]
+  },
+  {
+    "course_id": "CE1014E",
+    "course_title": "SURVEYING",
+    "raw_references": [
+      "1. J. Anderson and E. Mikhail, Surveying: Theory and Practice, 7thed. New York: McGraw Hill Education, 2017.",
+      "2. W. Schofield and M. Breach, Engineering Surveying, 6thed. Elsevier, CBSPD, 2007.",
+      "3. R. Subramanian, Surveying and Levelling, 2nd ed. Oxford: Oxford University Press, 2012."
+    ]
+  },
+  {
+    "course_id": "CE1091E",
+    "course_title": "SURVEYING LAB",
+    "raw_references": [
+      "1. J. Anderson and E. Mikhail, Surveying: Theory and Practice, 7thed. New York: McGraw Hill Education, 2017.",
+      "2. T.P. Kanetkar and S.V. Kulkarni, Surveying and Levelling - Part 1, Pune: Pune Vidyarthi Griha Prakashan, 1994.",
+      "3. W. Schofield and M. Breach, Engineering Surveying, 6thed. Elsevier, CBSPD, 2007.",
+      "4. R. Subramanian, Surveying and Levelling, 2nd ed. Oxford: Oxford University Press, 2012."
+    ]
+  },
+  {
+    "course_id": "CE1021E",
+    "course_title": "COMPUTER PROGRAMMING",
+    "raw_references": [
+      "C Programming",
+      "1. E. Balagurusamy, Programming in ANSI C, 8thed. McGraw Hill Education, 2019.",
+      "2. Y. Kanetkar, Let Us C: Authentic Guide to C Programming Language, 18thed. BPB Publications,",
+      "2021. Python Programming",
+      "1. R. Thareja, Python Programming: Using Problem Solving Approach, Oxford University Press, 2017.",
+      "2. A. B. Downey, Think Python: How to Think Like a Computer Scientist, 2 nd ed. Shroff/O'Reilly Publishers, 2016."
+    ]
+  },
+  {
+    "course_id": "MA2003E",
+    "course_title": "MATHEMATICS III",
+    "raw_references": [
+      "1. D. Greenspan, Introduction to Partial Differential Equations, Dover Publications, 2000.",
+      "2. E. Kreyszig, Advanced Engineering Mathematics, 9thed. John Wiley and Sons, 2012.",
+      "3. G. F. Simmons, Differential Equations with Applications and Historical Notes, 2n?ed. McGraw Hill,",
+      "2017.",
+      "4. S. Ponnusamy and H. Silverman, Complex Variables with Applications, Birkh�user Boston, 2006.",
+      "5. Ronald N Bracewell, The Fourier Transform and its Applications, 2n?ed. McGraw Hill, 1986."
+    ]
+  },
+  {
+    "course_id": "CE2001E",
+    "course_title": "STRUCTURAL ANALYSIS I",
+    "raw_references": [
+      "1. J.B. Wilbur, C.H. Norris, and S. Utku, Elementary Structural Analysis, New York: McGraw Hill, 2006.",
+      "2. C.K. Wang, Intermediate Structural Analysis, New York: McGraw Hill, 1989.",
+      "3. S.P. Timoshenko and D.H. Young, Theory of Structures, New York: McGraw Hill, 1988.",
+      "4. C.S. Reddy, Basic Structural Analysis, New Delhi: Tata McGraw Hill, 2007.",
+      "5. L.S. Negi and R.S. Jangid, Structural Analysis, New Delhi: Tata McGraw Hill, 2006.",
+      "6. D. Menon, Structural Analysis, New Delhi: Narosa Publishers, 2008.",
+      "7. R.C. Hibbler, Structural Analysis, India: Pearson Education, 2006."
+    ]
+  },
+  {
+    "course_id": "CE2002E",
+    "course_title": "OPEN CHANNEL HYDRAULICS AND HYDRAULIC MACHINES",
+    "raw_references": [
+      "1. M.M. Dandekar and K.N. Sharma, Water Power Engineering, Vikas Publishing House, 2013.",
+      "2. M. Hanif Chaudhry, Open Channel Flow, 3rd ed. Springer, 2022.",
+      "3. Mahesh Kumar, Fluid Mechanics and Hydraulic Machines, 5th ed. Pearson India, 2019.",
+      "4. K. Subramanya, Fluid Mechanics and Hydraulic Machines, 2nd ed. McGraw Hill, 2018.",
+      "5. K. Subramanya, Flow in Open Channels, 5th ed. McGraw-Hill, 2019.",
+      "6. Ven Te Chow, Open Channel Hydraulics, Illustrated ed. The Blackburn Press, 2009."
+    ]
+  },
+  {
+    "course_id": "CE2003E",
+    "course_title": "HIGHWAY ENGINEERING",
+    "raw_references": [
+      "1. D. Croney, The Design and Performance of Road Pavements, McGraw Hill, 1997.",
+      "2. IRC: 37, Guidelines for the Design of Flexible Pavements.",
+      "3. IRC: 58, Guidelines for the Design of Rigid Pavements.",
+      "4. IRC:15, Standard Specifications and Code of Practice for Construction of Concrete Roads.",
+      "5. L.R. Kadiyali and N.B. Lal, Principles and Practices of Highway Engineering, Khanna Publishers, 2013.",
+      "6. S.K. Khanna, C.E.G. Justo, and A. Veeraragavan, Highway Engineering, Roorkee: Nemchand and Bros, 2015.",
+      "7. Ministry of Road Transport and Highways, Specifications for Roads and Bridges.",
+      "8. C.A. O'Flaherty,Highway-Traffic Planning and Engineering, Edward Arnold, 1986.",
+      "9. P.H. Wright and K. Dixon, Highway Engineering, Wiley, 2003.",
+      "10. J. Yoder and Witczak, Principles of Pavement Design, John Wiley and Sons, 2011."
+    ]
+  },
+  {
+    "course_id": "CE2004E",
+    "course_title": "GEOTECHNICAL ENGINEERING",
+    "raw_references": [
+      "1. K. Terzaghi & R.B. Peck, Soil Mechanics in Engineering Practice, 3rded. JohnWiley Sons, 1996.",
+      "2. A. Singh, Soil Engineering-In Theory and Practice, 4thed. CBS Pub, 2012.",
+      "3. B.C. Punmia, Soil Mechanics and Foundations, 16thed. Laxmi Pub., 2005.",
+      "4. V.N.S. Murthy, Soil Mechanics and Foundation Engineering, CBS Pub., 2009.",
+      "5. G. Ranjan & A.S.R Rao, Basic and Applied Soil Mechanics, 3rd ed. New Age International Publishers, 2016",
+      "6. K. Khaled Sobhan, Principles of Geotechnical Engineering, Cengage Learning, 2012."
+    ]
+  },
+  {
+    "course_id": "CE2005E",
+    "course_title": "FUNCTIONAL DESIGN OF BUILDINGS",
+    "raw_references": [
+      "1. SP 7:2016, National Building Code of India 2016 (NBC 2016) Volume-1 and Volume-2.",
+      "2. O.H. Koenigsberger, Manual of Tropical Housing and Building - Climatic Design, Universities Press (India), 2014.",
+      "3. S.C. Rangwala, Building Construction, Charotar Publishing House, 1992.",
+      "4. C.J. Hancock, Time Saver Standards for Architectural Design Data, McGraw Hill, 2000.",
+      "5. IS 5533: 1969, Recommendation for Dimensions of Spaces for Human Activities, B.I.S.",
+      "6. IS 4963: 1987, Recommendation for Buildings and Facilities for the Physically Handicapped, B.I.S."
+    ]
+  },
+  {
+    "course_id": "CE2091E",
+    "course_title": "MATERIAL TESTING LAB I",
+    "raw_references": [
+      "1. Relevant BIS Standards.",
+      "2. S.P. Timoshenko, Strength of Materials, 3rd ed. CBS Publishers and Distributors Pvt. Ltd., 2021.",
+      "3. A. M. Neville, Properties of Concrete, 5th ed. Pitman, 2011.",
+      "4. M. S. Shetty, Concrete Technology, 8th revised ed. S I Chand and Company, 2019."
+    ]
+  },
+  {
+    "course_id": "CE2092E",
+    "course_title": "BUILDING DESIGN AND DRAWING",
+    "raw_references": [
+      "1. B.T.S. Prabhu, Building Drawing and Detailing, Spades Publishers, 2007.",
+      "2. J. De Chiara, Time Saver Standards for Site Planning, McGraw Hill, 1999.",
+      "3. IS 4963:1987, Recommendation for Buildings and Facilities for the Physically Handicapped.",
+      "4. IS 962:1989, Code of Practice for Architectural and Building Drawings.",
+      "5. M.G. Shah, M. Kalec, & S.Y. Patki, Building Drawing, New Delhi: Tata McGraw Hill, 2000.",
+      "6. SP 41: 1987, Handbook on Functional Requirements of Buildings.",
+      "7. SP 7: 2016, National Building Code of India 2016 (Vol I and II).",
+      "8. A.M.S. Tessie, The House, Its Plan & Use, Oxford and IBH Publishing Co., 2000."
+    ]
+  },
+  {
+    "course_id": "MA2013E",
+    "course_title": "MATHEMATICS IV",
+    "raw_references": [
+      "1. F. Dekking, C. Kraaikamp, H. Lopuha�, L. Meester, A Modern Introduction to Probability and Statistics: Understanding Why and How, Springer London, 2005.",
+      "2. H. Stark, J. W. Woods, Probability, Statistics, and Random Processes for Engineers, Pearson, 2012.",
+      "3. N. S. Matloff, Probability and Statistics for Data Science: Math + R + Data, CRC Press, 2020.",
+      "4. N. T. Kottegoda, R. Rosso, Statistics, Probability, and Reliability for Civil and Environmental Engineers, Colombia: McGraw-Hill, 1998.",
+      "5. S. M. Ross, Introduction to Probability and Statistics for Engineers and Scientists, Elsevier Science, 2009."
+    ]
+  },
+  {
+    "course_id": "CE2011E",
+    "course_title": "STRUCTURAL ANALYSIS II",
+    "raw_references": [
+      "1. R.C. Hibbler, Structural Analysis, India: Pearson Education, 2006.",
+      "2. D. Menon, Structural Analysis, New Delhi: Narosa Publishers, 2008.",
+      "3. L.S. Negi and R.S. Jangid, Structural Analysis, New Delhi: Tata McGraw Hill, 2006.",
+      "4. C.S. Reddy, Basic Structural Analysis, New Delhi: Tata McGraw Hill, 2007.",
+      "5. S.P. Timoshenko and D.H. Young, Theory of Structures, New York: McGraw Hill, 1988.",
+      "6. C.K. Wang, Intermediate Structural Analysis, New York: McGraw Hill, 1989.",
+      "7. J.B. Wilbur, et al, Elementary Structural Analysis, New York: McGraw Hill, 2006."
+    ]
+  },
+  {
+    "course_id": "CE2012E",
+    "course_title": "FOUNDATION ENGINEERING",
+    "raw_references": [
+      "1. K.R. Arora, Soil Mechanics & Foundation Engineering., Standard Pub., 2009.",
+      "2. G. Ranjan and A.S.R Rao, Basic and Applied Soil Mechanics, New Age International Pvt Ltd, 2016.",
+      "3. E. Joseph and Bowles, Foundation Analysis & Design, 5th ed. McGraw Hill Pub., 2001.",
+      "4. G.A. Leonards, Foundation Engineering, McGraw Hill Pub., 1962.",
+      "5. V.N.S. Murthy, Soil Mechanics & Foundations, CBS Pub., 2009.",
+      "6. W.C. Teng, Foundation Design, PHI Pub., 1962.",
+      "7. Terzaghi and Peck, Soil Mechanics in Engineering Practice, 3rd ed. John Wiley Sons, 1996.",
+      "8. M.J. Tomlinson, Foundation Design & Construction, 7th ed. PHI Pub., 2001."
+    ]
+  },
+  {
+    "course_id": "CE2013E",
+    "course_title": "ENVIRONMENTAL ENGINEERING I",
+    "raw_references": [
+  "1. S.K. Garg, Environmental Engineering: Water Supply Engineering, Khanna Publishers, 2010.",
+  "2. Gilbert M. Masters and Wendell P. Ela, Introduction to Environmental Engineering and Science, Pearson India Education Services Pvt. Ltd., 2015.",
+  "3. Mackenzie L. Davis and David A. Cornwell, Introduction to Environmental Engineering, 5th ed. McGraw Hill Education, 2017.",
+  "4. H.S. Peavy, D.R. Rowe, and G. Tchobanoglous, Environmental Engineering, McGraw Hill, 1985.",
+  "5. Prabhata K. Swamee and Ashok K. Sharma, Design of Water Supply Pipe Networks, Wiley Interscience, 2008.",
+  "6. Raymond D. Letterman, Water Quality and Treatment, American Water Works Association.",
+  "7. C.N. Sawyer, P.L. McCarty, and G.F. Parkin, Chemistry for Environmental Engineering and Sciences, 5th ed."
+]
+  },
+  {
+    "course_id": "CE2093E",
+    "course_title": "MATERIAL TESTING LAB II",
+    "raw_references": [
+      "1. A.M. Neville, Properties of Concrete, 5th ed. Pitman, 2011.",
+      "2. M.S. Shetty, Concrete Technology, 8th revised ed. S I Chand and Company, 2019.",
+      "3. D.V. Bhavanna Rao, G. Venkatappa Rao, K. Ramachandra Rao, and Kausik Pahari, Highway Material Testing and Quality Control, Dreamtech Press, 2019."
+    ]
+  },
+  {
+    "course_id": "CE2094E",
+    "course_title": "GEOTECHNICAL ENGINEERING LAB",
+    "raw_references": [
+      "1. J.E. Bowles, Physical Properties of Soils, 2nd ed. Singapore: McGraw Hill International, 1990.",
+      "2. B.M. Das, Soil Mechanics Laboratory Manual, 6th ed. London: University Press, 2001.",
+      "3. K.H. Head and R.J. Epps, Manual of Soil Laboratory Testing Vol II, 3rd ed. Whittles Publishing, 2011.",
+      "4. Relevant Indian Standard Codes."
+    ]
+  },
+  {
+    "course_id": "CE3001E",
+    "course_title": "DESIGN OF REINFORCED CONCRETE STRUCTURES",
+    "raw_references": [
+      "1. A.K. Jain, Reinforced Concrete - Limit State Design, Nem Chand and Bros., 2015.",
+      "2. S.K. Mallick and A.K. Gupta, Reinforced Concrete, Oxford and IBH, 1982.",
+      "3. S.U. Pillai and D. Menon, Reinforced Concrete Design, New Delhi: Tata McGraw Hill, 2017.",
+      "4. Relevant BIS Codes (IS 456, IS: 1343, SP 16).",
+      "5. S.N. Sinha, Reinforced Concrete Design, New Delhi: Tata McGraw Hill, 2005.",
+      "6. P.C. Varghese, Limit State Design of Reinforced Concrete, Prentice Hall of India, 2003.",
+      "7. Wight and Macgregor, Reinforced Concrete: Mechanics and Design, Pearson, 2011."
+    ]
+  },
+  {
+    "course_id": "CE3002E",
+    "course_title": "ENVIRONMENTAL ENGINEERING II",
+    "raw_references": [
+      "1. George Tchobanoglous and Frank Kreith, Handbook of Solid Waste Management, New York: McGraw-Hill Education, 2002.",
+      "2. Howard Peavy, Donald Rowe, George Tchobanoglous, Environmental Engineering, New York: McGraw Hill Education, 2017.",
+      "3. Mackenzie Davis, Water and Wastewater Engineering, New York: McGraw Hill Education, 2010.",
+      "4. Metcalf & Eddy Inc., George Tchobanoglous, H. David Stensel, Ryujiro Tsuchihashi, Franklin L. Burton, Wastewater Engineering: Treatment and Resource Recovery, New York: McGraw Hill Education, 2014.",
+      "5. The Central Public Health and Environmental Engineering Organisation (CPHEEO), Manual on Sewerage and Sewage Treatment, Ministry of Urban Development, Government of India."
+    ]
+  },
+  {
+    "course_id": "CE3003E",
+    "course_title": "ENGINEERING HYDROLOGY",
+    "raw_references": [
+      "1. W. Linsley, Water Resources Handbook. McGraw-Hill International Edition, 1996.",
+      "2. L. W. Mays, Water Resources Engineering. New York: John Wiley and Sons, 2001.",
+      "3. Raghunath, Ground Water. New Age International (P) Ltd. Publishers, 1987.",
+      "4. K. Subramanya, Engineering Hydrology. Tata McGraw-Hill Publishers, 2008.",
+      "5. D. K. Todd, Groundwater Hydrology. New York: John Wiley and Sons, 1958.",
+      "6. V. T. Chow, D. R. Maidment, and L. W. Mays, Applied Hydrology. New York: McGrawHill Book Company, 1988."
+    ]
+  },
+  {
+    "course_id": "CE3004E",
+    "course_title": "PROFESSIONAL ETHICS",
+    "raw_references": [
+      "1. A. F. Bainbridge, Ethics for Engineers: A Brief Introduction. CRC Press, 2021.",
+      "2. ASCE, \"Code of Ethics,\" 2017. Available: https://www.asce.org/career-growth/ethics/code-of- ethics.",
+      "3. E. G. Seebauer and R. L. Barry, Fundamentals of Ethics for Scientists and Engineers.",
+      "4. Institution of Engineers India, \"Code of Ethics for Corporate Members,\" 2004. Available: https://www.ieindia.org.",
+      "5. M. W. Martin and R. Schinzinger, Ethics in Engineering. Tata McGraw-Hill, 2005.",
+      "6. R. S. Naagarazan, A Textbook on Professional Ethics and Human Values, 3rd ed. New Age International Pvt. Ltd., 2022.",
+      "7. R. Subramanian, Professional Ethics, 2nd ed. Oxford University Press, 2017.",
+      "8. S. Starrett, A. Lara, and C. Bertha, Engineering Ethics: Real World Case Studies. ASCE Press, 2017."
+    ]
+  },
+  {
+    "course_id": "CE3091E",
+    "course_title": "ENVIRONMENTAL ENGINEERING LAB",
+    "raw_references": [
+      "1. E.W. Rice, R.B. Baird, A.D. Eaton (Ed.), Standard Methods for the Examination of Water and Wastewater, 23rd ed. Washington, DC: American Water Works Association, 2017.",
+      "2. Relevant BIS codes"
+    ]
+  },
+  {
+    "course_id": "CE3011E",
+    "course_title": "DESIGN OF STEEL STRUCTURES",
+    "raw_references": [
+      "1. A. S. Arya and J. L. Ajmani, Design of Steel Structures. Nem Chand and Brothers, 2014.",
+      "2. S. S. Bhavikatti, Design of Steel Structures. New Delhi: I K International Publishing House (P) Ltd., 2009.",
+      "3. S. K. Duggal, Limit State of Design of Steel Structures. New Delhi: Tata McGraw Hill, 2010.",
+      "4. Relevant BIS codes (IS 883, IS 800, SP 6, IS 875)",
+      "5. K. S. Sairam, Design of steel structures. Pearson, 2013.",
+      "6. N. Subramanian, Design of Steel Structures. Oxford University Press, 2008."
+    ]
+  },
+  {
+    "course_id": "CE3012E",
+    "course_title": "IRRIGATION ENGINEERING AND HYDRAULIC STRUCTURES",
+    "raw_references": [
+      "1. All relevant BIS codes.",
+      "2. G. L. Asawa, Irrigation and water resources Engineering. New Age Publications, 2005.",
+      "3. FAO, \"Irrigation water management Training Manuals\", 1(1985), 3(1986), 4(1988), and 5(1989).",
+      "4. FAO, \"Irrigation, Water resources and Drainage Papers\", 26/1,26/2 Small Hydraulic Structures, Vol 1 and 2, 1982.",
+      "5. S. K. Garg, Irrigation Engineering and Hydraulic Structures. Khanna Publishers, 2017.",
+      "6. P. N. Modi, Irrigation Water resources and Water power engineering. Standard book house, 2008.",
+      "7. R. S. Varshney, S. C. Gupta, and R. L. Gupta, Theory and Design of Irrigation Structures, Vol. II. Nem Chand Publication, 2007."
+    ]
+  },
+  {
+    "course_id": "CE3013E",
+    "course_title": "AIRPORT AND RAILWAY ENGINEERING",
+    "raw_references": [
+      "1. M.M. Agarwal and S. Chandra, Railway Engineering, 2nd ed. Oxford University, 2013.",
+      "2. K. F. Antia, Railway Track: Design Construction, Maintenance and Renewal of Permanent Way, 5th ed. New Book Company, Private, 1960.",
+      "3. R. De Neufville, A. R. Odoni, P. P. Belobaba, and T. G. Reynolds, Airport systems: Planning, design, and management, 2nd ed. McGraw-Hill Education, 2013.",
+      "4. R. Horonjeff, Planning and Design of Airports, 5th ed. McGraw-Hill Professional, 2010.",
+      "5. S.K. Khanna and M.G. Arora, Airport Planning and Design, 6th ed. Nemchand and Bros, 2005.",
+      "6. J. S. Mundrey, Railway track engineering, 4th ed. McGraw-Hill Education, 2009.",
+      "7. S.B. Young and A.T. Wells, Airport planning and management, 6th ed. McGraw-Hill Education, 2011."
+    ]
+  },
+  {
+    "course_id": "CE3092E",
+    "course_title": "COMPUTER APPLICATIONS LABORATORY",
+    "raw_references": [
+      "1. Working manuals of all software packages Course Outcomes CE3097E PROJECT: PART I L T P O C 0 0 0 9 3 CO1: Identify the needs and requirements of a specific civil engineering task CO2: Plan and design the task at hand with the help of appropriate conventional and modern methods/tools CO3. Prepare professional documentation for the work carried out CO4. Develop professional competence and confidence in students to take up civil engineering assignments. The project work may be a design project / experimental project / field surveying / computer oriented or a combination of the above on any of the topics of civil engineering interest. The assessment of the project will be done at the end of the semester by a committee consisting of three or four faculty members specialized in various fields of Civil Engineering. The students will present their project work before the committee. The report of the completed work should be submitted by the students to the assessing committee at the end of the semester. The project guides will award the grades to the individual students depending on the group average awarded by the committee. Note: At the beginning of the 6th semester, the student / student groups should decide whether Project: Part II and Project Part III will be a continuation of Project Part I. Course Outcomes:"
+    ]
+  },
+  {
+    "course_id": "CE4091E",
+    "course_title": "INTERNSHIP",
+    "raw_references": []
+  },
+  {
+    "course_id": "CE3021E",
+    "course_title": "NUMERICAL METHODS IN CIVIL ENGINEERING",
+    "raw_references": [
+      "1. S. C. Chapra and R. P. Canale, Numerical Methods for Engineers, 7th ed. McGraw Hill, Inc., 2016.",
+      "2. S. S. Rao, Engineering Optimization - Theory and Applications, 4th ed. Wiley India Pvt Ltd, 2013.",
+      "3. S. S. Sastry, Introductory Methods of Numerical Analysis, 5th ed. Prentice Hall of India, 2012.",
+      "4. J. B. Scarborough, Numerical Mathematical Analysis, 6th ed. Oxford and IBH, 2020."
+    ]
+  },
+  {
+    "course_id": "CE3022E",
+    "course_title": "REMOTE SENSING AND GIS",
+    "raw_references": [
+      "1. C. P. Lo and K. W. Yeung, Concepts and Techniques of Geographic Information Systems, 2nd ed. Pearson Education, 2016.",
+      "2. M. K. Arora and R. C. Badjatia, Geomatics Engineering. Nem Chand publishers, 2011.",
+      "3. S. Gopi, R. Sathikumar, and N. Madhu, Advanced Surveying: Total Station, GPS, GIS & Remote Sensing, 2nd ed. Pearson Education, 2017.",
+      "4. T. M. Lillesand, R. W. Kiefer, and J. W. Chipman, Remote Sensing and Image Interpretation, 6th ed. John Wiley and Sons, Inc., 2011."
+    ]
+  },
+  {
+    "course_id": "CE3023E",
+    "course_title": "PROJECT ECONOMICS AND APPRAISAL",
+    "raw_references": [
+      "1. Z. A. Khan and B. Kumar, Engineering Economy. Pearson, 2012.",
+      "2. Z. A. Khan, Principles of Engineering Economics with applications, 2nd ed. Cambridge, 2018.",
+      "3. P. Kumar, Engineering Economy and Management. Wiley, 2019.",
+      "4. D. G. Newnan, T. G. Eschenbach, and J. P. Lavelle, Engineering Economic Analysis, 11th ed. Oxford University Press, 2012.",
+      "5. C. S. Park, Fundamentals of Engineering Economics. Pearson Education Inc, 2004."
+    ]
+  },
+  {
+    "course_id": "CE3024E",
+    "course_title": "CONSTRUCTION MANAGEMENT AND QUANTITY SURVEYING",
+    "raw_references": [
+      "1. M. Chakraborthi, Estimating, Costing, Specification & Valuation in Civil Engineering. UBS Publishers and distributors, 2006.",
+      "2. B.N. Dutta, Estimating and Costing in Civil Engineering: Theory and Practice including specifications and valuation, 28th revised ed. UBS Publishers and distributors.",
+      "3. K. N. Jha, Construction Project Management: Theory and Practice. Pearson, 2011.",
+      "4. C. Patrick, Construction Project Planning and Scheduling. Pearson, 2012.",
+      "5. B.C. Punmia and K.K. Khandelwal, Project Planning and control with PERT and CPM. Laxmi Publications, 2002. L T P O C 0 0 0 9 3 Course Outcomes: CO1: Identify the needs and requirements of a specific civil engineering task CO2: Plan and design the task at hand with the help of appropriate conventional and modern methods/tools CO3: Prepare professional documentation for the work carried out CO4: Develop professional competence and confidence in students to take up civil engineering assignments. If the Project Part II is registered as an independent project, the project work may be a design project / experimental project / field surveying / computer oriented or a combination of the above on any of the topics of civil engineering interest. The assessment of the project will be done by a committee consisting of three or four faculty members specialized in various fields of Civil Engineering. The students will present their project work before the committee. The report of the completed work should be submitted by the students to the assessing committee at the end of the semester. The project guides will award the grades to the individual students depending on the group average awarded by the committee. Course Outcomes: CE4099E PROJECT: PART III L T P O C 0 0 0 18 6 CO1: Identify the needs and requirements of a specific civil engineering task CO2: Plan and design the task at hand with the help of appropriate conventional and modern methods/tools CO3. Prepare professional documentation for the work carried out CO4. Develop professional competence and confidence in students to take up civil engineering assignments. If the Project Part III is registered as an independent project, the project work may be a design project / experimental project / field surveying / computer oriented or a combination of the above on any of the topics of civil engineering interest. The assessment of the project will be done by a committee consisting of three or four faculty members specialized in various fields of Civil Engineering. The students will present their project work before the committee. The report of the completed work should be submitted by the students to the assessing committee at the end of the semester. The project guides will award the grades to the individual students depending on the group average awarded by the committee."
+    ]
+  },
+  {
+    "course_id": "CE2021E",
+    "course_title": "ADVANCED CONSTRUCTION TECHNIQUES AND EQUIPMENT",
+    "raw_references": [
+      "1. K. N. Jha, Construction Project Management: Theory and Practice. Pearson Education, 2014.",
+      "2. R.L. Peurifoy, J.C. Schexnayder, and A. Shapira, Construction Planning, Equipment and Methods. New Delhi: Tata McGraw Hill, 2010.",
+      "3. S. Seetharaman, \"Construction Engineering and Management\", 4th ed. New Delhi: Umesh publications, 1999.",
+      "4. S.C. Sharma, Construction Equipment and Management. New Delhi: Khanna Publishers, 2013. Total lecture sessions: 39"
+    ]
+  },
+  {
+    "course_id": "CE2022E",
+    "course_title": "CONCRETE TECHNOLOGY",
+    "raw_references": [
+      "1. ACI, \"Standard Practice for Selecting Proportions for Normal, Heavyweight, and Mass Concrete,\" ACI 211.1-91, 1991.",
+      "2. Bureau of Indian Standards, \"Concrete Mix Proportioning - Guidelines,\" IS 10262: 2019, 2019.",
+      "3. P.K. Mehta and P.J.M. Monteiro, Concrete Microstructure Properties and Materials, 3rd ed. Tata McGraw Hill, 2006.",
+      "4. M. Neville, Properties of Concrete, 5th ed. Pearson, 2011.",
+      "5. J. Newman and B.S. Choo, Advanced Concrete Technology - Processes. Elsevier, 2003.",
+      "6. N. Krishna Raju, Design of Concrete Mixes, 5th ed. CBS publishers, 2017.",
+      "7. V. K. Raina, Concrete for Construction-Facts and Practices. Tata McGraw Hill publishing co. 2009."
+    ]
+  },
+  {
+    "course_id": "CE2023E",
+    "course_title": "AIR POLLUTION CONTROL ENGINEERING",
+    "raw_references": [
+      "1. P. Sincero and G. A. Sincero, Environmental Engineering - A Design Approach. New Delhi: PHI Learning, 2009.",
+      "2. M. N. Rao and H. V. N. Rao, Air Pollution. Delhi: McGraw-Hill Education, 2001.",
+      "3. N. D. Nevers, Air pollution control engineering. New York: McGraw-Hill International Editions, 2000.",
+      "4. P. Pluschke, Ed., Indoor Air Pollution. New York: Springer, 2004."
+    ]
+  },
+  {
+    "course_id": "CE2024E",
+    "course_title": "CIRCULAR ECONOMY AND SUSTAINABILITY",
+    "raw_references": [
+      "1. M.-L. Franco-Garc�a, J. C. Carpio-Aguilar, and H. Bressers, Towards zero waste, circular economy boost: waste to resources. Springer International Publishing, 2019.",
+      "2. P. Lacy and J. Rutqvist, Waste to wealth: The circular economy advantage, vol. 91. London: Palgrave Macmillan, 2015.",
+      "3. P. Lacy, J. Long, and W. Spindler, The circular economy handbook, vol. 259. London: Palgrave Macmillan UK, 2020.",
+      "4. L. Liu and S. Ramakrishna (Eds.), An introduction to circular economy. Singapore: Springer Singapore, 2021.",
+      "5. W. R. Stahel, The circular economy: A user's guide. Routledge, 2019."
+    ]
+  },
+  {
+    "course_id": "CE2025E",
+    "course_title": "ENVIRONMENTAL IMPACT ASSESSMENT",
+    "raw_references": [
+      "1. C. J. Barrow, Environmental and Social Impact Assessment - An Introduction. Edward Arnold, 1997.",
+      "2. B. B. Marriot, Environmental Impact Assessment: A practical Guide. McGraw Hill, Inc, 1997.",
+      "3. L. W. Canter, Environmental Impact Assessment. McGraw Hill, Inc, 1995.",
+      "4. P. Morris and R. Therivel (Eds.), Methods of Environmental Impact Assessment. Routledge, 2001.",
+      "5. UNEP, \"Environmental Impact Assessment Training Resource Manual\", 2002.",
+      "6. Website of the Ministry of Environment, Forests and Climate Change, Govt. of India and the USEPA."
+    ]
+  },
+  {
+    "course_id": "CE2026E",
+    "course_title": "ADVANCED SURVEYING",
+    "raw_references": [
+      "1. K. R. Arora, Surveying Vol II. New Delhi: Standard Book House, 2015.",
+      "2. K. R. Arora, Surveying Vol III. New Delhi: Standard Book House, 2015.",
+      "3. A. M. Chandra, Higher Surveying. New Age International Private Limited, 2015.",
+      "4. J. Anderson and E. Mikhail, Surveying: Theory and Practice, 7th ed. McGraw Hill Education, 2017.",
+      "5. M. K. Arora and R. C. Badjatia, Geomatics Engineering. Nem Chand publishers, 2011."
+    ]
+  },
+  {
+    "course_id": "CE2027E",
+    "course_title": "GROUND IMPROVEMENT",
+    "raw_references": [
+      "1. R. Boweven, Text Book on Grouting in Engineering Practice. Applied Science Publishers Ltd, 1975.",
+      "2. D.H. Gray and R. B. Sotir, Text Book on Bio-Technical and Soil Engineering Slope Stabilization. John Wiley, 1996.",
+      "3. R. A. Jewell, Text Book on Soil Reinforcement with Geotextiles. CIRIA Special Publication, Thomas Telford, 1996.",
+      "4. K. Kirsch and A. Bell, Ground Improvement, 3rd ed. CRC Press, 2012.",
+      "5. Korener, Construction and Geotechnical Methods in Foundation Engineering. McGraw Hill, 2005.",
+      "6. M. P. and Moseley, Ground Improvement, 2nd ed. CRC Press, 2004.",
+      "7. N. V. Nayak, Foundation Design Manual. Delhi: Dhanpat Rai and Sons.",
+      "8. G. V. Rao and G. V. S. Rao, Text Book on Engineering with Geotextiles. Tata McGraw Hill, 1990.",
+      "9. S. K. Gulhati and M. Datta, Geotechnical engineering. Tata McGraw Hill, 2008.",
+      "10. W. E. Van Impe, Text Book on Soil Improvement Technique and Their Evolution. Balkema Publishers, 1989."
+    ]
+  },
+  {
+    "course_id": "CE2028E",
+    "course_title": "PAVEMENT CONSTRUCTION AND MAINTENANCE",
+    "raw_references": [
+      "1. W. R. Hudson, R. Haas and Z. Zeniswki, Modern Pavement Management, Krieger Pub. Co., 1994.",
+      "2. P. S. Kandhal, Bituminous Road Construction in India, Delhi: PHI Learning Pvt. Ltd., 2016.",
+      "3. MoRTH, \"Specifications for Road and Bridge Works\", Fifth Revision. New Delhi: IRC, 2013.",
+      "4. P. P. Raj, Ground Improvement Techniques, New Delhi: Laxmi Publications (P) Ltd., 2005.",
+      "5. Relevant IRC codes and MoRTH Specifications.",
+      "6. Relevant ASTM and AASHTO Guidelines. Total lecture sessions: 39"
+    ]
+  },
+  {
+    "course_id": "CE2029E",
+    "course_title": "TRAFFIC ENGINEERING",
+    "raw_references": [
+      "1. F. L. Mannering, S. S. Washburn, and W. P. Kilareski, Principles of Highway Engineering and Traffic Analysis. Wiley, 2008.",
+      "2. Institute of Transportation Engineers, Traffic Engg. Hand Book. Prentice Hall, 2009.",
+      "3. IRC-SP41, \"Guidelines for the Design of At-Grade Intersections in Rural and Urban Areas\", 1994.",
+      "4. L. R. Kadiyali, Traffic and Transport Planning. Khanna Publishers, Sixth Edition, 1997.",
+      "5. Matson, Smith, and Hurd, Traffic Engineering. McGraw Hill Book Co, 1965.",
+      "6. M. A. P. Taylor, W. Young, and P. W. Bonsall, Understanding Traffic Systems. Ashgate Publishing, 2000.",
+      "7. M. Slinn, P. Matthews, and P. Guest, Traffic Engineering Design: Principles and Practice, Second Edition. Butterworth-Heinemann, 2005.",
+      "8. C. A. O' Flaherty, Highways-Traffic Planning and Engineering. Edward Arnold, 2002.",
+      "9. L. Pignataro, Traffic Engineering - Theory and Practice. John Wiley, 1973."
+    ]
+  },
+  {
+    "course_id": "CE2030E",
+    "course_title": "HYDRAULIC MACHINERY",
+    "raw_references": [
+      "1. J. Lal, Hydraulic Machines Including Fluidics. New Delhi: Metropolitan Book Co Pvt Ltd, 2016.",
+      "2. A. M. Michael and S. D. Khepar, Water Well and Pump Engineering. New Delhi: Tata McGraw Hill Public Company, 2008.",
+      "3. P. N. Modi and S. M. Seth, Hydaulics and Fluid Mechanics including Hydraulic Machines. New Delhi: Standard Book House, 2013.",
+      "4. S. K. Som, G. Biswas, and S. K. Chakraborty, Introduction to Fluid Mechanics and Fluid Machines. Tata McGraw Hill, 2017.",
+      "5. K. Subramanya, Fluid Mechanics and Hydraulic Machines: Problems and Solutions. Tata McGraw Hill, 2010."
+    ]
+  },
+  {
+    "course_id": "CE2031E",
+    "course_title": "WATER CONVEYANCE SYSTEMS",
+    "raw_references": [
+      "1. P. R. Bhave and R. Gupta, Analysis of Water Distribution Networks. UK: Alpha-Science International, 2006.",
+      "2. P. R. Bhave, Optimal Design of Water Distribution Networks. New Delhi: Narosa Publishing House, 2003.",
+      "3. V. T. Chow, Open Channel Hydraulics. Mc Graw Hill Inc, 2009 Edition.",
+      "4. R. H. French, Open Channel Hydraulics. Water Resources Publications, 2007.",
+      "5. G. J. Hoffman, Design and Operation of Farm Irrigation Systems. 2nd Ed. ASAE, 2007.",
+      "6. J. Goussard, Automation of Canal Irrigation Systems. ICID, 1993.",
+      "7. L. E. Keesen, The Complete Irrigation Workbook. Create Space, 2013.",
+      "8. CPHEEO, \"Manual on Water Supply and Treatment\". May 1999.",
+      "9. V. L. Streeter and E. D. Wylie, Fluid Transients in Systems. Pearson., 2010.",
+      "10. P. K. Swamee and A. K. Sharma, Design of Water Supply Pipe Networks. John Wiley & Sons, 2008."
+    ]
+  },
+  {
+    "course_id": "CE3025E",
+    "course_title": "CHARACTERISATION OF CONSTRUCTION MATERIALS",
+    "raw_references": [
+      "1. B. D. Cullity, Elements of X-ray diffraction. Wesley Publishing Company.",
+      "2. D. A. St. John, A. W. Poole, and I. Sims, Concrete Petrography - A Handbook of Investigative Techniques. London: Arnold Publishing, 1998.",
+      "3. J. M. Walls, Methods of Surface Analysis: Techniques & Applications. Cambridge University Press, 1989.",
+      "4. J. P. Sibilia, A guide to Material Characterization & Chemical Analysis, 2nd Ed. John Wiley & Sons, 1996.",
+      "5. K. Scrivener, R. Snellings, and B. Lothenbach, A practical Guide to Microstructural Analysis of Cementitious Materials. CRC Press, 2015.",
+      "6. Y. Lang, Introduction to Microscopic and Spectroscopic Methods. John Wiley & Sons, 2020.",
+      "7. M. Dekker, Research Tools & Techniques in Physical Metallurgy, 2nd Ed. Marcel Dekker, 1970",
+      "8. S. Zhang et al., Materials Characterization Techniques. CRC Press, 2009.",
+      "9. V. S. Ramachandran and J. J. Beaudoin, Eds., Handbook of Analytical Techniques in Concrete Science and Technology. New York: William Andrew Publishing, 2001.",
+      "10. Y. Leng, Materials Characterization: Introduction to Microscopic and Spectroscopic Methods. John Wiley & Sons, 2020."
+    ]
+  },
+  {
+    "course_id": "CE3026E",
+    "course_title": "NON-DESTRUCTIVE TESTING AND EVALUATION FOR CONCRETE STRUCTURES",
+    "raw_references": [
+      "1. P. H. Emmons, Concrete Repair and Maintenance Illustrated. R.S. Means Company Inc, 2002.",
+      "2. C. Hellier, Handbook of Non-destructive Evaluation, 3rd ed. Mc-Graw Hill Education, 2020.",
+      "3. C. Maierhofer, H. Reinhardt, and G. Dobmann, Non-destructive Evaluation of Reinforced Concrete Structures: Volume 1: Deterioration Processes and Standard Test Methods. Woodhead Publishing, 2010.",
+      "4. P. K. Mehta and P. J. M. Monteiro, Concrete: Microstructure, Properties and Materials, 4th ed. McGraw-Hill Education, 2014.",
+      "5. A. M. Neville, Properties of Concrete, 5th ed. Pearson, 2011.",
+      "6. P. J. Shull and M. Dekker, Non-destructive Evaluation - Theory, Techniques, and applications. CRC Press, 2002.",
+      "7. V. M. Malhotra and N. J. Carino, Handbook on Non-destructive Testing of Concrete. CRC Press, 2003."
+    ]
+  },
+  {
+    "course_id": "CE3027E",
+    "course_title": "SPECIAL CONCRETES",
+    "raw_references": [
+      "1. J. Newman and B. S. Choo, Advanced Concrete Technology, Four Volume Set. Elsevier, 2003.",
+      "2. F. M. Lea, The Chemistry of Cement and Concrete. New York: Chemical Publishing Company, Inc., 1971.",
+      "3. P. K. Mehta and P. J. M. Monteiro, Concrete: Microstructure, Properties, and Materials, 4th ed. (Indian Edition). McGraw Hill, 2014.",
+      "4. M. Neville, Properties of Concrete. MA: Pitman Publishing, Inc., 1981.",
+      "5. M. D. A. Thomas, Supplementary Cementing Materials in Concrete. Florida, USA: CRC Press, Francis & Taylor Group, 2013."
+    ]
+  },
+  {
+    "course_id": "CE3028E",
+    "course_title": "ADVANCED WASTE WATER ENGINEERING",
+    "raw_references": [
+      "1. G. L. Karia and R. A. Christian, Wastewater treatment: Concepts and design approach. New Delhi: PHI Learning Pvt. Ltd., 2013.",
+      "2. Metcalf & Eddy Inc., G. Tchobanoglous, H. D. Stensel, R. Tsuchihashi, and F. L. Burton, Wastewater Engineering: Treatment and Resource Recovery. New York, USA: McGraw- Hill Education, 2014.",
+      "3. K. Nath, Membrane separation processes. New Delhi: PHI Learning Pvt. Ltd., 2017.",
+      "4. The Central Public Health and Environmental Engineering Organisation (CPHEEO), \"Manual on Sewerage and Sewage Treatment. Ministry of Urban Development\", Government of India."
+    ]
+  },
+  {
+    "course_id": "CE3029E",
+    "course_title": "ENVIRONMENTAL LAW AND POLICY",
+    "raw_references": [
+      "1. P. M. Bakshi, \"The Constitution of India\". New Delhi, India: Universal Law Pub. Co., 2015.",
+      "2. P.-M. Dupuy and J. E. Vi�uales, International Environmental Law. Cambridge, England: Cambridge University Press, 2015.",
+      "3. M. P. Singh and N. Kumar, The Indian Legal System: An Enquiry, 2019. Available: https://www.cambridge.org/core/books/indianlegalsystem/6C1A0F7F8F9E0A7F0B8E3F8A4F8D0   B2E",
+      "4. The Gazette of India (for relevant statutes)"
+    ]
+  },
+  {
+    "course_id": "CE3030E",
+    "course_title": "LIFE CYCLE ASSESSMENT",
+    "raw_references": [
+      "1. H. S. Matthews, C. T. Hendrickson, and D. Matthews, Life Cycle Assessment: Quantitative Approaches for Decisions that Matter. 2014. Available: https://www.lcatextbook.com/",
+      "2. R. Heijungs and S. Suh, The computational structure of life cycle assessment. Springer Science & Business Media, 2002.",
+      "3. C. T. Hendrickson, L. B. Lave, and H. S. Matthews, Environmental life cycle assessment of goods and services: an input-output approach. Routledge, 2010.",
+      "4. R. Schenck and P. White, (Eds.), Environmental life cycle assessment: measuring the environmental performance of products. Vashon, Washington: American Center for Life Cycle Assessment, 2014."
+    ]
+  },
+  {
+    "course_id": "CE3031E",
+    "course_title": "SOLID WASTE MANAGEMENT",
+    "raw_references": [
+      "1. A. D. Blide and B. B. Sundaresan, Solid Waste Management in Developing Countries. INSDOC, 1993.",
+      "2. CPHEEO, \"Manual on Municipal Solid waste management\". New Delhi: Central Public Health and Environmental Engineering Organization, Government of India, 2016.",
+      "3. Gazette of India for relevant rules",
+      "4. G. Tchobanoglous and F. Kreith, Handbook of Solid Waste Management. New York, USA: McGraw-Hill Education, 2002.",
+      "5. R. E. Landrefh and P. A. Rebers, Municipal Solid Wastes-Problems & Solutions. Lewis, 1997.",
+      "6. G.Techobanoglous, H. Thiesen, and S. Ellasen, Solid Waste Engineering Principles and Management. McGraw - Hill, 1997."
+    ]
+  },
+  {
+    "course_id": "CE3032E",
+    "course_title": "WASTE TO ENERGY TECHNIQUES",
+    "raw_references": [
+      "1. M. M. El-Halwagi, (Ed.), Biogas Technology, Transfer and Diffusion. Springer Science & Business Media, 2012.",
+      "2. J. H. Harker and J. R. Backhurst, Fuel and Energy. Academic Press Inc., 1981.",
+      "3. D. L. Klass, Biomass for Renewable Energy, Fuels, and Chemicals. Elsevier, 1998.",
+      "4. M. J. Rogoff and F. Screve, Waste-to-Energy: Technologies and Project Implementation. Academic Press, 2019.",
+      "5. G. C. Young, Municipal Solid Waste to Energy Conversion Processes: Economic, Technical, and Renewable Comparisons. John Wiley & Sons, 2010."
+    ]
+  },
+  {
+    "course_id": "CE3033E",
+    "course_title": "ADVANCED GEOTECHNICAL ENGINEERING",
+    "raw_references": [
+      "1. B. M. Das, Advanced Soil Mechanics, 5th ed. CRC Press, 2019.",
+      "2. C. S. Desai and M. Zaman, Advanced Geotechnical Engineering. CRC Press, 2014.",
+      "3. J. E. Bowles, Foundation Analysis and Design. McGraw Hill, 1996. Total lecture sessions: 39"
+    ]
+  },
+  {
+    "course_id": "CE3034E",
+    "course_title": "DISASTER MANAGEMENT",
+    "raw_references": [
+      "1. R. K. Bhandani, \"An overview on natural & man-made disasters and their reduction,\" CSIR, New Delhi.",
+      "2. \"Disaster Management Act 2005,\" Publisher by Govt. of India Publications of National Disaster Management Authority (NDMA) on Various Templates and Guidelines for Disaster Management.",
+      "3. J. A. Matthews, B. McGuire, and I. Mason, Natural Hazards and Environmental Change. Ian Mason: Bill McGuire 2002.",
+      "4. S. S. Nair, Training Manual on Geoinformatics Applications in Disaster Management. NIDM, 2012.",
+      "5. K. V. Rao, Geoinformatics for Disaster Management. Manglam Publishers and Distributors, 2010.",
+      "6. S. R. Sharma, Disaster Management. A P H Publishers, 2011.",
+      "7. M. M. Sulphey, Disaster Management. PHI Learning, 2016."
+    ]
+  },
+  {
+    "course_id": "CE3035E",
+    "course_title": "EARTH AND EARTH RETAINING STRUCTURES",
+    "raw_references": [
+      "1. J. E. Bowles, Foundation Analysis and Design, 4th ed. McGraw-Hill, 1988.",
+      "2. Clayton, Milititsky, and Woods, Earth Pressure and Earth-Retaining Structures. Taylor and Francis, 1996.",
+      "3. Huntington, Earth pressure on retaining walls. John Wiley and Sons, 1957.",
+      "4. Jones, Earth Reinforcements and Soil structures. Elsevier, 1996.",
+      "5. Prakash, Ranjan, and Saran, Analysis and Design of Foundations and Retaining structures, Meerut: Saritha Prakashan, 1977.",
+      "6. G. P. Tschebotarioff, Foundations, Retaining and earth structures, 2nd ed. McGraw Hill Pub., 1973."
+    ]
+  },
+  {
+    "course_id": "CE3036E",
+    "course_title": "ENVIRONMENTAL GEOTECHNICS",
+    "raw_references": [
+      "1. A. Bagchi, Design of Landfills and Integrated Solid Waste Management, John Wiley & Sons, 2004.",
+      "2. D. E. Daniel, Geotechnical Practice for Waste Disposal. London: Chapman and Hall, 1993.",
+      "3. L. Reddi and H. I. Inyang, Geoenvironmental Engineering: Principles and Applications. CRC Press, 2000.",
+      "4. R. W. Sarsby, Environmental Geotechnics. Thomas Telford, 2000.",
+      "5. H. D. Sharma and K. R. Reddy, Geoenvironmental Engineering: Site Remediation, Waste Containment, and Emerging Waste Management Technologies. John Wiley & Sons, 2004."
+    ]
+  },
+  {
+    "course_id": "CE3037E",
+    "course_title": "REINFORCED EARTH AND GEOTEXTILES",
+    "raw_references": [
+      "1. M. R. Hausmann, Engineering Principles of Ground Modification. New York: McGraw-Hill Publishing Company, 1990.",
+      "2. G. V. Rao and G. V. S. Suryanarayana Raju, Engineering with Geosynthetics. New Delhi: Tata Mc Graw Hill Publishing Co., 1990.",
+      "3. R. M. Koerner, Designing with Geosynthetics, 6th ed. Xlibris Pub., 2012.",
+      "4. S. K. Shukla, Geosynthetics and their Applications. London: Thomas Telford, 2002."
+    ]
+  },
+  {
+    "course_id": "CE3038E",
+    "course_title": "ADVANCED CONCRETE DESIGN",
+    "raw_references": [
+      "1. IRC Codes (IRC 5, IRC 6, IRC 112).",
+      "2. O. P. Jain and Jaikrishna, Plain and Reinforced Concrete - Vol I and II. Roorkee: NemChand Bros., 2000.",
+      "3. A.K. Jain, Reinforced Concrete. Roorkee: NemChand Bros., 1998.",
+      "4. Mallick and Gupta, Reinforced Concrete. Oxford and IBH, 1982.",
+      "5. P. Purushothaman, Reinforced Concrete Structural Elements. New Delhi: Tata McGraw Hill, , 1986.",
+      "6. G. S. Ramaswamy, Design and Construction of Concrete Shell Roofs. CBS publishers, 2005.",
+      "7. Relevant BIS Codes.",
+      "8. P.C. Varghese, Advanced Concrete Design. Prentice Hall India Learning Private Limited, 2005."
+    ]
+  },
+  {
+    "course_id": "CE3039E",
+    "course_title": "COMPUTATIONAL ELASTICITY",
+    "raw_references": [
+      "1. M. Ameen, Computational Elasticity–Theory of Elasticity, Finite and Boundary Element Methods. India: Narosa Publishing House, 2008.",
+      "2. R.D. Cook, D.S. Malkus, M.E. Plesha, and R.J. Witt, Concepts and Applications of Finite Element Analysis. India: John Wiley, 2001.",
+      "3. C.S. Desai, Elementary Finite Element Method, Prentice Hall of India, 1998.",
+      "4. C.S. Krishnamoorthy, Finite Element Analysis, Theory and Programming. India: Tata McGraw Hill, 1996.",
+      "5. S. Rajasekaran, Finite Element Analysis in Engineering Design. India: Wheeler Publishing, 1998.",
+      "6. I.H. Shames and C.L. Dym, Energy and Finite Element Methods in Structural Mechanics. India: Wiley Eastern, 1995.",
+      "7. S.P. Timoshenko and J.N. Goodier, Theory of Elasticity. Singapore: McGraw Hill, 1982.",
+      "8. O.C. Zienkiewicz, R.L. Taylor, and J.Z. Zhu, The Finite Element Method – Its Basis and Fundamentals, 6th Edition. India: Elsevier, 2007."
+    ]
+  },
+  {
+    "course_id": "CE3040E",
+    "course_title": "FINITE ELEMENT METHOD",
+    "raw_references": [
+      "1. K.J. Bathe, Finite Element Procedures, Prentice Hall of India, 1996.",
+      "2. G.R. Buchanan, Finite Element Analysis, Schaum’s Outlines, India: Tata McGraw-Hill, 1995.",
+      "3. R.D. Cook et al., Concepts and Applications of Finite Element Analysis, Wiley, 2003.",
+      "4. C.S. Desai, Elementary Finite Element Method, Prentice Hall of India, 1998.",
+      "5. C.S. Krishnamoorthy, Finite Element Analysis – Theory and Programming, Tata McGraw Hill, 1996.",
+      "6. S. Rajasekaran, Finite Element Analysis in Engineering Design, Wheeler Publishing, 1998.",
+      "7. S.P. Timoshenko and J.N. Goodier, Theory of Elasticity, McGraw Hill, 1970.",
+      "8. O.C. Zienkiewicz and R.L. Taylor, The Finite Element Method, Vol. I and II, McGraw Hill, 1991."
+    ]
+  },
+  {
+    "course_id": "CE3041E",
+    "course_title": "MATRIX METHODS OF STRUCTURAL ANALYSIS",
+    "raw_references": [
+      "1. S. Rajasekaran and G. Sankarasubramanian, Computational Structural Mechanics. PHI Learning Pvt. Ltd., 2001.",
+      "2. V.K.M. Selvam, Elements of Matrix and Stability Analysis of Structures. Khanna Publishers, 2001.",
+      "3. W. Weaver and J.M. Gere, Matrix Analysis of Framed Structures. CBS Publishers, 2004.",
+      "4. J. B. Wilbur, C. H. Norris, and S. Utku, Elementary Structural Analysis. McGraw-Hill, 2006."
+    ]
+  },
+  {
+    "course_id": "CE3042E",
+    "course_title": "PRE-STRESSED CONCRETE DESIGN",
+    "raw_references": [
+      "1. P. Dayaratnam, Prestressed Concrete. Oxford and IBH, 1982.",
+      "2. N. Krishna Raju, Prestressed concrete. Tata McGraw Hill, 2000.",
+      "3. T. Y. Lin and N. H. Burns, Design of Prestressed Concrete Structures. John Wiley and Sons, 2004.",
+      "4. P. Nagarajan, Prestressed concrete Design. Pearson, 2013.",
+      "5. N. Rajagopalan, Prestressed Concrete. New Delhi: Narosa publishers, 2004.",
+      "6. Relevant BIS codes."
+    ]
+  },
+  {
+    "course_id": "CE3043E",
+    "course_title": "INTELLIGENT TRANSPORTATION SYSTEMS",
+    "raw_references": [
+      "1. M.A. Chowdhury and A.W. Sadek, Fundamentals of Intelligent Transportation Systems Planning, Artech House, 2003.",
+      "2. S. Mand�uka, Intelligent Transport Systems. Department Faculty of Transport and Traffic Science University of Zagreb, 2015.",
+      "3. A. Perallos, U. Hernandez-Jayo, E. Onieva, and I.J.G. Zuazola, Intelligent Transport Systems: Technologies and Applications. John Wiley & Sons, 2015.",
+      "4. P.K. Sarkar and A.K. Jain, Intelligent Transport Systems, PHI Learning Private Limited, 2018.",
+      "5. L. Vanajakshi, G. Ramadurai, and A. Anand, Intelligent Transportation Systems Synthesis Report on ITS Including Issues and Challenges in India. Centre of Excellence in Urban Transport IIT Madras, 2010.",
+      "6. Y. Wang, X. Yan, G. Lu, and C. Wu, Intelligent Road Transport Systems: An Introduction to Key Technologies. Springer Nature, 2022.",
+      "7. J.Zak, Y. Hadas, and R. Rossi, Advanced Concepts, Methodologies and Technologies for Transportation and Logistics. Springer, 2017."
+    ]
+  },
+  {
+    "course_id": "CE3044E",
+    "course_title": "PAVEMENT ANALYSIS AND DESIGN",
+    "raw_references": [
+      "1. David Croney, The Design and Performance of Road Pavements, McGraw Hill, 1997.",
+      "2. Harold N. Atkins, Highway Materials, Soils, and Concrete, Prentice Hall, 2002.",
+      "3. IRC: 37, Guidelines for the Design of Flexible Pavements.",
+      "4. IRC: 58, Guidelines for the Design of Rigid Pavements.",
+      "5. IRC: 81, Strengthening of Flexible Road Pavements using Benkelman Beam Deflection Technique.",
+      "6. IRC:101, Guidelines for Design of Continuously Reinforced Concrete Pavement with Elastic Joints.",
+      "7. Mechanistic-Empirical Pavement Design Guide, NCHRP, TRB, 2008.",
+      "8. B. Rajib Mallick and Tahar El-Korchi, Pavement Engineering: Principles and Practice, CRC Press, 2008.",
+      "9. Yang H. Huang, Pavement Analysis and Design, Prentice Hall, 2003.",
+      "10. Yoder and Witczak, Principles of Pavement Design, 2nd ed. John Wiley and Sons, 1975."
+    ]
+  },
+  {
+    "course_id": "CE3045E",
+    "course_title": "TRANSPORTATION INFRASTRUCTURE DESIGN",
+    "raw_references": [
+      "1. Vukan R. Vuchic, Urban Transit System and Technology, John Wiley & Sons Inc., 2007.",
+      "2. Airport Passenger Terminal Planning and Design, Volume 1: Guidebook, Transportation Research Board, 2010.",
+      "3. J.W. Bose, Handbook of Terminal Planning, Springer, 2020.",
+      "4. IRC SP 99: Manual of Specification and Standards for Expressways.",
+      "5. IRC 92: Guidelines for the Design of Interchanges in Urban Areas.",
+      "6. IRC: MORTH Guidelines for Expressways, Volume II: Design.",
+      "7. IRC-SP41: Guidelines for the Design of At-Grade Intersections in Rural & Urban Areas.",
+      "8. L.R. Kadiyali, Traffic Engineering and Transport Planning, Khanna Publishers, 1987.",
+      "9. E.K. Morlock, Introduction to Transportation Engineering & Planning, International Student Edition, New York: McGraw-Hill Book Company,1992."
+    ]
+  },
+  {
+    "course_id": "CE3046E",
+    "course_title": "TRANSPORTATION PLANNING",
+    "raw_references": [
+      "1. M.J. Bruton, Introduction to Transportation Planning, Hutchinson of London, 1970.",
+      "2. J.W. Dicky, Metropolitan Transportation Planning, Tata McGraw Hill, 1983.",
+      "3. B.G. Hutchinson, Principles of Urban Transportation System Planning, McGraw Hill.",
+      "4. ITE (1982), Transportation and Traffic Engineering Handbook, Chapters 10, 12, and 17, Prentice Hall, New Jersey.",
+      "5. A. Kanafani, Transportation Demand Analysis, McGraw-Hill, 1983.",
+      "6. C.J. Khisty, Transportation Engineering - An Introduction, 3rd ed. Prentice Hall, 2002.",
+      "7. Konstadinos G. Goulias, Transportation Systems Planning: Methods and Applications, CRC Press, 2002.",
+      "8. M.D. Meyer and E.J. Miller, Urban Transportation Planning, McGraw-Hill International, 2001.",
+      "9. N. Oppenheim, Applied Models in Urban and Regional Analysis, NJ: Prentice-Hall, 1995.",
+      "10. J.D. Ortuzar and L.G. Willumsen, Modelling Transport, John Wiley and Sons Ltd, 2001.",
+      "11. Papacostas, Fundamentals of Transportation Planning, 3rd ed. Tata McGraw Hill, 2002.",
+      "12. A.G. Wilson, Urban and Regional Models in Geography and Planning, John Wiley and Sons, 1974."
+    ]
+  },
+  {
+    "course_id": "CE3047E",
+    "course_title": "ENVIRONMENTAL HYDRAULICS",
+    "raw_references": [
+      "1. L.D. Benfield, J.F. Judkins, and A.D. Parr, Treatment Plant Hydraulics for Environmental Engineers, Prentice Hall, 1983.",
+      "2. S.C. Chapra, Surface Water Quality Modeling, Waveland Press Inc., 2008.",
+      "3. W.H. Hager, Wastewater Hydraulics, Springer Verlag, 2010.",
+      "4. J.L. Martin and S.C. McCutcheon, Hydrodynamics and Transport for Water Quality Modeling, CRC Press, 2018.",
+      "5. L.W. Mays (ed.), Hydraulic Design Handbook, McGraw Hill Inc., 1999.",
+      "6. J.W. Nicklow, Comprehensive Water and Wastewater Treatment Plant Hydraulics Handbook for Engineers and Operators, MWH Soft, Inc., 2005.",
+      "7. V.P. Singh and W.H. Hager (eds.), Environmental Hydraulics, Springer, 2013.",
+      "8. F.R. Spellman, Handbook of Water and Wastewater Treatment Plant Operations, CRC Press, 2014."
+    ]
+  },
+  {
+    "course_id": "CE3048E",
+    "course_title": "GROUNDWATER HYDROLOGY",
+    "raw_references": [
+      "1. V. Batu, Applied Flow and Solute Transport Modeling in Aquifers: Fundamental Principles and Analytical and Numerical Methods, CRC Press, 2005.",
+      "2. C.W. Fetter, Applied Hydrogeology, Essex: Pearson Education, 2014.",
+      "3. C.W. Fetter, Contaminant Hydrogeology, Upper Saddle River, N.J.: Prentice Hall, 1999.",
+      "4. N. Kresic, Hydrogeology and Groundwater Modeling, 2nd ed, Hoboken: CRC Press, 2006.",
+      "5. H.M. Raghunath, Groundwater, 3rd ed. New Age International (P) Ltd, 2007.",
+      "6. A.K. Rastogi, Numerical Groundwater Hydrology, Penram International Publishing (India) Pvt. Ltd., 2011.",
+      "7. D.K. Todd and L.W. Mays, Groundwater Hydrology, New York: John Wiley & Sons, 2005.",
+      "8. C. Zheng and G. Bennett, Applied Contaminant Transport Modeling, New York: Wiley-Interscience, 2002."
+    ]
+  },
+  {
+    "course_id": "CE3049E",
+    "course_title": "OPTIMISATION OF ENGINEERING SYSTEMS",
+    "raw_references": [
+      "1. J.S. Arora, Introduction to Optimum Design, McGraw-Hill Book Company, 2004.",
+      "2. K. Deb, Multiobjective Optimization using Evolutionary Algorithms, John Wiley and Sons, 2001.",
+      "3. M.S. Bazaraa, H.D. Sherali, and C.M. Shetty, Nonlinear Programming: Theory and Algorithms, Wiley-Interscience, 2013.",
+      "4. D. Ravindran, T. Phillips, J.J. Solberg, Operations Research - Principles and Practice, John Wiley and Sons.",
+      "5. K.M. Ravindran, G.V. Reklaitis, Engineering Optimization - Methods and Applications, John Wiley and Sons, 2006.",
+      "6. S.S. Rao, Engineering Optimization, New Age International (P) Ltd. Publishers, 2000."
+    ]
+  },
+  {
+    "course_id": "CE3050E",
+    "course_title": "SOFT COMPUTING TECHNIQUES",
+    "raw_references": [
+      "1. D.E. Goldberg, Genetic Algorithms, India: Pearson Education, 2006.",
+      "2. F. Karray and C. De Silva, Soft Computing and Intelligent Systems Design: Theory, Tools, and Applications, Pearson Education, 2004.",
+      "3. H. Zimmermann, Fuzzy Set Theory and Its Applications, Boston: Kluwer Academic, 2014.",
+      "4. S. Haykin, Neural Networks and Learning Machines, Prentice Hall, Upper Saddle River, 2009.",
+      "5. S. Rajasekaran and G.A. Vijayalakshmi Pai, Neural Networks, Fuzzy Logic, and Genetic Algorithms: Synthesis and Applications, New Delhi: Prentice Hall of India, 2017.",
+      "6. S. Roy and U. Chakraborty, Introduction to Soft Computing: Neuro-fuzzy and Genetic Algorithms, Pearson India, 2013.",
+      "7. S. Sivanandam and S. Deepa, Principles of Soft Computing, 3rd ed. New Delhi: Wiley India Pvt Ltd, 2019.",
+      "8. T. Ross, Fuzzy Logic with Engineering Applications, 3rd ed. Wiley India, 2009"
+    ]
+  },
+  {
+    "course_id": "CE3051E",
+    "course_title": "STATISTICAL TECHNIQUES IN WATER RESOURCES ENGINEERING",
+    "raw_references": [
+      "1. C.T. Haan, Statistical Methods in Hydrology, 2nd ed. Wiley-Blackwell, 2002.",
+      "2. P.J. Reddy, A Text Book of Stochastic Hydrology, 2nd ed. New Delhi: Laxmi Publications, 2016.",
+      "3. M. Shahin, H.J.L. Van Oorschot, and S.J. De Lange, Statistical Analysis in Water Resources Engineering, Rotterdam: Aa-Balkema, Brookfield, 1993.",
+      "4. V. Yevjevich, Probability and Statistics in Hydrology, 2 nd ed. Fort Collins, Colorado, USA: Water Resources Publications, 2010.",
+      "5. V. Yevjevich, Stochastic Processes in Hydrology, Fort Collins, Colorado, USA: Water Resources Publications, 1970."
+    ]
+  },
+  {
+    "course_id": "CE4021E",
+    "course_title": "CONTRACT LAWS AND SPECIFICATIONS",
+    "raw_references": [
+      "1. Allan Ashworth, Contractual Procedures in the Construction Industry, 6th ed. Pearson, 2012.",
+      "2. B.J. Vasavada, Engineering Contracts and Arbitration, Jubilee Publications, 1996.",
+      "3. Dr. Vandana Bhatt & Pinky Vyas, Laws for Engineers (Contract, Arbitration, Evidence, Limitation), 2015.",
+      "4. G. T. Gajria, Law Relating to Building and Engineering Contracts in India, 4th ed., Mumbai: N. M. Tripathi Pvt. Ltd., 2000.",
+      "5. J.A. G�mez-Ib��ez, Regulating Infrastructure: Monopoly, Contracts, and Discretion.",
+      "6. J. Hinze, Construction Contracts, 3rd ed., McGraw Hill, 2013.",
+      "7. J. Murdoch and W. Hughes, Construction Contracts, Taylor & Francis, 2008."
+    ]
+  },
+  {
+    "course_id": "CE4022E",
+    "course_title": "FORENSIC ENGINEERING AND REHABILITATION OF STRUCTURES",
+    "raw_references": [
+      "1. ACI 546R-14, Guide to Concrete Repair, American Concrete Institute, 2014.",
+      "2. Peter H. Emmons, Concrete Repair and Maintenance Illustrated: Problem Analysis; Repair Strategy; Techniques, Galgotia Publications Pvt. Ltd., 2002.",
+      "3. R. Dodge Woodson, Concrete Structures: Protection, Repair and Rehabilitation, Elsevier, 2009.",
+      "4. Jacob Feld and Kenneth L Carper, Construction Failures, Wiley Europe, 1997.",
+      "5. CPWD Handbook on Repair and Rehabilitation of RCC Buildings, Jain Book Agency, 2011.",
+      "6. Dov Kaminetzky, Design and Construction Failures, New Delhi: Galgotia Publication, 2001."
+    ]
+  },
+  {
+    "course_id": "CE4023E",
+    "course_title": "HEALTH MONITORING OF STRUCTURES",
+    "raw_references": [
+      "1. F. Ansari, Sensing Issues in Civil Structural, Springer, 2005.",
+      "2. D.E. Adams, Health Monitoring of Structural Materials and Components, Wiley, 2007.",
+      "3. C.K. Soh, Y.W. Yang and S. Bhalla, Smart Materials in Structural Health Monitoring, Control and Bio-Mechanics, Springer-Zhejiang University Press, 2012.",
+      "4. C.R. Farrar and K. Worden, Structural Health Monitoring, a Machine Learning Perspective, Wiley Publications, 2013.",
+      "5. H.P. Chen, Structural Health Monitoring of Large Civil Engineering Structures, Wiley Blackwell, 2018.",
+      "6. C. Boller, F.K. Chang and Y. Fujino, Encyclopedia of Structural Health Monitoring, Wiley, 2009.",
+      "7. Research papers on SHM.s"
+    ]
+  },
+  {
+    "course_id": "CE4024E",
+    "course_title": "QUALITY AND SAFETY MANAGEMENT",
+    "raw_references": [
+      "1. E.L. Grant, and R. S. Leavenworth, Statistical Quality Control, Mc Graw Hill, 1996.",
+      "2. J. W. Hinze, Construction Safety, 2nd ed. Pearson College Division, 2013.",
+      "3. J. L. Ashford,The Management of Quality in Construction, 1 st ed. Routledge, 2002.",
+      "4. J.M. Juran and F.M. Grana, Quality Planning and Analysis: From Product Development Through Use, 3rd ed. McGraw-Hill Series in Industrial Engineering and Management Science, 1993.",
+      "5. R. J. Coble, J. W. Hinze and T. C. Haupt, Construction Safety and Health Management, Pearson, 2000."
+    ]
+  },
+  {
+    "course_id": "CE4025E",
+    "course_title": "SUSTAINABLE CONSTRUCTION AND LEAN CONSTRUCTION",
+    "raw_references": [
+      "1. G. Ballard, I. Tommelein, L. Koskela and G. Howell, Lean construction tools and techniques, 2002.",
+      "2. C. J. Kibert, Sustainable Construction: Green Building Design & Delivery, 4th ed. Wiley Publishers, 2016.",
+      "3. C. Corfe and B. Clip, Implementing lean in construction: Lean and the sustainability agenda, CIRIA, 2013.",
+      "4. C. A. Langston & G.K.C. Ding, Sustainable Practices in the Built Environment, Butterworth Heinemann Publishers, 2011.",
+      "5. Forbes, H. Lincoln & S. M. Ahmed, Lean Project Delivery and Integrated Practices in Modern Construction, CRC Press, 2020",
+      "6. O. Salem, J. Solomon, A. Genaidy and M. Luegring, Site implementation and Assessment of Lean Construction Techniques, Lean Construction Journal, 2005.",
+      "7. S. Gao and S. P. Low, Lean Construction Management: The Toyota Way, Springer, 2014.",
+      "8. S. Goodhew, Sustainable Construction Process, Wiley Blackwell UK, 2016.",
+      "9. W. P. Spence, Construction Materials, Methods & Techniques, 3rd ed. Yesdee Publication Pvt. Ltd., 2012."
+    ]
+  },
+  {
+    "course_id": "CE4026E",
+    "course_title": "ENVIRONMENTAL RISK ASSESSMENT",
+    "raw_references": [
+      "1. A. H�yland, M. Rausand, System Reliability Theory: Models and Statistical Methods, Wiley, 2009",
+      "2. G. W. Suter II, Ecological Risk Assessment, 2nd ed. Florida: CRC Press, 2006",
+      "3. National Research Council, Risk Assessment in the Federal Government: Managing the Process, Washington, DC: The National Academies Press, 1983",
+      "4. M. Robson, W. Toscano (Ed.), Risk Assessment for Environmental Health, John Wiley and Sons Inc, 2007.",
+      "5. T. Simon, Environmental risk assessment: a toxicological approach, CRC Press, 2019.",
+      "6. WHO, Quantitative microbial risk assessment -Application for water safety management, Geneva: World Health Organization, 2016."
+    ]
+  },
+  {
+    "course_id": "CE4027E",
+    "course_title": "ENVIRONMENTAL SYSTEM MODELLING",
+    "raw_references": [
+      "1. D. A. Haith, Environmental Systems Optimization, New York: John Wiley & Sons,1982.",
+      "2. J. B. Shukla, T. G. Hallam, and V. Capasso, Mathematical modelling of environmental and ecological systems, Elsevier, 2012.",
+      "3. W. J. Weber Jr., Environmental System and Processes- Principles, Modelling and design, New York: John Wiley & Sons, 2001."
+    ]
+  },
+  {
+    "course_id": "CE4028E",
+    "course_title": "HAZARDOUS AND SPECIAL WASTE MANAGEMENT",
+    "raw_references": [
+      "1. B. Bilitewski, G. H�rdtle, K. Marek, A. Weissbach and H. Boeddicker, Waste Management, Springer, 1994.",
+      "2. C. A. Wentz, Hazardous waste management. 2nd ed. McGraw Hill international, 1995.",
+      "3. Gazette of India for relevant rules",
+      "4. M. D. LaGrega, P. L. Buckingham and J. C. Evans. Hazardous Waste Management, McGraw Hill, 2000.",
+      "5. M. D. La Gerga, P. L. Buckingham and J. C. Evans, Hazardous waste management, 2nd ed. Waveland Press, 2010.",
+      "6. J. Pichtel, Waste management Practices-Municipal, hazardous, and industrial, CRC Press 2005."
+    ]
+  },
+  {
+    "course_id": "CE4029E",
+    "course_title": "INDUSTRIAL WASTE ENGINEERING",
+    "raw_references": [
+      "1. D. T. Allen and K.S. Rosselot, Pollution Prevention for Chemical Processes, John Wiley, 1997",
+      "2. P. E. Bishop, Pollution Prevention: Fundamentals and Practice, McGraw Hill, 2000.",
+      "3. H. M. Freeman, Industrial Pollution Prevention Handbook, McGraw Hill, 1995.",
+      "4. N. L. Numerow, Liquid Waste from Industry - Theories, Practice and Treatment, Addison Wesley, 1971.",
+      "5. M. N. Rao and A. K. Dutta, Wastewater Treatment, IBH Publications, 1995.",
+      "6. Metcalf and Eddy, Wastewater Engineering Treatment and Reuse, McGraw Hill, 2017."
+    ]
+  },
+  {
+    "course_id": "CE4030E",
+    "course_title": "GEOINFORMATICS",
+    "raw_references": [
+      "1. C. P. Lo and A. K. W. Yeung, Concepts and Techniques of Geographic Information Systems, 2 nd ed. Pearson Education, 2016.",
+      "2. M. N. Demers, Fundamentals of Geographic Information Systems, 3rd ed. Wiley India Pvt. Ltd, 2008.",
+      "3. P. A. Burrough and R. A. Mcdonnell, Principles of Geographical Information Systems, 2nd ed. USA: Oxford University Press, 1998.",
+      "4. P. A. Longley, M. Goodchild, D. J. Maguire and D. W. Rhind (Eds.), Geographical Information Systems: Principles, Techniques, Management and Applications, 2nd ed. John Wiley and Sons, 2005.",
+      "5. T. Bernhardsen, Geographic Information Systems: An Introduction, 3rd ed. Wiley India Pvt. Ltd, 2007."
+    ]
+  },
+  {
+    "course_id": "CE4031E",
+    "course_title": "EARTH AND ROCKFILL DAM ENGINEERING",
+    "raw_references": [
+      "1. C. Kutzner, Earth and Rockfill Dams Principles for Design and Construction, Routledge, 1997.",
+      "2. B. Singh and H. D. Sharma, Earth and Rockfill dams, Meerut: Saritha Prakashan, 1976.",
+      "3. G. F. Sowers, Earth and Rockfill Dam Engineering, Asia Publishing, 1962."
+    ]
+  },
+  {
+    "course_id": "CE4032E",
+    "course_title": "FINITE ELEMENT ANALYSIS IN GEOTECHNICAL ENGINEERING",
+    "raw_references": [
+      "1. K. J. Bathe, Finite Element Procedures in Engineering Analysis, New Delhi: Prentice-Hall of India Pvt. Ltd., 1996.",
+      "2. R. D. Cook. D. S. Malkus and M. E. Plesha, Concepts and Applications of Finite Element Analysis, 4th ed. New Delhi: Prentice Hall-India, 2000.",
+      "3. C. S. Desai and M. Zaman, Advanced Geotechnical Engineering: Soil-Structure Interaction Using Computer and Material Models, Boca Raton, FL, USA: CRC press, 2014.",
+      "4. D. M. Potts and L. Zdravkovic, Finite element analysis in geotechnical engineering: Theory and application, Vols. 1 & 2, London, UK: Thomas Telford, 2001.",
+      "5. O. C. Zienkiewicz and R. L. Taylor, Finite Element Method, 4th ed. London, UK: McGraw Hill, 1989."
+    ]
+  },
+  {
+    "course_id": "CE4033E",
+    "course_title": "SOIL DYNAMICS AND DESIGN OF MACHINE FOUNDATIONS",
+    "raw_references": [
+      "1. A. Major, Dynamics in Soil Engineering, Akademiai,1980.",
+      "2. B. M. Das, Principles of Soil Dynamics, PWS-KENT Publishing Company, 2014.",
+      "3. D. D. Barkan, Dynamics of Bases and Foundations, McGraw-Hill Book Company, 1962.",
+      "4. F.E. Richart Jr., J. R. Hall Jr. and R. D. Woods, Vibrations of Soils and Foundations, Prentice Hall Inc., 1970.",
+      "5. IS 2974 - Part I and II, Design Considerations for Machine Foundations",
+      "6. IS 5249: Method of Test for Determination of Dynamic Properties of Soils",
+      "7. S. Prakash, Soil Dynamics, McGraw-Hill, 1981.",
+      "8. P. Sreenivasulu and C. V. Vaidyanathan, Handbook of Machine Foundations, Tata McGraw- Hill, 2007.",
+      "9. S. L. Kramer, Geotechnical Earthquake Engineering, Prentice Hall Inc, 2003."
+    ]
+  },
+  {
+    "course_id": "CE4034E",
+    "course_title": "ADVANCED STEEL DESIGN",
+    "raw_references": [
+      "1. N. Subramanian, Design of Steel Structures, Oxford University Press, 2008.",
+      "2. S. S. Bhavikatti, Design of Steel Structures, I K International Publishing House Pvt. Ltd, 2009.",
+      "3. S. K. Duggal, Limit State of Design of Steel Structures, New Delhi: Tata McGraw Hill, 2010.",
+      "4. Ramchandra, Design of Steel Structures Vol I and II, New Delhi: Standard book house,1991.",
+      "5. P. Dayaratnam, Design of Steel Structures, Wheeler,1998.",
+      "6. M. Raghupathi, Design of Steel Structures, New Delhi: Tata McGraw Hill, 1985.",
+      "7. T. Y. Lin and B. Breslar, Design of Steel Structures, John Wiley and Sons, 1963.",
+      "8. Relevant BIS codes Total lecture sessions: 39"
+    ]
+  },
+  {
+    "course_id": "CE4035E",
+    "course_title": "DYNAMICS OF STRUCTURES",
+    "raw_references": [
+      "1. A. K. Chopra, Dynamics of structures - Theory and Application to Earthquake Engineering, Prentice Hall of India, 1996.",
+      "2. R. W. Clough and J. Penzien, Dynamics of structures, McGraw Hill, 1993.",
+      "3. R. R. Craig Jr., Structural Dynamics, John Wiley, 1981.",
+      "4. W. C. Hurty and M. F. Rubinstein, Dynamics of Structures, Prentice Hall, 1964.",
+      "5. IS 1893 - Criteria for Earthquake Resistant Design of Structures, 2002.",
+      "6. L. Meirovitch, Elements of Vibration Analysis, Mc.Graw Hill, 1986.",
+      "7. SP 22: Explanatory Handbook on Codes for Earthquake Engineering.",
+      "8. W. T. Thomson, Theory of Vibration with Applications, Pearson Education Inc., 1998."
+    ]
+  },
+  {
+    "course_id": "CE4036E",
+    "course_title": "FRACTURE MECHANICS",
+    "raw_references": [
+      "1. T. L. Anderson, Fracture Mechanics: Fundamentals and applications, CRC Press, 2011.",
+      "2. D. Broek, Elementary Engineering Fracture Mechanics, Sijthoff & Noordhoff International Publishers, 1982.",
+      "3. M. Janssen, J. Zuidema and R. Wanhill, Fracture Mechanics, Spon Press, 2004.",
+      "4. Z. H. Jin, C. T. Sun, Fracture Mechanics, Academic Press, 2005.",
+      "5. J. F. Knott, Fundamentals of Fracture Mechanics, Butterworth & Co, 1973.",
+      "6. P. Kumar, Elements of Fracture Mechanics, Tata McGraw Hill, 2009.",
+      "7. S. K. Maiti, Fracture Mechanics: Fundamentals and applications, Cambridge, 2015."
+    ]
+  },
+  {
+    "course_id": "CE4037E",
+    "course_title": "SEISMIC DESIGN OF STRUCTURES",
+    "raw_references": [
+      "1. P. Agarwal and M. Shirkhande, Earthquake Resistant Design of structures, Prentice-Hall of India, 2006.",
+      "2. S. K. Duggal, Earthquake Resistant Design of structures, Oxford University Press, 2007.",
+      "3. T. K. Datta, Seismic Analysis of Structures, John Wiley and sons (Asia) Pvt. Ltd, 2010.",
+      "4. J. Krishna, A. R. Chandrasekaran, B. Chandra, Elements of Earthquake Engineering, South Asian Publishers Pvt. Ltd, 1994.",
+      "5. A. Gupta, Response Spectrum Method in Seismic Analysis and Design of Structures, CRC Press, INC, 1992.",
+      "6. Relevant BIS Codes"
+    ]
+  },
+  {
+    "course_id": "CE4038E",
+    "course_title": "PUBLIC TRANSPORTATION",
+    "raw_references": [
+      "1. A. Ceder, Public Transit Planning and Operation: Theory, modelling and Practice, Elsevier, 2007",
+      "2. C. Daganzo and Y. Ouyang, Public Transportation Systems: Principles of System Design, Operations Planning and Real-time Control, World Scientific Publishing Company, 2019.",
+      "3. R. Illes, Public Transport in Developing Countries, Emerald Group Publishing Limited, 2005.",
+      "4. V. R. Vuchic, Urban Transit: Operations, Planning, and Economics, Wiley, 2017.",
+      "5. P. R. White, Public Transport: Its Planning, Management, and Operation, 5th ed. London: Routledge, 2008.",
+      "6. V. R. Vuchic, Urban Transit Systems and Technology, John Wiley & Sons, 2007"
+    ]
+  },
+  {
+    "course_id": "CE4039E",
+    "course_title": "ROAD SAFETY AND MANAGEMENT",
+    "raw_references": [
+      "1. MoRTH Reports and Guidelines",
+      "2. R. Elvik, A. Hoye, T. Vaa and M. Sorensen, The Handbook of Road Safety Measures, Bingley: Emerald Group Publishing Limited, 2009.",
+      "3. AASHTO Highway Safety Manual, 2018",
+      "4. D. L. Geotsch, Occupational Safety and Health for Technologists, Engineers and Managers, 5th ed. Pearson, 2004.",
+      "5. R. Fuller and J. A. Santos, Human Factors for Highway Engineers, Pergamon, 2002.",
+      "6. Relevant IRC codes",
+      "7. L. R. Kadiyali, Traffic Engineering and Transportation Planning, New Delhi: Khanna Publishers, 2009.",
+      "8. C. J. Khisty and B. K. Lall, Transportation Engineering- An Introduction, 3 rd ed. New Delhi: Prentice Hall of India, 2017",
+      "9. World Health Organization, Road Traffic Injury Prevention Training Manual."
+    ]
+  },
+  {
+    "course_id": "CE4040E",
+    "course_title": "TRAFFIC FLOW MODELLING",
+    "raw_references": [
+      "1. D. R. Drew, Traffic Flow Theory and Control, New York : McGraw-Hill, 1968.",
+      "2. N. H. Gartner, A. J. Rathi and C. J. Messer, Traffic Flow Theory - A Revised Monograph, Washington: Transportation Research Board, 1997.",
+      "3. F. L. Mannering and W. P. Kilareski, Principles of Highway Engineering and Traffic Analysis, John Wiley & Sons, 2008.",
+      "4. A. D. May, Traffic Flow Fundamentals, NJ: Prentice-Hall, 1990.",
+      "5. W. R. McShane and R. P. Roess, Traffic Engineering, NJ: Prentice-Hall, 2010.",
+      "6. T. H. Neylor, Computer Simulation Techniques, John Wiley & sons, 1966.",
+      "7. TRB: SR No.165 - Traffic Flow Theory, Washington: Transportation Research Board, 1976.",
+      "8. TRB: Highway Capacity Manual, Washington: Transportation Research Board, 2000.",
+      "9. M. Wohl and B. V. Martin, Traffic System Analysis for Engineers and Planners, New York: McGraw- Hill, 1967."
+    ]
+  },
+  {
+    "course_id": "CE4041E",
+    "course_title": "TRANSPORTATION AND LAND USE",
+    "raw_references": [
+      "1. J. W. Dickey, Metropolitan Transportation Planning, Tata McGraw-Hill, 1983.",
+      "2. A. B. Gallion and S. Eisner, The Urban Pattern, New Delhi: Affluated East-West Press.",
+      "3. B. G. Hutchinson, Principles of Transportation Systems Planning, McGraw-Hill, 1974.",
+      "4. N. Oppenheim, Applied Models in Urban and Regional Analysis, Prentice-Hall, 1980.",
+      "5. Wilson, Urban and Regional Models in Geography and Planning, John Wiley and Sons, 1974."
+    ]
+  },
+  {
+    "course_id": "CE4042E",
+    "course_title": "COASTAL ENGINEERING AND COASTAL ZONE MANAGEMENT",
+    "raw_references": [
+      "1. A.T. Ippen, (Ed.), Estuary and Coastline Hydrodynamics, Mc Graw Hill Book Co., 1966.",
+      "2. R. M. Sorenson, Basic Coastal Engineering, Springer, 2006.",
+      "3. U.S. Army Corps of Engineers (USACE), Coastal Engineering Manual Part. I to VI (Pub. No. EM 1110-2-1100), 2012.",
+      "4. J. S. Mani, Coastal Hydrodynamics, Prentice Hall India, 2011.",
+      "5. V. Sundar, Ocean Wave Mechanics, John Wiley & Sons Ltd., 2016.",
+      "6. D. Reeve, A. Chadwick, and C. Fleming, Coastal Engineering, CRC Press, 2018.",
+      "7. J. W. Kamphius, Introduction to Coastal Engineering and Management, World Scientific, 2010.",
+      "8. R. G. Dean and R. A. Dalrymple, Coastal Processes with Engineering Applications, Cambridge University Press, 2004"
+    ]
+  },
+  {
+    "course_id": "CE4043E",
+    "course_title": "FINITE ELEMENT METHOD IN FLUID FLOW",
+    "raw_references": [
+      "1. J. N. Reddy, An Introduction to the Finite Element Method, McGraw Hill Education, 2017.",
+      "2. S. S. Rao, The Finite Element Method in Engineering, 5th ed. Butterworth-Heinemann, 2010.",
+      "3. O. C. Zienkiewicz and K. Morgan, Finite Elements and Approximation, Dover Publications Inc., 2006.",
+      "4. O.C. Zienkiewicz, R. L. Taylor, and J. Z. Zhu, The Finite Element Method - Its Basics and Fundamentals, 7th ed. Butterworth-Heinemann Ltd, 2013."
+    ]
+  },
+  {
+    "course_id": "CE4044E",
+    "course_title": "HYDROCLIMATOLOGY",
+    "raw_references": [
+      "1. G. S. Campbell and J. M. Norman, An Introduction to Environmental Biophysics, Springer, 2000.",
+      "2. IPCC, Sixth Assessment Report, 2022.",
+      "3. T. Lee and V. P. Singh, Statistical Downscaling for Hydrological and Environmental Applications, 1st ed. CRC Press, 2018.",
+      "4. K. McGuffie and A. Henderson-Sellers, The Climate Modelling Primer, 4th ed. Wiley Blackwell, 2014.",
+      "5. K. S. Raju and D. N. Kumar, Impact of Climate Change on Water Resources: With Modeling Techniques and Case Studies, Springer Singapore, 2018.",
+      "6. M. L. Shelton, Hydro climatology: Perspectives and Applications, Cambridge University Press, 2009.",
+      "7. W. M. Washington and C. L. Parkinson, An Introduction to Three Dimensional Climate Modeling, Oxford University Press, 2005."
+    ]
+  },
+  {
+    "course_id": "CE4045E",
+    "course_title": "HYDROPOWER",
+    "raw_references": [
+      "1. H. K. Barrows, Water Power Engineering, Mc Graw Hill Inc, 1955.",
+      "2. B. Leyland, Small Hydroelectric Engineering Practice, CRC Press, 2014.",
+      "3. E. Mosonyi, Water Power Development, Hungarian Academy of Sciences, 1965.",
+      "4. G. Brown, Hydroelectric Engineering Practice, London: Blackie and Sons Ltd, 1984.",
+      "5. J. S. Gulliver and R. E. A. Arndt, Hydroelectric Engineering Handbook, Mc Graw Hill Inc., 1991.",
+      "6. M. M. Dandekar and K. N. Sharma, Water Power Engineering, Vikas Publishing House Pvt. Ltd., 2015.",
+      "7. P. S. Nigam, Handbook of Hydro Engineering, Roorkee: Nem Chand and Sons, 1985.",
+      "8. S. Khennas and A. Barnett, Best Practices for Sustainable Development of Mini Hydropower in Developing Countries, World Bank/ESMAP.",
+      "9. UNIDO, Small Hydropower Series, UN, 1985.",
+      "10. W. P. Creager and J. D. Justin, Hydroelectric Handbook, John Wiley and Sons, 1963.",
+      "11. Websites of the Ministry of Power, and the Ministry of Jal Shakthi, Govt. of India and the Central Water Commission.",
+      "12. T. Jiandong, Z. Naibo, W. Xianhuan, H. Jing and D. Huishen, Mini Hydropower, John Wiley and Sons, 1997."
+    ]
+  },
+  {
+    "course_id": "CE4046E",
+    "course_title": "STATISTICS, PROBABILITY AND RELIABILITY METHODS IN ENGINEERING",
+    "raw_references": [
+      "1. A. H. S. Ang and W. H. Tang, Probability Concepts in Engineering Planning and Design Vol. II Decision, Risks and Reliability, John Wiley and Sons, 1984.",
+      "2. J. R. Benjamin and C. A. Cornell, Probability, Statistics and Decision for Engineers, McGraw-Hill, 2014.",
+      "3. A. Papoulis, Probability, Random Variables and Stochastic Processes, McGraw Hill, 2004.",
+      "4. R. Ranganathan, Reliability Analysis and Design of Structures, Tata McGraw Hill, 1990.",
+      "5. H. O. Madsen, S. Krenk, and N. C. Lind, Methods of Structural Safety, Prentice-Hall, 2006.",
+      "6. R. E. Melchers, Structural Reliability - Analysis and Prediction, 3rd ed. Ellis Horwood Ltd., 2017.",
+      "7. S. P. Washington, M. G. Karlaftis, and F. Mannering, Statistical and Econometric Methods for Transportation Data Analysis, 3rd ed. CRC Press, Taylor & Francis Group, 2020."
+    ]
+  },
+  {
+    "course_id": "CE4047E",
+    "course_title": "URBAN HYDROLOGY AND DRAINAGE",
+    "raw_references": [
+      "1. A. O. Akan and R. J. Houghtalen, Urban Hydrology, Hydraulics, and Stormwater Quality Engineering Applications and Computer Modeling, 1st ed. John Wiley and Sons, 2003.",
+      "2. M. H. Chaudhry, Open-Channel Flow, Springer, 2nd ed. Springer New York, 2008.",
+      "3. V. T. Chow, D. Maidment, and L. W. Mays, Applied Hydrology, 1st ed. Tata McGraw Hill, 2011.",
+      "4. J. C. Y. Guo, Urban Hydrology and Hydraulic Design, Water Resources Publications, LLC, 2006.",
+      "5. J. C. Y. Guo, Urban Storm Water Design, Water Resources Publications, LLC, 2003.",
+      "6. Manual on Storm Water Drainage Systems Volume-I, CPHEEO, May 2019.",
+      "7. Manual on Storm Water Drainage Systems Volume-II, CPHEEO, May 2019.",
+      "8. National Engineering Handbook, Part 630, Natural Resources Conservation Service, United States Department of Agriculture.",
+      "9. Storm Water Management Model Applications Manual, USEPA - EPA/600/R-09/077, July 2009.",
+      "10. K. Subramanya, Flow in Open Channels, 4th ed. McGraw Hill Education, 2015"
+    ]
+  },
+  {
+    "course_id": "CE4048E",
+    "course_title": "WATER QUALITY MODELING AND MANAGEMENT",
+    "raw_references": [
+      "1. R. Boulding, Practical Handbook of Soil, Vadose Zone, and Ground-Water Contamination, Boca Raton: Lewis Publishers, 2004.",
+      "2. S. C. Chapra, G. J. Pelletier, and H. Tao, QUAL2K: A Modeling Framework for Simulating River and Stream Water Quality, Version 2.11. USA: Documentation and User's Manual, Civil and Environmental Engineering Department, Tufts University, Medford, 2008.",
+      "3. S. C. Chapra, Surface Water-Quality Modeling, Long Grove, Ill.: Waveland Press, 2008.",
+      "4. A. W. Harbaugh, E. R. Banta, M. C. Hill, and M. G. McDonald, MODFLOW-2000, the U.S. Geological Survey Modular Ground-Water Model - User Guide to Modularization Concepts and the Ground Water Flow Process. U.S. Geological Survey Open-File Report 00-92, 121, 2000.",
+      "5. J. L. Martin and S. C. McCutcheon, Hydrodynamics and Transport for Water Quality Modeling, Boca Raton, FL: CRC Press, 2018.",
+      "6. L. Rossman, EPANET User's Manual, Cincinnati, Ohio: U.S. Environmental Protection Agency, Center for Environmental Research Information, 1994.",
+      "7. C. Zheng and G. D. Bennett, Applied Contaminant Transport Modeling, 2nd ed. New York: John Wiley & Sons, 2002.",
+      "8. C. Zheng and P. P. Wang, MT3DMS: A Modular Three-dimensional Multispecies Transport Model for Simulation of Advection, Dispersion, and Chemical Reactions of Contaminants in Ground-Water Systems. Documentation and User's Guide, Jacksonville, Fla., U.S. Army Corps of Engineers Contract Report SERDP-99-1, 1999."
+    ]
+  }
+]
