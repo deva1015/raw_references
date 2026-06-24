@@ -1,0 +1,19 @@
+{
+  "summary": {
+    "total_courses": 81,
+    "total_references": 323,
+    "courses_with_references": 79,
+    "courses_without_references": 2,
+    "coverage_percent": 97.53
+  },
+  "courses_without_references": [
+    {
+      "course_id": "CS3099E",
+      "course_title": "PROJECT"
+    },
+    {
+      "course_id": "CS4097E",
+      "course_title": "SUMMER INTERNSHIP"
+    }
+  ]
+}

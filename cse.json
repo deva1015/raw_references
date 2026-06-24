@@ -33,19 +33,6 @@
     ]
   },
   {
-    "course_id": "MS1001E",
-    "course_title": "PROFESSIONAL COMMUNICATION",
-    "raw_references": [
-      "1. Bhatnagar, N. and Bhatnagar, M.,Communicative English for engineers and professionals, Dorling Kindersley, 2010.",
-      "2. Foley, M. and Hall, D.,Longman advanced learners' grammar: A self-study reference & practice book with answers, Pearson Education, 2018.",
-      "3. Garner, B. A.,HBR Guide to better business writing: Engage readers, tighten and Brighten, make your case, Harvard Business Review Press, 2012.",
-      "4. Hewings, M.,Advanced grammar in use: A reference and practice book for Advanced learners of English. Cambridge University Press, 2013.",
-      "5. Ibbotson, M., CambridgeEnglish for Engineering. Cambridge University Press, 2015.",
-      "6. Kumar, S. and Lata, P.,Communication Skills. Oxford University Press, 2015.",
-      "7. Sudarshana, N. and Savitha, C.,English for Technical Communication. Cambridge English, 2016."
-    ]
-  },
-  {
     "course_id": "CS1001E",
     "course_title": "COMPUTER PROGRAMMING",
     "raw_references": [
@@ -345,16 +332,6 @@
     "raw_references": [
       "1. Michael Huth, and Mark Ryan,Logic in Computer Science: Modelling and Reasoning about Systems, 2nd ed. Cambridge University Press, 2004.",
       "2. Christel Baier and Joost-Pieter Katoen,Principles of Model Checking,MIT Press, 2008."
-    ]
-  },
-  {
-    "course_id": "CS4026E",
-    "course_title": "VEHICULAR NETWORKS: THEORY TO PRACTICE ",
-    "raw_references": [
-      "1. H. Hartenstein and K. P. Laberteaux,VANET: Vehicular Applications and InterNetworking Technologies, Wiley, 2010.",
-      "2. P. H.-J. Chong, I. W.-H. Ho,Vehicular Networks: Applications, Performance Analysis and Challenges,Nova Science Publishers, 2019.",
-      "3. H. Moustafa, Y. Zhang,Vehicular Networks: Techniques, Standards, and Applications,CRC Press, 2009.",
-      "4. C. Sommer, F. Dressler,Vehicular Networking,Cambridge University Press, 2015."
     ]
   },
   {
@@ -783,8 +760,8 @@
     ]
   },
   {
-    "course_id": "CS4101E",
-    "course_title": "DEEP LEARNING: ALGORITHMS AND ARCHITECTURES",
+    "course_id": "CS4099E",
+    "course_title": "PROJECT",
     "raw_references": [
       "1. Y. Bengio, I. Goodfellow and A. Courville,Deep Learning, MIT Press, 2016.",
       "2. Nielsen, Michael A.Neural networks and deep learning.Vol. 25. San Francisco, CA, USA: Determination press, 2015.",
@@ -803,27 +780,6 @@
       "3. Bishop, C., M.,Pattern Recognition and Machine Learning, Springer , 2006.",
       "4. S. J. Russell, P. Norvig,Artificial Intelligence: A modern approach, 4 th ed.,Pearson, 2016.",
       "5. D. Foster,Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play, O'Reilly Media, 2019."
-      
-    ]
-  },
-  {
-    "course_id": "CS4201E",
-    "course_title": "CYBER-PHYSICAL SYSTEMS: MODELLING AND SIMULATION",
-    "raw_references": [
-      "1. R. Alur,Principles of Cyber Physical Systems, MIT Press, 2015.",
-      "2. R. Rajkumar, D. de Niz, M. Klein,Cyber-Physical Systems, Pearson Education, 2017.",
-      "3. W.M. Taha, A.M. Taha, J. Thunberg,Cyber-Physical Systems: A Model-Based Approach, Springer-Cham, 2020."
-      
-    ]
-  },
-  {
-    "course_id": "CS4202E",
-    "course_title": "FOUNDATIONS OF IoT AND M2M COMMUNICATIONS",
-    "raw_references": [
-      "1. Kurose J. F.\tand K. W. Ross,Computer Networking: A Top-Down Approach Featuring Internet, Pearson Education, 2017.",
-      "2. Holler, J., Vlasios T., Catherine M., Stamatis Karnouskos, Stefan A, David B.,From Machine-to-Machine to the Internet of Things - Introduction to a New Age of Intelligence, Elsevier Ltd., 2014.",
-      "3. Peterson L.L. and Davie B.S.,Computer Networks, A systems approach, Harcourt Asia, 2021.",
-      "4. Adrian Farrel,The Internet and its Protocols: A Comparative Approach, Elsevier, 2005."
     ]
   }
 ]
